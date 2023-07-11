@@ -45,9 +45,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'phenopacket store'
+project = u'maxo-annotations'
 copyright = u'2023'
-author = u'Peter Robinson'
+author = u'Leigh Carmody, Michael Gargano, Peter Robinson'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -95,7 +95,7 @@ html_theme = "sphinx_rtd_theme"
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 #html_style = 'css/isopret.css'
-html_css_files = ['c2cs.css']
+html_css_files = ['style.css']
 
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.
@@ -116,7 +116,7 @@ html_sidebars = {
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'c2cs-clin'
+htmlhelp_basename = 'maxo-annotations'
 
 
 # -

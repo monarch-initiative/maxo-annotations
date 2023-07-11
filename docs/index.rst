@@ -36,8 +36,10 @@ the `POET <https://poet.jax.org/>`_ tool.
     :maxdepth: 1
 
     poet
+    introduction
     structure
     relations
+    adding
     
 
  

@@ -1,0 +1,4 @@
+.vscode/
+docs/_static/.github/
+docs/build/
+docs/venv/

@@ -1,0 +1,6 @@
+Relation,Definition
+treats,The medical action can be used to treat the phenotypic feature indicated by the HPO term in persons with the indicated disease
+prevents,The medical action can be used to prevent the phenotypic feature indicated by the HPO term in persons with the indicated disease
+investigates,The medical action can be used to investigate the phenotypic feature indicated by the HPO term in persons with the indicated disease
+contraindicated,The medical action should not be used because it may be harmful to persons with the indicated disease
+lack of observed response,The medical action was applied to persons with the indicated disease without a positive or negative response being observed
