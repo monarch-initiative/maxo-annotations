@@ -23,8 +23,17 @@ The two MAxO entries listed in Table 2 are linked to the specific CMS subtypes i
 can thus indicate the precise diseases for which fluoxetine is an appropriate treatment (example 1) and in 
 which it should be avoided, i.e., the treatment is contraindicated. 
 
-.. csv-table:: Table Title
-   :file: docs/_static/example.csv
-   :widths: 30, 70, 70
+
+
+.. csv-table:: MAxO Annotation Example
+   :file: _static/example.csv
+   :widths: 20, 40, 40
    :header-rows: 1
+   :class: tight-table   
+
+
+Note that the ontology extension field is mainly needed for pharmaceutical annotations. MAxO contains 
+terms for medication categories (e.g., beta blocker) and not for specific medications (e.g. propranolol), 
+and if the specific mediciation is relevant for an annotation, the extension field can be used. POET supports 
+annotation with  `ChEBI <https://www.ebi.ac.uk/ols4/ontologies/chebi>`_ terms.
 
