@@ -1,0 +1,14 @@
+Field,Example 1 (treatment),Example 2 (treatment contraindicated)
+Disease ID,MONDO:0011600,MONDO:0014586
+Disease Name,congenital myasthenic syndrome 4A,congenital myasthenic syndrome 4B
+MAxO ID,MAXO:0000214,MAXO:0000214
+MAxO label,serotonin-norepinephrine reuptake inhibitor agent therapy,serotonin-norepinephrine reuptake inhibitor agent therapy
+Relation,treats,contraindicated
+HPO id,HP:0003473,HP:0003473
+HPO label,Fatigable muscle weakness,Fatigable muscle weakness
+Evidence code,ECO:0006016 (author statement from published clinical study),ECO:0006016 (author statement from published clinical study)
+Extension id,CHEBI:5118,CHEBI:5118
+Extension label,fluoxetine,fluoxetine
+Source,PMID:29395675,PMID:29367459
+Curated by,orcid:0000-0002-9353-5498,orcid:0000-0002-6889-0121
+Comment,Fluoxetine is a serotonin-norepinephrine reuptake inhibitor that also has been found to decrease channel-opening duration and in this study is used off-label for patients with slow-channel CMS. ,Fluoxetine use in patients with fast-channel CMS, in whom channel-opening duration is already too short, causes worsening of symptoms. 

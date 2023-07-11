@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>POET &mdash; phenopacket store 0.1 documentation</title>
+      <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+      <link rel="stylesheet" href="_static/c2cs.css" type="text/css" />
+  <!--[if lt IE 9]>
+    <script src="_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script src="_static/jquery.js"></script>
+        <script src="_static/_sphinx_javascript_frameworks_compat.js"></script>
+        <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+        <script src="_static/doctools.js"></script>
+        <script src="_static/sphinx_highlight.js"></script>
+    <script src="_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Structure of a MAxO Annotation" href="structure.html" />
+    <link rel="prev" title="MAxO Annotations" href="index.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="index.html" class="icon icon-home">
+            phenopacket store
+          </a>
+              <div class="version">
+                0.1
+              </div>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">contents</span></p>
+<ul class="current">
+<li class="toctree-l1 current"><a class="current reference internal" href="#">POET</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#registration">Registration</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#orcid">ORCID</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="structure.html">Structure of a MAxO Annotation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="relations.html">MAxO Relations</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">phenopacket store</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="index.html" class="icon icon-home" aria-label="Home"></a></li>
+      <li class="breadcrumb-item active">POET</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="_sources/poet.rst.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="poet">
+<span id="id1"></span><h1>POET<a class="headerlink" href="#poet" title="Permalink to this heading"></a></h1>
+<p><a class="reference external" href="https://poet.jax.org/">POET (Phenotype Ontology Engineering Tool)</a> is a web-based application that is designed
+to generate data for disease and associated ontologies. POET is built with Spring Boot,
+Auth0, and Angular and provides a concise interface for quickly and securely annotating phenotypes to
+rare diseases using MAxO terms.
+All annotations are downloaded from the currrent ontology releases,</p>
+<section id="registration">
+<h2>Registration<a class="headerlink" href="#registration" title="Permalink to this heading"></a></h2>
+<p>To register for an account, go to the POET homepage at <a class="reference external" href="https://poet.jax.org/">https://poet.jax.org/</a>.</p>
+<figure class="align-center">
+<a class="reference internal image-reference" href="_images/poet-start1.png"><img alt="POET - homepage" src="_images/poet-start1.png" style="width: 694.5px; height: 336.0px;" /></a>
+</figure>
+<p>Now click the <code class="docutils literal notranslate"><span class="pre">login</span></code> button at the top right. A login dialog will appear. To create an account, click on the</p>
+<figure class="align-center">
+<a class="reference internal image-reference" href="_images/poet-start2.png"><img alt="POET - login" src="_images/poet-start2.png" style="width: 241.2px; height: 327.0px;" /></a>
+</figure>
+<p>Enter your email address and a password. Once you have logged into the system, use the pull-down menu on the upper
+right to open your profile. You will need to enter your ORCID id before working on annotations.</p>
+<figure class="align-center">
+<a class="reference internal image-reference" href="_images/poet-start3.png"><img alt="POET - ORCID" src="_images/poet-start3.png" style="width: 178.79999999999998px; height: 265.8px;" /></a>
+</figure>
+</section>
+<section id="orcid">
+<h2>ORCID<a class="headerlink" href="#orcid" title="Permalink to this heading"></a></h2>
+<p><a class="reference external" href="https://orcid.org/">ORCID</a> provides a persistent digital identifier (an ORCID iD) for researchers.
+We will use your ORCID id to keep track of your contributions (microattributions).</p>
+<p>Here is an example ORCID record: <a class="reference external" href="https://orcid.org/0000-0003-1453-1171">https://orcid.org/0000-0003-1453-1171</a>. To enter
+the corresponding ORCID ID, enter 0000-0003-1453-1171 in POET.</p>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="index.html" class="btn btn-neutral float-left" title="MAxO Annotations" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="structure.html" class="btn btn-neutral float-right" title="Structure of a MAxO Annotation" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2023.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

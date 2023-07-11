@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Structure of a MAxO Annotation &mdash; phenopacket store 0.1 documentation</title>
+      <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+      <link rel="stylesheet" href="_static/c2cs.css" type="text/css" />
+  <!--[if lt IE 9]>
+    <script src="_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script src="_static/jquery.js"></script>
+        <script src="_static/_sphinx_javascript_frameworks_compat.js"></script>
+        <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+        <script src="_static/doctools.js"></script>
+        <script src="_static/sphinx_highlight.js"></script>
+    <script src="_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="MAxO Relations" href="relations.html" />
+    <link rel="prev" title="POET" href="poet.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="index.html" class="icon icon-home">
+            phenopacket store
+          </a>
+              <div class="version">
+                0.1
+              </div>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">contents</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="poet.html">POET</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Structure of a MAxO Annotation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="relations.html">MAxO Relations</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">phenopacket store</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="index.html" class="icon icon-home" aria-label="Home"></a></li>
+      <li class="breadcrumb-item active">Structure of a MAxO Annotation</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="_sources/structure.rst.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="structure-of-a-maxo-annotation">
+<span id="maxo-structure"></span><h1>Structure of a MAxO Annotation<a class="headerlink" href="#structure-of-a-maxo-annotation" title="Permalink to this heading"></a></h1>
+<p>The MAxO annotation model includes disease ID and label using the <a class="reference external" href="https://www.ebi.ac.uk/ols4/ontologies/mondo">MONDO ontology</a>,
+the MAxO term id and label, and a <a class="reference external" href="https://hpo.jax.org/app/">Human Phenotype Ontology (HPO)</a>
+term that represents the target of the treatment. If the treatment targets the disease itself rather than specific
+manifestations of the disease, this is indicated by the symbol DISEASE.TREATMENT.
+Finally, two fields for an extension ID and label can be used to specify additional information about a treatment.
+For instance, in the example, the MAxO term serotonin-norepinephrine reuptake inhibitor agent therapy is further specified
+with the <a class="reference external" href="https://www.ebi.ac.uk/ols4/ontologies/chebi">ChEBI</a> term for fluoxetine, which is a specific type of
+serotonin-norepinephrine reuptake inhibitor. Lastly, an additional field is available for comments.
+In the example provided in Table 2, fluoxetine, a treatment commonly used for one type of congenital
+myasthenic syndrome (slow-channel congenital myasthenic syndrome, CMS 1A/2A/3A/4A), may worsen symptoms of
+fatigable weakness if administered to patients with a different type of congenital myasthenic syndrome
+caused by defects in the same gene, fast-channel CMS (CMS 1B/2B/4B).
+Fluoxetine is a common treatment for depression that may mistakenly be administered to patients affected
+by fast-channel CMS without understanding the need for its avoidance.
+The two MAxO entries listed in Table 2 are linked to the specific CMS subtypes involved and
+can thus indicate the precise diseases for which fluoxetine is an appropriate treatment (example 1) and in
+which it should be avoided, i.e., the treatment is contraindicated.</p>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="poet.html" class="btn btn-neutral float-left" title="POET" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="relations.html" class="btn btn-neutral float-right" title="MAxO Relations" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2023.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>
