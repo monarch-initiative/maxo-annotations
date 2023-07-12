@@ -8,7 +8,7 @@ The MAxO term's relation to the disease or disease manifestation is specified by
 
 .. csv-table:: MAxO Relations
    :file: _static/relations.csv
-   :widths: 25, 75
+   :widths: 50, 50
    :header-rows: 1
    :class: tight-table   
 

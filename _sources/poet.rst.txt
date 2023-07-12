@@ -5,7 +5,8 @@ POET
 ====
 
 
-`POET (Phenotype Ontology Engineering Tool) <https://poet.jax.org/>`_ is a web-based application that is designed 
+`POET (Phenotype Ontology Engineering Tool) <https://poet.jax.org/>`_ (Phenotype Ontology Engineering Tool) 
+is a web-based application that is designed 
 to generate data for disease and associated ontologies. POET is built with Spring Boot, 
 Auth0, and Angular and provides a concise interface for quickly and securely annotating phenotypes to 
 rare diseases using MAxO terms. 

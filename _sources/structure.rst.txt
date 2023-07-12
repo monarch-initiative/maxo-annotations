@@ -34,6 +34,6 @@ which it should be avoided, i.e., the treatment is contraindicated.
 
 Note that the ontology extension field is mainly needed for pharmaceutical annotations. MAxO contains 
 terms for medication categories (e.g., beta blocker) and not for specific medications (e.g. propranolol), 
-and if the specific mediciation is relevant for an annotation, the extension field can be used. POET supports 
+and if the specific medication is relevant for an annotation, the extension field can be used. POET supports 
 annotation with  `ChEBI <https://www.ebi.ac.uk/ols4/ontologies/chebi>`_ terms.
-
+ 
