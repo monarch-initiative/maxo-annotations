@@ -40,6 +40,7 @@ the `POET <https://poet.jax.org/>`_ tool.
     structure
     relations
     adding
+    guidelines
     team
     
 
