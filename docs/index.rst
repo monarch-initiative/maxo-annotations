@@ -35,11 +35,12 @@ the `POET <https://poet.jax.org/>`_ tool.
     :name: maxo annotations
     :maxdepth: 1
 
-    poet
     introduction
+    poet
     structure
     relations
     adding
+    team
     
 
  
