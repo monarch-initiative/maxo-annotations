@@ -1,0 +1,9 @@
+disease_id,disease_name,citation,maxo_id,maxo_label,hpo_id,maxo_relation,evidence_code,extension_id,extension_label,attribute,creator,last_update,created_on
+MONDO:0008854,Bardet-biedl Syndrome 1,PMID:20301537,MAXO:0000088,dietary intervention,HP:0000819,TREATS,TAS,,,,ORCID:0000-0001-7941-2961,2023-01-31,2022-01-06
+MONDO:0010156,Spastic Paraplegia 20, Autosomal Recessive,PMID:20301556,MAXO:0000324,skeletal muscle relaxant agent therapy,HP:0002061,TREATS,TAS,,,,ORCID:0000-0002-4142-7153,2022-06-28,2022-02-28
+MONDO:0016862,Alagille Syndrome 1,PMID:20301450,MAXO:0001175,liver transplantation,HP:0001399,TREATS,TAS,,,,ORCID:0000-0001-5208-3432,2022-05-10,2022-05-06
+MONDO:0010200,Wilson Disease,PMID:20301685,MAXO:0001224,copper chelator agent therapy,HP:0010838,TREATS,TAS,,,,ORCID:0000-0002-4142-7153,2022-06-28,2022-06-06
+MONDO:0009733,Nephrotic Syndrome, Type 4,PMID:32352694,MAXO:0000652,ACE inhibitor therapy,HP:0000097,TREATS,TAS,,,,ORCID:0000-0002-4142-7153,2023-02-11,2022-06-07
+MONDO:0008234,Multiple Endocrine Neoplasia, Type Iia,PMID:20301434,MAXO:0000429,external beam radiation therapy,HP:0002865,TREATS,TAS,,,,ORCID:0000-0001-5208-3432,2023-02-07,2022-06-30
+MONDO:0011399,Alpha-thalassemia,PMID:20301608,MAXO:0000747,hematopoietic stem cell transplantation,MONDO:0011399,TREATS,TAS,,,,ORCID:0000-0002-0736-9199,2022-11-06,2022-11-06
+MONDO:0010421,Agammaglobulinemia, X-linked,PMID:26909497,MAXO:0000061,antibacterial agent therapy,HP:0002090,PREVENTS,TAS,,,comment: "cotrimoxazole prophylaxis",ORCID:0000-0001-9969-9517,2023-03-16,2023-03-15

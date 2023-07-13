@@ -1,0 +1,8 @@
+hpo_id,hpo_label,predicate_id,maxo_id,maxo_label,creator_id
+HP:0020197,Increased circulating arachidonic acid concentration,is_observable_through,MAXO:0000787,blood chemistry measurement,ORCID:0000-0002-0736-9199
+HP:0003572,Low plasma citrulline,is_observable_through,MAXO:0000787,blood chemistry measurement,ORCID:0000-0002-0736-9199
+HP:0500221,Decreased CSF tyrosine concentration,is_observable_through,MAXO:0001169,cerebrospinal fluid specimen collection,ORCID:0000-0002-0736-9199
+HP:0032274,Increased CSF N-acetylaspartic acid concentration,is_observable_through,MAXO:0001169,cerebrospinal fluid specimen collection,ORCID:0000-0002-0736-9199
+HP:0010777,Bronchomegaly,is_observable_through,MAXO:0001183,bronchoscopy,ORCID:0000-0002-0736-9199
+HP:0100628,Esophageal diverticulum,is_observable_through,MAXO:0001200,esophagoscopy,ORCID:0000-0002-0736-9199
+HP:0030642,Fundus albipunctatus,is_observable_through,MAXO:0035004,fundoscopy,ORCID:0000-0002-0736-9199
