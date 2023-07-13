@@ -4,7 +4,8 @@
 MAxO Annotations
 ================
 
-This repository contains annotations for the
+The `maxo-annotations repository <https://github.com/monarch-initiative/maxo-annotations>`_
+contains annotations for the
 `Medical Action Ontology <https://github.com/monarch-initiative/MAxO>`_
 project. 
 
@@ -41,6 +42,8 @@ the `POET <https://poet.jax.org/>`_ tool.
     relations
     adding
     guidelines
+    format_diagnostic
+    format_annots
     team
     
 
