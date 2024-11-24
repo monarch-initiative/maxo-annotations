@@ -415,3 +415,541 @@ MONDO:0021056	Adenomatous Polyposis Coli	PMID:20301519	MAXO:0000635	anti-estroge
 MONDO:0021056	Adenomatous Polyposis Coli	PMID:20301519	MAXO:0000221	nonsteroidal anti-inflammatory agent therapy	HP:0100245	TREATS	TAS				ORCID:0000-0001-7941-2961	2023-07-08	2022-01-25
 MONDO:0011971	Immunodeficiency With Hyper-igm, Type 5	PMID:12958596	MAXO:0001480	immunoglobulin infusion therapy	HP:0004315	TREATS	TAS				ORCID:0000-0002-0736-9199	2023-07-11	2023-07-11
 MONDO:0100079	Epileptic Encephalopathy, Early Infantile, 6 (dravet Syndrome)	PMID:9596203	MAXO:0000208	sodium channel inhibitor therapy	HP:0032794	CONTRAINDICATED	TAS	CHEBI:6367	lamotrigine	comment: "Seizures can worsen on withdrawing lamotrigine."	ORCID:0000-0002-1735-8178	2023-07-12	2023-07-12
+MONDO:0011326	citrullinemia, type II, adult-onset	PMID:19260507	MAXO:0001175	liver transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0011326	citrullinemia, type II, adult-onset	PMID:17354380	MAXO:0001175	liver transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0011326	citrullinemia, type II, adult-onset	PMID:24182831	MAXO:0001175	liver transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0011326	citrullinemia, type II, adult-onset	PMID:21921468	MAXO:0000771	carbohydrate-restricted diet intake	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0011326	citrullinemia, type II, adult-onset	PMID:29651749	MAXO:0000771	carbohydrate-restricted diet intake	HP:0001987	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0011326	citrullinemia, type II, adult-onset	PMID:17228780	MAXO:0001175	liver transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0011326	citrullinemia, type II, adult-onset	PMID:19285691	MAXO:0001175	liver transplantation	HP:0001987	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0011326	citrullinemia, type II, adult-onset	PMID:31898207	MAXO:0010009	arginine supplementation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0011326	citrullinemia, type II, adult-onset	PMID:31898207	MAXO:0000771	carbohydrate-restricted diet intake	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0011326	citrullinemia, type II, adult-onset	PMID:20118603	MAXO:0010002	protein intake avoidance	HP:0002480	contraindicated	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0011326	citrullinemia, type II, adult-onset	PMID:27555199	MAXO:0000667	anesthesiology specialist evaluation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0011326	citrullinemia, type II, adult-onset	PMID:25283831	MAXO:0000771	carbohydrate-restricted diet intake	HP:0002480	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0011326	citrullinemia, type II, adult-onset	PMID:19285691	MAXO:0001175	liver transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0011326	citrullinemia, type II, adult-onset	PMID:21204812	MAXO:0001175	liver transplantation	HP:0000118	prevents	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0010200	Wilson disease	PMID:27915967	MAXO:0001175	liver transplantation	HP:0001260	unknown	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:28433106	MAXO:0001224	copper chelator agent therapy	HP:0000118	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:17285615	MAXO:0001175	liver transplantation	HP:0004448	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:23289267	MAXO:0001224	copper chelator agent therapy	HP:0001394	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:17461475	MAXO:0001175	liver transplantation	HP:0001399	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:32398357	MAXO:0001175	liver transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:20946468	MAXO:0001175	liver transplantation	HP:0004448	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:32291276	MAXO:0000259	insulin treatment	HP:0000819	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:36343759	MAXO:0009015	botulinum toxin therapy	HP:0031959	unknown	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:19066958	MAXO:0001224	copper chelator agent therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:28433104	MAXO:0001175	liver transplantation	HP:0000118	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:33369596	MAXO:0001224	copper chelator agent therapy	HP:0010839	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:15915361	MAXO:0001175	liver transplantation	HP:0001399	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:20958917	MAXO:0001224	copper chelator agent therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:30384011	MAXO:0001224	copper chelator agent therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:9544415	MAXO:0001175	liver transplantation	HP:0010837	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:27350316	MAXO:0000806	pregnancy education counseling	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:10604583	MAXO:0000602	hemodialysis	HP:0032254	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:30359967	MAXO:0001175	liver transplantation	HP:0006554	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:12760731	MAXO:0001224	copper chelator agent therapy	HP:0006554	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:33541028	MAXO:0001224	copper chelator agent therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:26720766	MAXO:0001224	copper chelator agent therapy	HP:0025321	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:35042319	MAXO:0001175	liver transplantation	HP:0001399	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:28987261	MAXO:0001224	copper chelator agent therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:22261259	MAXO:0009095	zinc therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:22720274	MAXO:0001224	copper chelator agent therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:32520831	MAXO:0001175	liver transplantation	HP:0001399	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:17382611	MAXO:0009095	zinc therapy	HP:0000118	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:24118554	MAXO:0001175	liver transplantation	HP:0001399	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:38695602	MAXO:0001224	copper chelator agent therapy	HP:0010839	unknown	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:29449431	MAXO:0001175	liver transplantation	HP:0001399	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:30357869	MAXO:0001224	copper chelator agent therapy	HP:0006554	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:10378366	MAXO:0001175	liver transplantation	HP:0004448	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:28260463	MAXO:0001175	liver transplantation	HP:0000118	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:32008504	MAXO:0001175	liver transplantation	HP:0001337	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:24166573	MAXO:0001224	copper chelator agent therapy	HP:0004373	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:20955957	MAXO:0001175	liver transplantation	HP:0001399	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:31878905	MAXO:0000806	pregnancy education counseling	HP:0000118	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:32745371	MAXO:0001224	copper chelator agent therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:23109455	MAXO:0001224	copper chelator agent therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:28433103	MAXO:0001175	liver transplantation	HP:0006554	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:16996405	MAXO:0001223	chelator agent therapy	HP:0000708	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:19595231	MAXO:0001175	liver transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:8723326	MAXO:0001224	copper chelator agent therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:31113589	MAXO:0001175	liver transplantation	HP:0004448	investigates	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:7878329	MAXO:0000640	corticosteroid agent therapy	HP:0100614	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:33541020	MAXO:0001175	liver transplantation	HP:0006554	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0010200	Wilson disease	PMID:15701295	MAXO:0009095	zinc therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0005130	celiac disease	PMID:23029696	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	prevents	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:24253051	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:35973187	MAXO:0010000	dietary gluten intake avoidance	HP:0001903	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:26606684	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:25379519	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	prevents	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:31688364	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	prevents	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:26060114	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	prevents	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:36839352	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:23383526	MAXO:0010000	dietary gluten intake avoidance	HP:0001903	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:36859658	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	prevents	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:36235823	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:30513876	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	prevents	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:30287732	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:26487487	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:22984893	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:32218420	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	prevents	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:30700359	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	prevents	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:32115289	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	prevents	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:23077880	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:31981420	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	prevents	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:21189704	MAXO:0010000	dietary gluten intake avoidance	HP:0001903	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:29057833	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:23083994	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:34464324	MAXO:0010000	dietary gluten intake avoidance	HP:0000938	prevents	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:28153477	MAXO:0010000	dietary gluten intake avoidance	HP:0001510	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:23877215	MAXO:0010000	dietary gluten intake avoidance	HP:0001903	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:30367395	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:32111387	MAXO:0010000	dietary gluten intake avoidance	HP:0003270	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:26186878	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	prevents	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:23906112	MAXO:0010000	dietary gluten intake avoidance	HP:0001903	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:27480555	MAXO:0010000	dietary gluten intake avoidance	HP:0003270	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:21880523	MAXO:0010000	dietary gluten intake avoidance	HP:0004349	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:31000461	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:27908520	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	prevents	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:22277809	MAXO:0010000	dietary gluten intake avoidance	HP:0004349	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:27598396	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	prevents	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:32686439	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:29529159	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	prevents	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:21621350	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	prevents	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:26186878	MAXO:0010000	dietary gluten intake avoidance	HP:0001508	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:27273303	MAXO:0010000	dietary gluten intake avoidance	HP:0001510	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:29258815	MAXO:0010000	dietary gluten intake avoidance	HP:0001903	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:23314669	MAXO:0010000	dietary gluten intake avoidance	HP:0001508	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:23632357	MAXO:0010000	dietary gluten intake avoidance	HP:0003270	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:30400639	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:30453686	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	prevents	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:36033766	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:25824916	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	prevents	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:34248079	MAXO:0010000	dietary gluten intake avoidance	HP:0002013	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:25379519	MAXO:0010000	dietary gluten intake avoidance	HP:0000938	prevents	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:28514243	MAXO:0010000	dietary gluten intake avoidance	HP:0003270	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:37962594	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:28514243	MAXO:0010000	dietary gluten intake avoidance	HP:0002013	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:23996798	MAXO:0010000	dietary gluten intake avoidance	HP:0001903	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:29561985	MAXO:0010000	dietary gluten intake avoidance	HP:0001903	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:38674808	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	prevents	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:21601206	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	prevents	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:24445753	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	prevents	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:31915797	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:34495279	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	prevents	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:33897715	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:34510390	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:33462461	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:32097370	MAXO:0010000	dietary gluten intake avoidance	HP:0001903	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:31094177	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:29113007	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0005130	celiac disease	PMID:21157327	MAXO:0010000	dietary gluten intake avoidance	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0018997	Noonan syndrome	PMID:38309657	MAXO:0000024	surgical procedure on the eye	HP:0000656	treats	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:29092974	MAXO:0009074	breast augmentation surgery	HP:0003187	treats	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:12679651	MAXO:0000014	radiation therapy	HP:0500092	treats	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:1456257	MAXO:0000640	corticosteroid agent therapy	HP:0010310	treats	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:16078230	MAXO:0000646	cancer chemotherapy	HP:0003006	treats	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:35810017	MAXO:0010043	whole kidney transplantation	HP:0000083	treats	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:20306897	MAXO:0025001	surgical procedure on cardiovascular system	HP:0001631	treats	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:27565148	MAXO:0000944	cranial electrical stimulation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:34446079	MAXO:0000004	surgical procedure	HP:0001631	treats	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:15889278	MAXO:0000165	diuretic agent therapy	HP:0001635	treats	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:12147971	MAXO:0025001	surgical procedure on cardiovascular system	HP:0001631	treats	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:28330516	MAXO:0025001	surgical procedure on cardiovascular system	HP:0001642	treats	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:10668781	MAXO:0000011	physical therapy	HP:0031058	treats	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:7500608	MAXO:0001514	surgical procedure on respiratory system	HP:0010310	treats	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:10668781	MAXO:0000011	physical therapy	HP:0003546	treats	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:17028394	MAXO:0000780	human growth hormone replacement therapy	HP:0004322	treats	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:10206464	MAXO:0000646	cancer chemotherapy	HP:0006721	treats	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:8992869	MAXO:0025001	surgical procedure on cardiovascular system	HP:0005164	treats	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:16636503	MAXO:0025001	surgical procedure on cardiovascular system	HP:0001684	treats	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:30576779	MAXO:0001280	surgical repair of pulmonary valve	HP:0001639	treats	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:12679651	MAXO:0000646	cancer chemotherapy	HP:0500092	treats	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:25894171	MAXO:0010043	whole kidney transplantation	HP:0000083	treats	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:11316696	MAXO:0000780	human growth hormone replacement therapy	HP:0004322	treats	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:25480460	MAXO:0001514	surgical procedure on respiratory system	HP:0010310	treats	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:34363648	MAXO:0000646	cancer chemotherapy	HP:0100764	treats	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:19927903	MAXO:0001514	surgical procedure on respiratory system	HP:0025677	treats	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:29109363	MAXO:0000780	human growth hormone replacement therapy	HP:0004322	treats	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:30382642	MAXO:0000058	pharmacotherapy	HP:0002615	treats	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:2485602	MAXO:0000780	human growth hormone replacement therapy	HP:0004322	treats	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:28192847	MAXO:0000884	behavioral dietary intervention	HP:0002578	treats	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:15889278	MAXO:0000187	beta-adrenergic antagonist therapy	HP:0032092	treats	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0018954	Loeys-Dietz syndrome	PMID:27487644	MAXO:0000667	anesthesiology specialist evaluation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:24399673	MAXO:0025001	surgical procedure on cardiovascular system	HP:6000144	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:32164578	MAXO:0001346	gastrostomy	HP:0001508	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:21992158	MAXO:0000945	spinal cord stimulation	HP:0100749	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:35095068	MAXO:0001281	surgical repair of aorta	HP:0012727	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:24395868	MAXO:0001515	surgical procedure on vascular system	HP:0002138	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:24045763	MAXO:0000646	cancer chemotherapy	HP:0012182	prevents	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:30513314	MAXO:0010032	cardiac transplantation	HP:0001635	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:27780078	MAXO:0000702	obstetrics and gynecology specialist evaluation	HP:0002647	prevents	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:28604473	MAXO:0000667	anesthesiology specialist evaluation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:21801912	MAXO:0001281	surgical repair of aorta	HP:0002616	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:25323276	MAXO:0001515	surgical procedure on vascular system	HP:0004944	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:28304197	MAXO:0001515	surgical procedure on vascular system	HP:0004947	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:29350591	MAXO:0001515	surgical procedure on vascular system	HP:0004944	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:24431245	MAXO:0001515	surgical procedure on vascular system	HP:0002138	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:31842932	MAXO:0035065	dentist evaluation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:23350955	MAXO:0001515	surgical procedure on vascular system	HP:0030745	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:29889773	MAXO:0000479	orthopedic surgery	HP:0003302	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:25203753	MAXO:0000667	anesthesiology specialist evaluation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:24239520	MAXO:0001515	surgical procedure on vascular system	HP:0031252	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0015263	Brugada syndrome	PMID:34751355	MAXO:0000474	implantable cardioverter-defibrillator placement	HP:0001699	prevents	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0015263	Brugada syndrome	PMID:34182174	MAXO:0000452	ablation therapy	HP:0001663	prevents	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0015263	Brugada syndrome	PMID:34446272	MAXO:0000452	ablation therapy	HP:0004756	prevents	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0015263	Brugada syndrome	PMID:34152392	MAXO:0000452	ablation therapy	HP:0005110	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0015263	Brugada syndrome	PMID:36960730	MAXO:0000452	ablation therapy	HP:0001663	prevents	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0015263	Brugada syndrome	PMID:36396185	MAXO:0000452	ablation therapy	HP:0001663	prevents	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0015263	Brugada syndrome	PMID:34152392	MAXO:0000452	ablation therapy	HP:0004308	prevents	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0015263	Brugada syndrome	PMID:36396185	MAXO:0000474	implantable cardioverter-defibrillator placement	HP:0001663	prevents	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0015263	Brugada syndrome	PMID:34387130	MAXO:0000474	implantable cardioverter-defibrillator placement	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0015263	Brugada syndrome	PMID:34444641	MAXO:0000884	behavioral dietary intervention	HP:0000118	prevents	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0011382	sickle cell anemia	PMID:28853040	MAXO:0000457	pain management	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:28249145	MAXO:0001001	gene therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:29668544	MAXO:0000756	blood transfusion	HP:0001297	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:30095751	MAXO:0000802	avoid excessive exercise	HP:0030058	contraindicated	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:28257476	MAXO:0001225	iron chelator agent therapy	HP:6000663	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:31026251	MAXO:0000756	blood transfusion	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:28612714	MAXO:0001001	gene therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:28673501	MAXO:0001225	iron chelator agent therapy	HP:6000663	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:33836889	MAXO:0010030	bone marrow transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:28870775	MAXO:0000747	hematopoietic stem cell transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:33560399	MAXO:0000747	hematopoietic stem cell transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:30643938	MAXO:0000515	extracorporeal membrane oxygenation	HP:0012531	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:29377071	MAXO:0000756	blood transfusion	HP:0001297	unknown	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:28094851	MAXO:0000756	blood transfusion	HP:0001297	unknown	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:30324698	MAXO:0000756	blood transfusion	HP:0001297	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:28500860	MAXO:0000756	blood transfusion	HP:0025722	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:28295188	MAXO:0001223	chelator agent therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:31990652	MAXO:0001001	gene therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32034776	MAXO:0001001	gene therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32790687	MAXO:0010043	whole kidney transplantation	HP:0003774	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:34889383	MAXO:0001118	hypotension prevention recommendation	HP:0000118	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:35302009	MAXO:0001001	gene therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:35385685	MAXO:0001001	gene therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:37488061	MAXO:0000646	cancer chemotherapy	HP:0006775	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32255722	MAXO:0000457	pain management	HP:0012531	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:28877587	MAXO:0001001	gene therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:33711512	MAXO:0000457	pain management	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32716555	MAXO:0000756	blood transfusion	HP:0001903	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:38285418	MAXO:0000952	hydration therapy	HP:0200023	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:38693059	MAXO:0000756	blood transfusion	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32202252	MAXO:0010030	bone marrow transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:30893088	MAXO:0000457	pain management	HP:0012531	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:35894560	MAXO:0001001	gene therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32507420	MAXO:0000457	pain management	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:38205646	MAXO:0000747	hematopoietic stem cell transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32202251	MAXO:0000747	hematopoietic stem cell transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:34101983	MAXO:0000955	bi-level positive airway pressure ventilation	HP:0000118	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:37248824	MAXO:0000457	pain management	HP:0012531	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:33373554	MAXO:0000457	pain management	HP:0012531	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:33541761	MAXO:0001001	gene therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:36346425	MAXO:0001001	gene therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:34847228	MAXO:0001223	chelator agent therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:31628051	MAXO:0001001	gene therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:37939876	MAXO:0000747	hematopoietic stem cell transplantation	HP:0001297	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:29313508	MAXO:0000756	blood transfusion	HP:0001297	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:38289232	MAXO:0001001	gene therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:36866433	MAXO:0001483	complement 5 inhibitor therapy	HP:0001878	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:36516084	MAXO:0000747	hematopoietic stem cell transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:31742587	MAXO:0000065	aerobic exercise therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:36354234	MAXO:0001017	vaccination	HP:0000118	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:30951023	MAXO:0000756	blood transfusion	HP:0100749	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:28541013	MAXO:0001001	gene therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:31942751	MAXO:0000756	blood transfusion	HP:0100749	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:30616959	MAXO:0000756	blood transfusion	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:35072359	MAXO:0000515	extracorporeal membrane oxygenation	HP:0012531	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:31742673	MAXO:0000457	pain management	HP:0012531	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:34232977	MAXO:0001001	gene therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:28802541	MAXO:0000194	opioid analgesic agent therapy	HP:0012531	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:29377292	MAXO:0000756	blood transfusion	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32885834	MAXO:0000457	pain management	HP:0012531	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:36775794	MAXO:0000083	acupuncture therapy	HP:0012531	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:36170507	MAXO:0001001	gene therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:31595633	MAXO:0010030	bone marrow transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32147028	MAXO:0000083	acupuncture therapy	HP:0012531	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:34234298	MAXO:0000747	hematopoietic stem cell transplantation	HP:0002500	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:36994864	MAXO:0000087	massage therapy	HP:0012531	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32705357	MAXO:0000457	pain management	HP:6000040	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:33583735	MAXO:0001175	liver transplantation	HP:0001399	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:35724398	MAXO:0001017	vaccination	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32469414	MAXO:0010030	bone marrow transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32892842	MAXO:0001001	gene therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:36400544	MAXO:0001001	gene therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:33749705	MAXO:0001001	gene therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:38285418	MAXO:0001507	surgical procedure on genitourinary system	HP:0200023	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:33390216	MAXO:0000457	pain management	HP:0012531	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:37184905	MAXO:0000083	acupuncture therapy	HP:0012531	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:33176303	MAXO:0000756	blood transfusion	HP:0100749	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:34080441	MAXO:0000083	acupuncture therapy	HP:0012531	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:31803937	MAXO:0000011	physical therapy	HP:0010885	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:31780850	MAXO:0001001	gene therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:38302294	MAXO:0000457	pain management	HP:0012531	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32305060	MAXO:0000756	blood transfusion	HP:0001297	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:30300449	MAXO:0001225	iron chelator agent therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:29556958	MAXO:0000178	anticoagulant agent therapy	HP:0004831	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:28821470	MAXO:0000756	blood transfusion	HP:0001297	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:31413089	MAXO:0001001	gene therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:34607344	MAXO:0000756	blood transfusion	HP:0025722	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:34889383	MAXO:0000045	dehydration prevention recommendation	HP:0000118	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:28538131	MAXO:0001001	gene therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:30667500	MAXO:0000756	blood transfusion	HP:0001297	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32681734	MAXO:0000065	aerobic exercise therapy	HP:0003546	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:33494879	MAXO:0000747	hematopoietic stem cell transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:38161155	MAXO:0000952	hydration therapy	HP:0012531	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:30941859	MAXO:0000756	blood transfusion	HP:0001297	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:33836866	MAXO:0000747	hematopoietic stem cell transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32878859	MAXO:0000066	supplemental oxygen therapy	HP:0012418	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32817291	MAXO:0001001	gene therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:31014083	MAXO:0000061	antibacterial agent therapy	HP:0002090	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:29977264	MAXO:0000065	aerobic exercise therapy	HP:0000118	unknown	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32259777	MAXO:0000457	pain management	HP:0012531	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:33128443	MAXO:0000061	antibacterial agent therapy	HP:0002754	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:33836978	MAXO:0001175	liver transplantation	HP:0001399	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:33674866	MAXO:0000457	pain management	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:31045749	MAXO:0000883	cognitive behavior therapy	HP:0012531	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32516073	MAXO:0001514	surgical procedure on respiratory system	HP:0200023	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:30153113	MAXO:0000279	glucocorticoids/ mineralocorticoids therapy	HP:0012531	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32367470	MAXO:0000457	pain management	HP:0012531	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:28748876	MAXO:0010043	whole kidney transplantation	HP:0003774	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:30893088	MAXO:0000457	pain management	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:33128440	MAXO:0000747	hematopoietic stem cell transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:28094851	MAXO:0000756	blood transfusion	HP:0001903	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:35260809	MAXO:0001512	surgical procedure on reproductive system	HP:0200023	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:36996737	MAXO:0000087	massage therapy	HP:0012531	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32039737	MAXO:0000457	pain management	HP:0012531	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:28159390	MAXO:0001001	gene therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:28544309	MAXO:0001223	chelator agent therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:31860969	MAXO:0000756	blood transfusion	HP:0001903	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0007947	Marfan syndrome	PMID:27343792	MAXO:0000667	anesthesiology specialist evaluation	HP:0000118	prevents	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:31129614	MAXO:0000702	obstetrics and gynecology specialist evaluation	HP:0000118	prevents	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:31513900	MAXO:0001059	iridectomy	HP:0012634	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:29631308	MAXO:0000482	orthotic device usage	HP:0001763	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:31194238	MAXO:0000024	surgical procedure on the eye	HP:0001083	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:32423364	MAXO:0001297	surgical repair of cardiovascular system	HP:0002616	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:31546497	MAXO:0001085	vitrectomy	HP:0001083	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:25974974	MAXO:0009043	cataract extraction with intraocular lens insertion	HP:0001132	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:30287287	MAXO:0001297	surgical repair of cardiovascular system	HP:0002616	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:35275761	MAXO:0000512	continuous positive airway pressure ventilation	HP:0002870	prevents	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:33301243	MAXO:0001297	surgical repair of cardiovascular system	HP:0002616	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:31530070	MAXO:0001297	surgical repair of cardiovascular system	HP:0001653	prevents	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:28606654	MAXO:0000702	obstetrics and gynecology specialist evaluation	HP:0000118	prevents	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:25935877	MAXO:0000653	angiotensin receptor blocker therapy	HP:0002616	prevents	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:31981144	MAXO:0000479	orthopedic surgery	HP:0002650	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:27898546	MAXO:0000702	obstetrics and gynecology specialist evaluation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:30207113	MAXO:0001297	surgical repair of cardiovascular system	HP:0002616	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:31546497	MAXO:0000024	surgical procedure on the eye	HP:0001083	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:25520047	MAXO:0001297	surgical repair of cardiovascular system	HP:0002647	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:33078267	MAXO:0000479	orthopedic surgery	HP:0002650	prevents	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:31003918	MAXO:0000653	angiotensin receptor blocker therapy	HP:0002616	prevents	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:28327138	MAXO:0000477	orthopedic procedure	HP:0002650	prevents	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:27483660	MAXO:0000667	anesthesiology specialist evaluation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:37890177	MAXO:0000004	surgical procedure	HP:0025643	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:31478365	MAXO:0000004	surgical procedure	HP:0012281	prevents	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:25216402	MAXO:0000004	surgical procedure	HP:0025643	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:26296785	MAXO:0000024	surgical procedure on the eye	HP:0030961	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:31003918	MAXO:0000187	beta-adrenergic antagonist therapy	HP:0002616	prevents	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:28838101	MAXO:0001297	surgical repair of cardiovascular system	HP:0004933	prevents	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:31194238	MAXO:0001085	vitrectomy	HP:0012230	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:25662437	MAXO:0001297	surgical repair of cardiovascular system	HP:0002616	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:35152942	MAXO:0000512	continuous positive airway pressure ventilation	HP:0002870	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:25085319	MAXO:0001297	surgical repair of cardiovascular system	HP:0004933	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:33370003	MAXO:0000479	orthopedic surgery	HP:0002650	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:32650901	MAXO:0001026	beta-adrenergic agonist therapy	HP:0002616	prevents	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:31836196	MAXO:0000653	angiotensin receptor blocker therapy	HP:0002616	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:36998208	MAXO:0001297	surgical repair of cardiovascular system	HP:0001655	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:27825688	MAXO:0000702	obstetrics and gynecology specialist evaluation	HP:0004933	prevents	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:32079842	MAXO:0000024	surgical procedure on the eye	HP:0030961	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:30369143	MAXO:0001293	hand reconstructive plastic surgery	HP:0001166	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:32650901	MAXO:0000653	angiotensin receptor blocker therapy	HP:0002616	prevents	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:29934004	MAXO:0001297	surgical repair of cardiovascular system	HP:0004933	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:38728516	MAXO:0000178	anticoagulant agent therapy	HP:0002140	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:26151074	MAXO:0000702	obstetrics and gynecology specialist evaluation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:33136789	MAXO:0001293	hand reconstructive plastic surgery	HP:0001159	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:32398550	MAXO:0000004	surgical procedure	HP:0001818	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:23702195	MAXO:0000486	distraction osteogenesis	HP:0002870	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:23702195	MAXO:0000486	distraction osteogenesis	HP:0006536	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:26398130	MAXO:0000500	airway management	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:25929771	MAXO:0000004	surgical procedure	HP:0010743	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:22901909	MAXO:0001183	bronchoscopy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:26674912	MAXO:0000004	surgical procedure	HP:0000453	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:34133757	MAXO:0000504	tracheostomy	HP:0005347	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:28906337	MAXO:0000486	distraction osteogenesis	HP:0010807	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:26365357	MAXO:0001293	hand reconstructive plastic surgery	HP:0001159	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:23170942	MAXO:0001293	hand reconstructive plastic surgery	HP:0001159	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:26674912	MAXO:0000004	surgical procedure	HP:0010536	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:21865115	MAXO:0000237	retinoid agent therapy	HP:0001061	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:31895846	MAXO:0001293	hand reconstructive plastic surgery	HP:0001159	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:28570459	MAXO:0000486	distraction osteogenesis	HP:0011800	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:22196295	MAXO:0001293	hand reconstructive plastic surgery	HP:0001159	prevents	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:29891270	MAXO:0001293	hand reconstructive plastic surgery	HP:0001159	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:24709088	MAXO:0000486	distraction osteogenesis	HP:0001363	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:28820838	MAXO:0001292	surgical plastic reconstruction of face	HP:0001363	unknown	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:34133757	MAXO:0001514	surgical procedure on respiratory system	HP:0005347	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:24820706	MAXO:0000500	airway management	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:25313108	MAXO:0009060	examination by ophthalmologist	HP:0000646	prevents	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:31137453	MAXO:0000667	anesthesiology specialist evaluation	HP:0002902	prevents	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007739	Huntington disease	PMID:25482256	MAXO:0001349	jejunostomy	HP:0004395	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:15883340	MAXO:0010008	creatine supplementation	HP:0000118	lack of observed response	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:27380342	MAXO:0000058	pharmacotherapy	HP:0002072	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:23108692	MAXO:0000313	antihistamine agent therapy	HP:0100543	lack of observed response	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:8866495	MAXO:0000166	antipsychotic agent therapy	HP:0000709	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:28947117	MAXO:0001351	occupational therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:28628549	MAXO:0000011	physical therapy	HP:0002359	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:24024832	MAXO:0000943	deep brain stimulation	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:18590443	MAXO:0000943	deep brain stimulation	HP:0002072	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:33852093	MAXO:0000090	enteral nutrition intake	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:24699718	MAXO:0000943	deep brain stimulation	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:24375941	MAXO:0000439	selective serotonin reuptake inhibitor therapy	HP:0033051	lack of observed response	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:35698434	MAXO:0000065	aerobic exercise therapy	HP:0001288	prevents	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:35698434	MAXO:0000065	aerobic exercise therapy	HP:0031058	prevents	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:26863152	MAXO:0000011	physical therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:29089255	MAXO:0000021	palliative care	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:18467429	MAXO:0000011	physical therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:21287753	MAXO:0000167	anticonvulsant agent therapy	HP:0000718	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:34291654	MAXO:0000021	palliative care	HP:0011951	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:31907286	MAXO:0000011	physical therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:153484	MAXO:0001131	pyridoxine supplementation	HP:0000118	lack of observed response	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:18394562	MAXO:0000160	antidepressant agent therapy	HP:0000716	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:34291654	MAXO:0000021	palliative care	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:21796039	MAXO:0000021	palliative care	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:34291654	MAXO:0000021	palliative care	HP:0000716	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:25482256	MAXO:0001346	gastrostomy	HP:0004395	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:156313	MAXO:0000228	antitubercular agent therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:28628549	MAXO:0000011	physical therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:28531758	MAXO:0000088	dietary intervention	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:25482256	MAXO:0000090	enteral nutrition intake	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:36429634	MAXO:0000065	aerobic exercise therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:35698434	MAXO:0000065	aerobic exercise therapy	HP:0003546	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:29383957	MAXO:0000058	pharmacotherapy	HP:0002072	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:25482256	MAXO:0000009	nutrition intervention	HP:0004395	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:21960468	MAXO:0000065	aerobic exercise therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:29143208	MAXO:0000021	palliative care	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:18394562	MAXO:0001337	GABA agonist agent therapy	HP:0100022	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:16340384	MAXO:0000167	anticonvulsant agent therapy	HP:0004305	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:36706436	MAXO:0000021	palliative care	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:27747393	MAXO:0000065	aerobic exercise therapy	HP:0000118	prevents	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:11176966	MAXO:0000930	speech therapy	HP:0001260	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:36513779	MAXO:0000883	cognitive behavior therapy	HP:0100543	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:28947114	MAXO:0000011	physical therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:31907286	MAXO:0000011	physical therapy	HP:0001288	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:28371942	MAXO:0000065	aerobic exercise therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:28947114	MAXO:0000065	aerobic exercise therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		7/20/24
+MONDO:0008963	Chediak-Higashi syndrome	PMID:16190108	MAXO:0001479	allogeneic hematopoietic stem cell transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0008963	Chediak-Higashi syndrome	PMID:27816481	MAXO:0010033	umbilical cord blood transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0008963	Chediak-Higashi syndrome	PMID:14528111	MAXO:0001479	allogeneic hematopoietic stem cell transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0008963	Chediak-Higashi syndrome	PMID:33093354	MAXO:0001479	allogeneic hematopoietic stem cell transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0008963	Chediak-Higashi syndrome	PMID:25609327	MAXO:0001479	allogeneic hematopoietic stem cell transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0008963	Chediak-Higashi syndrome	PMID:28355352	MAXO:0001479	allogeneic hematopoietic stem cell transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0008963	Chediak-Higashi syndrome	PMID:26511512	MAXO:0001479	allogeneic hematopoietic stem cell transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0008963	Chediak-Higashi syndrome	PMID:17637689	MAXO:0001479	allogeneic hematopoietic stem cell transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0008963	Chediak-Higashi syndrome	PMID:14599068	MAXO:0001479	allogeneic hematopoietic stem cell transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0008963	Chediak-Higashi syndrome	PMID:30778805	MAXO:0001479	allogeneic hematopoietic stem cell transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0008963	Chediak-Higashi syndrome	PMID:11509933	MAXO:0001479	allogeneic hematopoietic stem cell transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0008963	Chediak-Higashi syndrome	PMID:17293882	MAXO:0001479	allogeneic hematopoietic stem cell transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0008963	Chediak-Higashi syndrome	PMID:28219570	MAXO:0001265	partial lung transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0008963	Chediak-Higashi syndrome	PMID:15765164	MAXO:0001479	allogeneic hematopoietic stem cell transplantation	HP:0000118	prevents	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0008963	Chediak-Higashi syndrome	PMID:15790783	MAXO:0001479	allogeneic hematopoietic stem cell transplantation	HP:0000118	prevents	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0008963	Chediak-Higashi syndrome	PMID:15790783	MAXO:0001479	allogeneic hematopoietic stem cell transplantation	HP:0002719	prevents	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0008963	Chediak-Higashi syndrome	PMID:28762620	MAXO:0010033	umbilical cord blood transplantation	HP:0000118	prevents	PCS				0000-0002-0736-9199		2024-08-02
+MONDO:0007542	Camurati-Engelmann disease	PMID:23729546	MAXO:0000640	corticosteroid agent therapy	HP:0002653	treats	PCS				0000-0002-0736-9199		7/16/24
+MONDO:0007542	Camurati-Engelmann disease	PMID:11452173	MAXO:0000640	corticosteroid agent therapy	HP:0002653	treats	PCS				0000-0002-0736-9199		7/16/24
+MONDO:0007542	Camurati-Engelmann disease	PMID:10685567	MAXO:0009025	cochlear device implantation	HP:0000365	unknown	PCS				0000-0002-0736-9199		7/16/24
+MONDO:0007542	Camurati-Engelmann disease	PMID:19943817	MAXO:0000449	surgical extirpation	HP:0002653	treats	PCS				0000-0002-0736-9199		7/16/24
+MONDO:0007542	Camurati-Engelmann disease	PMID:28137547	MAXO:0000948	craniotomy	HP:0002516	treats	PCS				0000-0002-0736-9199		7/16/24
+MONDO:0007542	Camurati-Engelmann disease	PMID:15660289	MAXO:0000954	bisphosphonate agent therapy	HP:0002653	lack of observed response	PCS				0000-0002-0736-9199		7/16/24
+MONDO:0007542	Camurati-Engelmann disease	PMID:10685567	MAXO:0009025	cochlear device implantation	HP:0030038	treats	PCS				0000-0002-0736-9199		7/16/24
+MONDO:0007542	Camurati-Engelmann disease	PMID:19943817	MAXO:0010031	bone grafting	HP:0030038	treats	PCS				0000-0002-0736-9199		7/16/24
+MONDO:0007542	Camurati-Engelmann disease	PMID:23729546	MAXO:0000110	vitamin D supplementation	HP:0000118	treats	PCS				0000-0002-0736-9199		7/16/24
+MONDO:0007542	Camurati-Engelmann disease	PMID:11452173	MAXO:0000954	bisphosphonate agent therapy	HP:0002653	lack of observed response	PCS				0000-0002-0736-9199		7/16/24
+MONDO:0010079	Canavan disease	PMID:19685155	MAXO:0000058	pharmacotherapy	HP:0000118	unknown	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0010079	Canavan disease	PMID:16568890	MAXO:0001001	gene therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0010079	Canavan disease	PMID:12443821	MAXO:0000504	tracheostomy	HP:0002870	treats	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0010079	Canavan disease	PMID:12443821	MAXO:0000504	tracheostomy	HP:0002835	treats	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0010079	Canavan disease	PMID:23253610	MAXO:0001001	gene therapy	HP:0000118	unknown	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0010079	Canavan disease	PMID:11589315	MAXO:0000167	anticonvulsant agent therapy	HP:0001250	treats	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0010079	Canavan disease	PMID:10894210	MAXO:0001001	gene therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0010079	Canavan disease	PMID:16532510	MAXO:0001001	gene therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-20
+MONDO:0011628	propionic acidemia	PMID:30375139	MAXO:0001175	liver transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:36710110	MAXO:0010032	cardiac transplantation	HP:0001638	prevents	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:30879957	MAXO:0000623	nutrition counseling	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:35189944	MAXO:0001175	liver transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:33978500	MAXO:0000667	anesthesiology specialist evaluation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:29679984	MAXO:0000058	pharmacotherapy	HP:0001987	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:32270363	MAXO:0001175	liver transplantation	HP:0000118	prevents	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:31915802	MAXO:0000058	pharmacotherapy	HP:0008281	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:30080956	MAXO:0001175	liver transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:31978012	MAXO:0001175	liver transplantation	HP:0000118	prevents	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:33451859	MAXO:0010002	protein intake avoidance	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:31757659	MAXO:0001175	liver transplantation	HP:0000118	prevents	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:27283461	MAXO:0000515	extracorporeal membrane oxygenation	HP:0001987	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:25990417	MAXO:0001175	liver transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:33093405	MAXO:0001175	liver transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:35401508	MAXO:0001017	vaccination	HP:0000118	prevents	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:25683683	MAXO:0001175	liver transplantation	HP:0000118	prevents	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:31196016	MAXO:0000058	pharmacotherapy	HP:0001987	prevents	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:26881497	MAXO:0001175	liver transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:31715057	MAXO:0001175	liver transplantation	HP:0000118	prevents	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:28298669	MAXO:0000515	extracorporeal membrane oxygenation	HP:0001987	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:30242960	MAXO:0001175	liver transplantation	HP:0000118	prevents	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:29227296	MAXO:0000882	behavioral intervention	HP:0000742	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:16138673	MAXO:0009015	botulinum toxin therapy	HP:0000742	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:21940691	MAXO:0000943	deep brain stimulation	HP:0100716	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:21331772	MAXO:0000952	hydration therapy	HP:0000791	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:17853483	MAXO:0000943	deep brain stimulation	HP:0001332	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:32573906	MAXO:0000943	deep brain stimulation	HP:0001332	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:3839638	MAXO:0000667	anesthesiology specialist evaluation	HP:0000118	prevents	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:18520986	MAXO:0009015	botulinum toxin therapy	HP:0000742	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:17853483	MAXO:0000943	deep brain stimulation	HP:0100660	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:13677952	MAXO:0000504	tracheostomy	HP:0002779	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:36694014	MAXO:0000943	deep brain stimulation	HP:0100716	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:1523062	MAXO:0000894	extracorporeal shock wave lithotripsy	HP:0000804	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:9051548	MAXO:0000667	anesthesiology specialist evaluation	HP:0000118	prevents	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:32846834	MAXO:0000667	anesthesiology specialist evaluation	HP:0000118	prevents	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:12593632	MAXO:0000943	deep brain stimulation	HP:0000742	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:31985336	MAXO:0000602	hemodialysis	HP:0003774	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:32573906	MAXO:0000943	deep brain stimulation	HP:0100660	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:17595035	MAXO:0000943	deep brain stimulation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:16530134	MAXO:0000943	deep brain stimulation	HP:0001332	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:22350962	MAXO:0010033	umbilical cord blood transplantation	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:22985762	MAXO:0000667	anesthesiology specialist evaluation	HP:0000118	prevents	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0007793	hypochondroplasia	PMID:25323764	MAXO:0000780	human growth hormone replacement therapy	HP:0003498	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0007793	hypochondroplasia	PMID:38084006	MAXO:0000479	orthopedic surgery	HP:0004322	prevents	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0007793	hypochondroplasia	PMID:22137367	MAXO:0000780	human growth hormone replacement therapy	HP:0004322	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0007793	hypochondroplasia	PMID:20226364	MAXO:0000087	massage therapy	HP:0002355	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0019354	Stickler syndrome	PMID:24793526	MAXO:0000024	surgical procedure on the eye	HP:0000541	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0019354	Stickler syndrome	PMID:9091366	MAXO:0000024	surgical procedure on the eye	HP:0000541	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0019354	Stickler syndrome	PMID:17138163	MAXO:0000500	airway management	HP:0000118	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0019354	Stickler syndrome	PMID:8544588	MAXO:0000500	airway management	HP:0000201	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0019354	Stickler syndrome	PMID:32316871	MAXO:0000024	surgical procedure on the eye	HP:0000541	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0019354	Stickler syndrome	PMID:32536504	MAXO:0000004	surgical procedure	HP:0002870	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0019354	Stickler syndrome	PMID:35393073	MAXO:0000024	surgical procedure on the eye	HP:0000541	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0019354	Stickler syndrome	PMID:26540157	MAXO:0000486	distraction osteogenesis	HP:0000201	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0019354	Stickler syndrome	PMID:31856005	MAXO:0000625	inhalation anesthetic therapy	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0019354	Stickler syndrome	PMID:21466760	MAXO:0000024	surgical procedure on the eye	HP:0000541	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0019354	Stickler syndrome	PMID:20545219	MAXO:0001085	vitrectomy	HP:0012230	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0008753	alkaptonuria	PMID:25475116	MAXO:0000058	pharmacotherapy	HP:0033704	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0008753	alkaptonuria	PMID:19671401	MAXO:0000004	surgical procedure	HP:0000118	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0008753	alkaptonuria	PMID:9870204	MAXO:0010002	protein intake avoidance	HP:0033704	prevents	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0008753	alkaptonuria	PMID:32822600	MAXO:0000058	pharmacotherapy	HP:0033704	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0008753	alkaptonuria	PMID:19300282	MAXO:0009082	arthroplasty	HP:0003040	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0008753	alkaptonuria	PMID:10488288	MAXO:0025001	surgical procedure on cardiovascular system	HP:0001650	prevents	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0008753	alkaptonuria	PMID:22772574	MAXO:0001046	discectomy	HP:0008441	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0008753	alkaptonuria	PMID:28081634	MAXO:0000058	pharmacotherapy	HP:0033704	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0008753	alkaptonuria	PMID:10494297	MAXO:0010002	protein intake avoidance	HP:0033704	prevents	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0008753	alkaptonuria	PMID:12546396	MAXO:0001046	discectomy	HP:0008441	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0008753	alkaptonuria	PMID:12359141	MAXO:0010043	whole kidney transplantation	HP:0000083	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0008753	alkaptonuria	PMID:16736091	MAXO:0001046	discectomy	HP:0008441	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0008753	alkaptonuria	PMID:22482092	MAXO:0009082	arthroplasty	HP:0003040	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0009104	Donnai-Barrow syndrome	PMID:32657950	MAXO:0001351	occupational therapy	HP:0001263	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0009104	Donnai-Barrow syndrome	PMID:32657950	MAXO:0000004	surgical procedure	HP:0000776	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0009104	Donnai-Barrow syndrome	PMID:32657950	MAXO:0000090	enteral nutrition intake	HP:0011968	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0009104	Donnai-Barrow syndrome	PMID:32657950	MAXO:0000004	surgical procedure	HP:0410030	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0009104	Donnai-Barrow syndrome	PMID:32657950	MAXO:0000515	extracorporeal membrane oxygenation	HP:0002878	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0009104	Donnai-Barrow syndrome	PMID:32657950	MAXO:0025001	surgical procedure on cardiovascular system	HP:0001636	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0009104	Donnai-Barrow syndrome	PMID:32657950	MAXO:0000930	speech therapy	HP:0000750	prevents	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0009104	Donnai-Barrow syndrome	PMID:21756462	MAXO:0009025	cochlear device implantation	HP:0000407	treats	PCS				0000-0002-0736-9199		2024-07-22
+MONDO:0007037	Achondroplasia	PMID:1785332	MAXO:0000780	human growth hormone replacement therapy	HP:0004322	prevents	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0007037	Achondroplasia	PMID:9539301	MAXO:0000780	human growth hormone replacement therapy	HP:0004322	treats	PCS				0000-0002-0736-9199		2024-08-03
+MONDO:0007919	lymphatic malformation 1	PMID:28748022	MAXO:0000011	physical therapy	HP:0001004	treats	PCS				0000-0002-0736-9199		2024-07-20

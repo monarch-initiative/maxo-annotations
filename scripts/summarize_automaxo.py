@@ -3,16 +3,23 @@ import argparse
 import typing
 import hpotk
 import random
+from csv import DictReader
 
+"""
+The purpose of this script is to merge the automaxo annotations with the existing
+annotations that we have at annotations/maxo-annotations.tsv
+The script does some sanity checking and then checks both old and new to see if there
+are any duplications. If so, it aborts the merge and warns the user.
+"""
 
-
+existing_annot_file = "../annotations/maxo-annotations.tsv"
 
 
 class AutomaxoEntry:
     """
     Each instance represents one line derived from automaxo/automaxoviewer annotation.
     """
-    def __init__(self, line) -> None:
+    def __init__(self, line: str) -> None:
         self._line = line.strip()
         fields = self._line.split("\t")
         if len(fields) < 6:
@@ -25,6 +32,8 @@ class AutomaxoEntry:
         self._maxo_label = fields[4]
         self._hpo = fields[5]
         self._relation = fields[6]
+        self._author = fields[12]
+        self._created = fields[14]
 
     def __hash__(self):
         return hash((self._pmid, self._maxo, self._hpo))
@@ -56,32 +65,110 @@ class AutomaxoEntry:
     @property
     def relation(self):
         return self._relation
+    
+    @property
+    def pmid(self):
+        return self._pmid
+    
+    @property
+    def author(self):
+        return self._author
+    
+    @property
+    def created(self):
+        return self._created
 
     @property
     def line(self):
         return self._line
+    
+    @staticmethod
+    def parse_automaxo(fname) -> typing.Dict[str,typing.List["AutomaxoEntry"]]:
+        lines = set()
+        disease_to_ame_list_d = defaultdict(list)
+        with open(fname) as f:
+            next(f) # discard header
+            for line in f:
+                print(line)
+                if len(line) < 10:
+                    continue
+                entry = AutomaxoEntry(line)
+                if entry in lines:
+                    print("Error: duplicate - " + line)
+                else:
+                    lines.add(AutomaxoEntry(line))
+        print(f"Got {len(lines)} entries")
+        # transform to list and sort it
+        for line in lines:
+            disease_to_ame_list_d[line.mondo_id].append(line)
+        print(f"Extracted {len(disease_to_ame_list_d)} diseases")
+        return disease_to_ame_list_d
+
+class ExistingAnnot:
+    def __init__(self, d):
+        self._disease_id = d["disease_id"]
+        self._disease_name = d["disease_name"]
+        self._citation = d["citation"]
+        self._maxo_id = d["maxo_id"]
+        self._maxo_name = d["maxo_label"]
+        self._hpo_id = d["hpo_id"]
+        self._relation = d["maxo_relation"]
+
+    @property
+    def disease_id(self):
+        return self._disease_id
+
+    @property
+    def disease_name(self):
+        return self._disease_name
+
+    @property
+    def citation(self):
+        return self._citation
+
+    @property
+    def maxo_id(self):
+        return self._maxo_id
+
+    @property
+    def maxo_name(self):
+        return self._maxo_name
+
+    @property
+    def hpo_id(self):
+        return self._hpo_id
+
+    @property
+    def relation(self):
+        return self._relation
+    
+    def does_overlap(self, ame: AutomaxoEntry):
+        if ame.maxo_id == self.maxo_id and ame.mondo_id == self.disease_id and ame.hpo_id == self.hpo_id and ame._pmid == self.citation:
+            return True
+        else:
+            return False
 
 
-def parse_automaxo(fname):
-    lines = set()
-    disease_to_lines_d = defaultdict(list)
-    with open(fname) as f:
-        next(f) # discard header
-        for line in f:
-            print(line)
-            if len(line) < 10:
-                continue
-            entry = AutomaxoEntry(line)
-            if entry in lines:
-                print("Error: duplicate - " + line)
-            else:
-                lines.add(AutomaxoEntry(line))
-    print(f"Got {len(lines)} entries")
-    # transform to list and sort it
-    for line in lines:
-        disease_to_lines_d[line.mondo_id].append(line)
-    print(f"Extracted {len(disease_to_lines_d)} diseases")
-    return disease_to_lines_d
+
+    @staticmethod
+    def ingest():
+        existing_entries = list()
+        with open(existing_annot_file) as f:
+            # skip three comment lines
+            for _ in range(3):
+                next(f)
+            reader = DictReader(f=f, delimiter="\t")
+            for row in reader:
+                ee = ExistingAnnot(d=row)
+                existing_entries.append(ee)
+        print(f"Got {len(existing_entries)} existing entries")
+        return existing_entries
+
+
+
+
+
+
 
 def get_disease_line(annot_list: typing.List[AutomaxoEntry], hpo: hpotk.Ontology) -> typing.List[str]:
     n_entries = len(annot_list)
@@ -123,6 +210,34 @@ def get_total_stats(disease_to_lines_d: typing.Dict[str, typing.List[AutomaxoEnt
     print(f"Total unique MAxO terms used {len(unique_maxo_set)}")
 
 
+def does_overlap(automaxo_entry: AutomaxoEntry, existing_entry_lst: typing.List[ExistingAnnot]):
+    for ea in existing_entry_lst:
+        if ea.does_overlap(automaxo_entry):
+            return True
+    return False
+
+def append_annotations(disease_to_ame_list_d):
+    with open(existing_annot_file, 'a') as file:
+        for annot_list in disease_to_ame_list_d.values():
+            for a in annot_list:
+                # disease_id	disease_name	citation	maxo_id	maxo_label	hpo_id	maxo_relation	
+                # evidence_code	extension_id	extension_label	attribute	creator	last_update	created_on
+                evidence_code = "PCS"
+                extension_id = ""
+                extension_label = ""
+                attributes = ""
+                last_update = ""
+                row = [a.mondo_id, a.mondo_label, a.pmid, a.maxo_id, a.maxo_label, a.hpo_id, a.relation,
+                       evidence_code, extension_id, extension_label, attributes, a.author, last_update, a.created]
+                line = "\t".join(row)
+                file.write(line + "\n")
+
+    
+ 
+    
+ 
+    
+
 
 if __name__ == '__main__':
     # construct the argument parse and parse the arguments
@@ -132,12 +247,15 @@ if __name__ == '__main__':
     args = ap.parse_args()
     automax_file = args.automaxo
     outfile = args.out
-    disease_to_lines_d= parse_automaxo(automax_file)
+    disease_to_ame_list_d= AutomaxoEntry.parse_automaxo(automax_file)
     store = hpotk.configure_ontology_store()
     hpo = store.load_hpo()
     lines_list = list()
-    for annot_list in disease_to_lines_d.values():
+    ame_list = list()
+    for annot_list in disease_to_ame_list_d.values():
         lines_list.append(get_disease_line(annot_list=annot_list, hpo=hpo))
+        for ame in annot_list:
+            ame_list.append(ame)
     sorted_lines = sorted(lines_list, key=lambda x: x[0].lower())
     fh = open(outfile, "wt")
     header = ["Mondo", "annotations", "MAxO (n)", "HPO (n)", "example MAxO", "example relation", "Example HPO"]
@@ -145,4 +263,13 @@ if __name__ == '__main__':
     for sl in sorted_lines:
         fh.write("\t".join(sl) + "\n")
     fh.close()
-    get_total_stats(disease_to_lines_d=disease_to_lines_d)
+    get_total_stats(disease_to_lines_d=disease_to_ame_list_d)
+    existing_entries = ExistingAnnot.ingest()
+    for annot_list in disease_to_ame_list_d.values():
+        for annot_new in annot_list:
+            if does_overlap(annot_new, existing_entry_lst=existing_entries):
+                print("Detected overlap")
+                exit(1)
+    print("No overlap detected")
+    append_annotations(disease_to_ame_list_d=disease_to_ame_list_d)
+
