@@ -868,6 +868,7 @@ HP:0000821	Hypothyroidism	is_observable_through	MAXO:0035058	hormone measurement
 HP:0000822	Hypertension	is_observable_through	MAXO:0000494	blood pressure measurement	ORCID:0000-0002-0736-9199
 HP:0000823	Delayed puberty	is_observable_through	MAXO:0000685	endocrinologist evaluation	ORCID:0000-0002-0736-9199
 HP:0000824	Decreased response to growth hormone stimulation test	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0000825	Hyperinsulinemic hypoglycemia	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0000825	Hyperinsulinemic hypoglycemia	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0000826	Precocious puberty	is_observable_through	MAXO:0000685	endocrinologist evaluation	ORCID:0000-0002-0736-9199
 HP:0000828	Abnormality of the parathyroid gland	is_observable_through	MAXO:0000685	endocrinologist evaluation	ORCID:0000-0002-0736-9199
@@ -878,12 +879,15 @@ HP:0000832	Primary hypothyroidism	is_observable_through	MAXO:0035058	hormone mea
 HP:0000834	Abnormality of the adrenal glands	is_observable_through	MAXO:0000001	medical action	ORCID:0000-0002-0736-9199
 HP:0000835	Adrenal hypoplasia	is_observable_through	MAXO:0010311	abdominal CT	ORCID:0000-0002-0736-9199
 HP:0000836	Hyperthyroidism	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0000837	Increased circulating gonadotropin level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0000837	Increased circulating gonadotropin level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0000839	Pituitary dwarfism	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:0000840	Adrenogenital syndrome	is_observable_through	MAXO:0000685	endocrinologist evaluation	ORCID:0000-0002-0736-9199
 HP:0000841	Hyperactive renin-angiotensin system	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0000842	Hyperinsulinemia	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0000842	Hyperinsulinemia	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0000843	Hyperparathyroidism	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0000845	Elevated circulating growth hormone concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0000845	Elevated circulating growth hormone concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0000846	Adrenal insufficiency	is_observable_through	MAXO:0000685	endocrinologist evaluation	ORCID:0000-0002-0736-9199
 HP:0000847	Abnormality of renin-angiotensin system	is_observable_through	MAXO:0000685	endocrinologist evaluation	ORCID:0000-0002-0736-9199
@@ -896,6 +900,7 @@ HP:0000854	Thyroid adenoma	is_observable_through	MAXO:0000691	medical oncologist
 HP:0000855	Insulin resistance	is_observable_through	MAXO:0000685	endocrinologist evaluation	ORCID:0000-0002-0736-9199
 HP:0000857	Neonatal insulin-dependent diabetes mellitus	is_observable_through	MAXO:0000685	endocrinologist evaluation	ORCID:0000-0002-0736-9199
 HP:0000858	Irregular menstruation	is_observable_through	MAXO:0035057	reproductive endocrinologist assessment	ORCID:0000-0002-0736-9199
+HP:0000859	Increased circulating aldosterone concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0000859	Increased circulating aldosterone concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0000860	Parathyroid hypoplasia	is_observable_through	MAXO:0010208	neck ultrasonography	ORCID:0000-0002-0736-9199
 HP:0000863	Central diabetes insipidus	is_observable_through	MAXO:0035102	water deprivation test	ORCID:0000-0002-0736-9199
@@ -1588,6 +1593,7 @@ HP:0001566	Widely-spaced maxillary central incisors	is_observable_through	MAXO:0
 HP:0001571	Multiple impacted teeth	is_observable_through	MAXO:0035009	examination by dentist	ORCID:0000-0002-0736-9199
 HP:0001572	Macrodontia	is_observable_through	MAXO:0035009	examination by dentist	ORCID:0000-0002-0736-9199
 HP:0001574	Abnormality of the integument	is_observable_through	MAXO:0000001	medical action	ORCID:0000-0002-0736-9199
+HP:0001579	Primary hypercortisolism	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0001579	Primary hypercortisolism	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0001580	Pigmented micronodular adrenocortical disease	is_observable_through	MAXO:0000329	biopsy of adrenal cortex	ORCID:0000-0002-0736-9199
 HP:0001581	Recurrent skin infections	is_observable_through	MAXO:0000671	dermatology specialist evaluation	ORCID:0000-0002-0736-9199
@@ -1935,6 +1941,7 @@ HP:0001885	Short 2nd toe	is_prenatally_observable_through	MAXO:0000520	fetal ult
 HP:0001885	Short 2nd toe	is_observable_through	MAXO:0035006	foot radiography	ORCID:0000-0002-0736-9199
 HP:0001886	Foot osteomyelitis	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
 HP:0001886	Foot osteomyelitis	is_observable_through	MAXO:0035036	blood culture procedure	ORCID:0000-0002-0736-9199
+HP:0001888	Lymphopenia	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0001888	Lymphopenia	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
 HP:0001889	Megaloblastic anemia	is_observable_through	MAXO:0000688	hematologist evaluation	ORCID:0000-0002-0736-9199
 HP:0001890	Autoimmune hemolytic anemia	is_observable_through	MAXO:0000688	hematologist evaluation	ORCID:0000-0002-0736-9199
@@ -1963,6 +1970,7 @@ HP:0001917	Renal amyloidosis	is_observable_through	MAXO:0001121	biopsy of kidney
 HP:0001919	Acute kidney injury	is_observable_through	MAXO:0000692	nephrologist evaluation	ORCID:0000-0002-0736-9199
 HP:0001920	Renal artery stenosis	is_observable_through	MAXO:0035086	arterial ultrasonograpy	ORCID:0000-0002-0736-9199
 HP:0001922	Vacuolated lymphocytes	is_observable_through	MAXO:0000829	blood cell measurement	ORCID:0000-0002-0736-9199
+HP:0001922	Vacuolated lymphocytes	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0001923	Reticulocytosis	is_observable_through	MAXO:0000829	blood cell measurement	ORCID:0000-0002-0736-9199
 HP:0001924	Sideroblastic anemia	is_observable_through	MAXO:0000688	hematologist evaluation	ORCID:0000-0002-0736-9199
 HP:0001927	Acanthocytosis	is_observable_through	MAXO:0000829	blood cell measurement	ORCID:0000-0002-0736-9199
@@ -2865,12 +2873,16 @@ HP:0002840	Lymphadenitis	is_observable_through	MAXO:0000487	clinical assessment	
 HP:0002841	Recurrent fungal infections	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:0002842	Recurrent Burkholderia cepacia infections	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:0002843	Abnormal T cell morphology	is_observable_through	MAXO:0000001	medical action	ORCID:0000-0002-0736-9199
+HP:0002843	Abnormal T cell morphology	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0002846	Abnormal B cell morphology	is_observable_through	MAXO:0000001	medical action	ORCID:0000-0002-0736-9199
+HP:0002846	Abnormal B cell morphology	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0002847	Impaired memory B cell generation	is_observable_through	MAXO:0000001	medical action	ORCID:0000-0002-0736-9199
 HP:0002848	Decreased specific anti-polysaccharide antibody level	is_observable_through	MAXO:0035026	circulating immunoglobulin measurement	ORCID:0000-0002-0736-9199
 HP:0002849	Absence of lymph node germinal center	is_observable_through	MAXO:0000381	biopsy of lymph node	ORCID:0000-0002-0736-9199
 HP:0002850	Decreased circulating total IgM	is_observable_through	MAXO:0035026	circulating immunoglobulin measurement	ORCID:0000-0002-0736-9199
+HP:0002851	Elevated proportion of CD4-negative, CD8-negative, alpha-beta regulatory T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0002851	Elevated proportion of CD4-negative, CD8-negative, alpha-beta regulatory T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0002853	Increased proportion of HLA DR+ T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0002853	Increased proportion of HLA DR+ T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
 HP:0002857	Genu valgum	is_observable_through	MAXO:0010357	lower limb radiographic procedure	ORCID:0000-0002-0736-9199
 HP:0002858	Meningioma	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
@@ -2927,10 +2939,12 @@ HP:0002916	Abnormality of chromosome segregation	is_observable_through	MAXO:0000
 HP:0002917	Hypomagnesemia	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0002918	Hypermagnesemia	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0002919	Ketonuria	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
+HP:0002920	Decreased circulating ACTH concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0002920	Decreased circulating ACTH concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0002921	Abnormal cerebrospinal fluid morphology	is_observable_through	MAXO:0035007	cerebrospinal fluid analysis	ORCID:0000-0002-0736-9199
 HP:0002922	Increased CSF protein concentration	is_observable_through	MAXO:0035007	cerebrospinal fluid analysis	ORCID:0000-0002-0736-9199
 HP:0002923	Rheumatoid factor positive	is_observable_through	MAXO:0000609	serology testing	ORCID:0000-0002-0736-9199
+HP:0002925	Elevated circulating thyroid-stimulating hormone concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0002925	Elevated circulating thyroid-stimulating hormone concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0002926	Abnormality of thyroid physiology	is_observable_through	MAXO:0000685	endocrinologist evaluation	ORCID:0000-0002-0736-9199
 HP:0002926	Abnormality of thyroid physiology	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
@@ -2976,6 +2990,7 @@ HP:0002963	Abnormal delayed hypersensitivity skin test	is_observable_through	MAX
 HP:0002965	Cutaneous anergy	is_observable_through	MAXO:0000666	allergy and immunology specialist evaluation	ORCID:0000-0002-0736-9199
 HP:0002967	Cubitus valgus	is_observable_through	MAXO:0035043	upper limb radiography	ORCID:0000-0002-0736-9199
 HP:0002970	Genu varum	is_observable_through	MAXO:0000595	radiograph imaging procedure	ORCID:0000-0002-0736-9199
+HP:0002971	Absent microvilli on the surface of peripheral blood lymphocytes	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0002971	Absent microvilli on the surface of peripheral blood lymphocytes	is_observable_through	MAXO:0035064	electron microscopic study	ORCID:0000-0002-0736-9199
 HP:0002972	Reduced delayed hypersensitivity	is_observable_through	MAXO:0000666	allergy and immunology specialist evaluation	ORCID:0000-0002-0736-9199
 HP:0002973	Abnormal forearm morphology	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
@@ -3098,7 +3113,9 @@ HP:0003111	Abnormal blood ion concentration	is_observable_through	MAXO:0000787	b
 HP:0003112	Abnormal circulating amino acid concentration	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0003113	Hypochloremia	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0003115	Abnormal EKG	is_observable_through	MAXO:0000900	electrocardiography	ORCID:0000-0002-0736-9199
+HP:0003117	Abnormal circulating hormone concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0003117	Abnormal circulating hormone concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0003118	Increased circulating cortisol level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0003118	Increased circulating cortisol level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0003119	Abnormal circulating lipid concentration	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0003121	Limb joint contracture	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
@@ -3116,6 +3133,7 @@ HP:0003138	Increased blood urea nitrogen	is_observable_through	MAXO:0000787	bloo
 HP:0003139	Panhypogammaglobulinemia	is_observable_through	MAXO:0035026	circulating immunoglobulin measurement	ORCID:0000-0002-0736-9199
 HP:0003140	T-wave inversion in the right precordial leads	is_observable_through	MAXO:0000900	electrocardiography	ORCID:0000-0002-0736-9199
 HP:0003141	Increased LDL cholesterol concentration	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
+HP:0003144	Increased serum serotonin	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0003144	Increased serum serotonin	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0003145	Decreased circulating adenosylcobalamin concentration	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0003146	Hypocholesterolemia	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
@@ -3123,6 +3141,7 @@ HP:0003148	Elevated serum acid phosphatase	is_observable_through	MAXO:0035122	ce
 HP:0003149	Hyperuricosuria	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0003150	Glutaric aciduria	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0003153	Cystathioninuria	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
+HP:0003154	Increased circulating ACTH level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0003154	Increased circulating ACTH level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0003155	Elevated circulating alkaline phosphatase concentration	is_observable_through	MAXO:0035011	enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:0003158	Hyposthenuria	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
@@ -3131,7 +3150,9 @@ HP:0003160	Abnormal isoelectric focusing of serum transferrin	is_observable_thro
 HP:0003161	4-Hydroxyphenylpyruvic aciduria	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0003162	Fasting hypoglycemia	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0003163	Elevated urinary delta-aminolevulinic acid	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
+HP:0003164	Hypothalamic gonadotropin-releasing hormone deficiency	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0003164	Hypothalamic gonadotropin-releasing hormone deficiency	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0003165	Elevated circulating parathyroid hormone level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0003165	Elevated circulating parathyroid hormone level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0003166	Increased urinary taurine	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0003167	Carnosinuria	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
@@ -3228,6 +3249,7 @@ HP:0003282	Decreased circulating alkaline phosphatase activity	is_observable_thr
 HP:0003286	Cystathioninemia	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0003287	Abnormality of mitochondrial metabolism	is_observable_through	MAXO:0000001	medical action	ORCID:0000-0002-0736-9199
 HP:0003288	Mitochondrial propionyl-CoA carboxylase defect	is_observable_through	MAXO:0000001	medical action	ORCID:0000-0002-0736-9199
+HP:0003292	Decreased serum leptin	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0003292	Decreased serum leptin	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0003296	Hyperthreoninuria	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0003297	Hyperlysinuria	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
@@ -3263,6 +3285,7 @@ HP:0003329	Hair shafts flattened at irregular intervals and twisted through 180 
 HP:0003330	Abnormal bone structure	is_observable_through	MAXO:0000595	radiograph imaging procedure	ORCID:0000-0002-0736-9199
 HP:0003332	Absent primary metaphyseal spongiosa	is_observable_through	MAXO:0000595	radiograph imaging procedure	ORCID:0000-0002-0736-9199
 HP:0003333	Increased serum beta-hexosaminidase	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
+HP:0003334	Elevated circulating catecholamine level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0003334	Elevated circulating catecholamine level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0003336	Abnormal enchondral ossification	is_observable_through	MAXO:0000595	radiograph imaging procedure	ORCID:0000-0002-0736-9199
 HP:0003337	Reduced prothrombin consumption	is_observable_through	MAXO:0000836	blood coagulation test	ORCID:0000-0002-0736-9199
@@ -3273,6 +3296,7 @@ HP:0003343	Reduced glutathione synthetase level	is_observable_through	MAXO:00350
 HP:0003344	3-Methylglutaric aciduria	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0003345	Elevated urinary norepinephrine level	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0003347	Impaired lymphocyte transformation with phytohemagglutinin	is_observable_through	MAXO:0000001	medical action	ORCID:0000-0002-0736-9199
+HP:0003347	Impaired lymphocyte transformation with phytohemagglutinin	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0003348	Hyperalaninemia	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0003349	Low cholesterol esterification rate	is_observable_through	MAXO:0035011	enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:0003351	Decreased circulating renin concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
@@ -3360,6 +3384,7 @@ HP:0003461	Increased urinary O-linked sialopeptides	is_observable_through	MAXO:0
 HP:0003462	Elevated 8-dehydrocholesterol	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0003463	Increased extraneuronal autofluorescent lipopigment	is_observable_through	MAXO:0000338	biopsy of brain	ORCID:0000-0002-0736-9199
 HP:0003465	Elevated 8(9)-cholestenol	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
+HP:0003466	Paradoxical increased cortisol secretion on dexamethasone suppression test	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0003466	Paradoxical increased cortisol secretion on dexamethasone suppression test	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0003467	Atlantoaxial instability	is_observable_through	MAXO:0000478	orthopedic surgeon evaluation	ORCID:0000-0002-0736-9199
 HP:0003468	Abnormal vertebral morphology	is_observable_through	MAXO:0035050	spine radiography	ORCID:0000-0002-0736-9199
@@ -3396,6 +3421,7 @@ HP:0003521	Disproportionate short-trunk short stature	is_prenatally_observable_t
 HP:0003524	Decreased methionine synthase activity	is_observable_through	MAXO:0035011	enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:0003526	Orotic acid crystalluria	is_observable_through	MAXO:0000143	urine cytology examination	ORCID:0000-0002-0736-9199
 HP:0003527	Hyperprostaglandinuria	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
+HP:0003528	Elevated circulating calcitonin concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0003528	Elevated circulating calcitonin concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0003529	Parathormone-independent increased renal tubular calcium reabsorption	is_observable_through	MAXO:0035092	fractional excretion assessment	ORCID:0000-0002-0736-9199
 HP:0003530	Elevated circulating glutaric acid concentration	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
@@ -3864,6 +3890,7 @@ HP:0004312	Abnormal reticulocyte morphology	is_observable_through	MAXO:0000829	b
 HP:0004313	Decreased circulating antibody concentration	is_observable_through	MAXO:0035026	circulating immunoglobulin measurement	ORCID:0000-0002-0736-9199
 HP:0004315	Decreased circulating IgG concentration	is_observable_through	MAXO:0035026	circulating immunoglobulin measurement	ORCID:0000-0002-0736-9199
 HP:0004319	Decreased circulating aldosterone concentration	is_observable_through	MAXO:0000685	endocrinologist evaluation	ORCID:0000-0002-0736-9199
+HP:0004319	Decreased circulating aldosterone concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0004320	Vaginal fistula	is_observable_through	MAXO:0035034	pelvis MRI	ORCID:0000-0002-0736-9199
 HP:0004321	Bladder fistula	is_observable_through	MAXO:0010362	cystography procedure	ORCID:0000-0002-0736-9199
 HP:0004321	Bladder fistula	is_observable_through	MAXO:0035083	CT urogram	ORCID:0000-0002-0736-9199
@@ -3881,6 +3908,7 @@ HP:0004330	Increased skull ossification	is_prenatally_observable_through	MAXO:00
 HP:0004330	Increased skull ossification	is_observable_through	MAXO:0010318	skull CT	ORCID:0000-0002-0736-9199
 HP:0004331	Decreased skull ossification	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
 HP:0004331	Decreased skull ossification	is_observable_through	MAXO:0010318	skull CT	ORCID:0000-0002-0736-9199
+HP:0004332	Abnormal lymphocyte morphology	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0004333	Bone-marrow foam cells	is_observable_through	MAXO:0000682	cardiologist evaluation	ORCID:0000-0002-0736-9199
 HP:0004334	Dermal atrophy	is_observable_through	MAXO:0009055	examination by dermatologist	ORCID:0000-0002-0736-9199
 HP:0004336	Myelin outfoldings	is_observable_through	MAXO:0035087	biopsy of peripheral nerve	ORCID:0000-0002-0736-9199
@@ -3903,6 +3931,7 @@ HP:0004357	Abnormal circulating leucine concentration	is_observable_through	MAXO
 HP:0004358	Abnormality of superoxide metabolism	is_observable_through	MAXO:0035011	enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:0004359	Abnormal circulating fatty-acid concentration	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0004360	Abnormality of acid-base homeostasis	is_observable_through	MAXO:0000566	clinical chemistry assessment	ORCID:0000-0002-0736-9199
+HP:0004361	Abnormal circulating leptin concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0004361	Abnormal circulating leptin concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0004362	Abnormal enteric ganglion morphology	is_observable_through	MAXO:0000369	biopsy of intestine	ORCID:0000-0002-0736-9199
 HP:0004363	Abnormal circulating calcium concentration	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
@@ -3953,6 +3982,9 @@ HP:0004415	Pulmonary artery stenosis	is_prenatally_observable_through	MAXO:00005
 HP:0004416	Precocious atherosclerosis	is_observable_through	MAXO:0000682	cardiologist evaluation	ORCID:0000-0002-0736-9199
 HP:0004418	Thrombophlebitis	is_observable_through	MAXO:0035095	venography procedure	ORCID:0000-0002-0736-9199
 HP:0004419	Recurrent thrombophlebitis	is_observable_through	MAXO:0035095	venography procedure	ORCID:0000-0002-0736-9199
+HP:0004420	Arterial thrombosis	is_observable_through	MAXO:0009008	Doppler ultrasonography	ORCID:0000-0002-0736-9199
+HP:0004420	Arterial thrombosis	is_observable_through	MAXO:0010319	CT angiogram	ORCID:0000-0002-0736-9199
+HP:0004420	Arterial thrombosis	is_observable_through	MAXO:0035088	magnetic resonance angiography procedure	ORCID:0000-0002-0736-9199
 HP:0004421	Elevated systolic blood pressure	is_observable_through	MAXO:0000494	blood pressure measurement	ORCID:0000-0002-0736-9199
 HP:0004422	Biparietal narrowing	is_observable_through	MAXO:0001254	skull radiograph procedure	ORCID:0000-0002-0736-9199
 HP:0004423	Cranium bifidum occultum	is_observable_through	MAXO:0010318	skull CT	ORCID:0000-0002-0736-9199
@@ -4529,8 +4561,10 @@ HP:0005357	Defective B cell differentiation	is_observable_through	MAXO:0035122	c
 HP:0005359	Aplasia of the thymus	is_observable_through	MAXO:0010208	neck ultrasonography	ORCID:0000-0002-0736-9199
 HP:0005360	Susceptibility to chickenpox	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:0005363	Humoral immunodeficiency	is_observable_through	MAXO:0000666	allergy and immunology specialist evaluation	ORCID:0000-0002-0736-9199
+HP:0005365	Severe B lymphocytopenia	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0005365	Severe B lymphocytopenia	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
 HP:0005366	Recurrent streptococcus pneumoniae infections	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
+HP:0005368	Abnormality of humoral immunity	is_observable_through	MAXO:0000666	allergy and immunology specialist evaluation	ORCID:0000-0002-0736-9199
 HP:0005369	Decreased circulating complement factor H concentration	is_observable_through	MAXO:0035076	complement assay	ORCID:0000-0002-0736-9199
 HP:0005372	Abnormality of B cell physiology	is_observable_through	MAXO:0035122	cell function assay	ORCID:0000-0002-0736-9199
 HP:0005374	Cellular immunodeficiency	is_observable_through	MAXO:0000666	allergy and immunology specialist evaluation	ORCID:0000-0002-0736-9199
@@ -4544,17 +4578,22 @@ HP:0005390	Recurrent opportunistic infections	is_observable_through	MAXO:0000690
 HP:0005396	Susceptibility to coronavirus 229e	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:0005400	Reduction of neutrophil motility	is_observable_through	MAXO:0000829	blood cell measurement	ORCID:0000-0002-0736-9199
 HP:0005401	Recurrent candida infections	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
+HP:0005403	T lymphocytopenia	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0005403	T lymphocytopenia	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
+HP:0005404	Increased B cell count	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0005404	Increased B cell count	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
 HP:0005406	Recurrent bacterial skin infections	is_observable_through	MAXO:0000671	dermatology specialist evaluation	ORCID:0000-0002-0736-9199
+HP:0005407	Decreased proportion of CD4-positive helper T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0005407	Decreased proportion of CD4-positive helper T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
 HP:0005411	Chronic intestinal candidiasis	is_observable_through	MAXO:0000671	dermatology specialist evaluation	ORCID:0000-0002-0736-9199
 HP:0005413	Increased alpha-globulin	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
+HP:0005415	Decreased proportion of CD8-positive T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0005415	Decreased proportion of CD8-positive T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
 HP:0005416	Decreased circulating complement factor B concentration	is_observable_through	MAXO:0035076	complement assay	ORCID:0000-0002-0736-9199
 HP:0005419	Decreased T cell activation	is_observable_through	MAXO:0035077	functional T cell assessment	ORCID:0000-0002-0736-9199
 HP:0005420	Recurrent gram-negative bacterial infections	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:0005421	Decreased circulating complement C3 concentration	is_observable_through	MAXO:0035076	complement assay	ORCID:0000-0002-0736-9199
+HP:0005422	Absence of CD8-positive T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0005422	Absence of CD8-positive T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
 HP:0005423	Dysfunctional alternative complement pathway	is_observable_through	MAXO:0035076	complement assay	ORCID:0000-0002-0736-9199
 HP:0005424	Absent specific antibody response	is_observable_through	MAXO:0035026	circulating immunoglobulin measurement	ORCID:0000-0002-0736-9199
@@ -5208,11 +5247,13 @@ HP:0006517	Intraalveolar phospholipid accumulation	is_observable_through	MAXO:00
 HP:0006518	Pulmonary venous occlusion	is_observable_through	MAXO:0010203	echocardiography	ORCID:0000-0002-0736-9199
 HP:0006519	Alveolar cell carcinoma	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
 HP:0006520	Progressive pulmonary function impairment	is_observable_through	MAXO:0000693	pulmonologist evaluation	ORCID:0000-0002-0736-9199
+HP:0006521	Pulmonary lymphangiectasia	is_observable_through	MAXO:0035024	high-resolution pulmonary computed tomography	ORCID:0000-0002-0736-9199
 HP:0006521	Pulmonary lymphangiectasia	is_observable_through	MAXO:0035035	lymphography	ORCID:0000-0002-0736-9199
 HP:0006522	Repeated pneumothoraces	is_observable_through	MAXO:0010317	chest CT	ORCID:0000-0002-0736-9199
 HP:0006524	Tracheobronchial leiomyomatosis	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
 HP:0006527	Lymphocytic interstitial pneumonia	is_observable_through	MAXO:0010356	chest radiograph procedure	ORCID:0000-0002-0736-9199
 HP:0006528	Chronic lung disease	is_observable_through	MAXO:0000693	pulmonologist evaluation	ORCID:0000-0002-0736-9199
+HP:0006529	Abnormal pulmonary lymphatics	is_observable_through	MAXO:0035024	high-resolution pulmonary computed tomography	ORCID:0000-0002-0736-9199
 HP:0006530	Abnormal pulmonary interstitial morphology	is_observable_through	MAXO:0010356	chest radiograph procedure	ORCID:0000-0002-0736-9199
 HP:0006531	Pleural lymphangiectasia	is_observable_through	MAXO:0035035	lymphography	ORCID:0000-0002-0736-9199
 HP:0006532	Recurrent pneumonia	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
@@ -5222,8 +5263,8 @@ HP:0006536	Airway obstruction	is_observable_through	MAXO:0000693	pulmonologist e
 HP:0006538	Recurrent bronchopulmonary infections	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:0006539	Bronchial cartilage hypoplasia	is_observable_through	MAXO:0001183	bronchoscopy	ORCID:0000-0002-0736-9199
 HP:0006543	Cardiorespiratory arrest	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
-HP:0006544	Extrapulmonary lobar sequestration	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
 HP:0006544	Extrapulmonary lobar sequestration	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0002-0736-9199
+HP:0006544	Extrapulmonary lobar sequestration	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
 HP:0006544	Extrapulmonary lobar sequestration	is_observable_through	MAXO:0010317	chest CT	ORCID:0000-0002-0736-9199
 HP:0006548	Pulmonary arteriovenous malformation	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
 HP:0006552	Fibrocystic lung disease	is_observable_through	MAXO:0010314	lung CT	ORCID:0000-0002-0736-9199
@@ -6305,7 +6346,9 @@ HP:0008158	Hyperapobetalipoproteinemia	is_observable_through	MAXO:0000787	blood 
 HP:0008160	3-hydroxydicarboxylic aciduria	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0008161	Absent leukocyte alkaline phosphatase	is_observable_through	MAXO:0035011	enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:0008162	Asymptomatic hyperammonemia	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
+HP:0008163	Decreased circulating cortisol level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0008163	Decreased circulating cortisol level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0008165	Decreased helper T cell proportion	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0008165	Decreased helper T cell proportion	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
 HP:0008166	Decreased beta-galactosidase activity	is_observable_through	MAXO:0035011	enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:0008167	Very long chain fatty acid accumulation	is_observable_through	MAXO:0035023	tissue metabolite measurement	ORCID:0000-0002-0736-9199
@@ -6345,7 +6388,9 @@ HP:0008226	Androgen insufficiency	is_observable_through	MAXO:0000685	endocrinolo
 HP:0008227	Pituitary resistance to thyroid hormone	is_observable_through	MAXO:0000685	endocrinologist evaluation	ORCID:0000-0002-0736-9199
 HP:0008229	Thyroid lymphangiectasia	is_observable_through	MAXO:0035035	lymphography	ORCID:0000-0002-0736-9199
 HP:0008231	Macronodular adrenal hyperplasia	is_observable_through	MAXO:0000685	endocrinologist evaluation	ORCID:0000-0002-0736-9199
+HP:0008232	Elevated circulating follicle stimulating hormone level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0008232	Elevated circulating follicle stimulating hormone level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0008233	Decreased circulating progesterone	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0008233	Decreased circulating progesterone	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0008236	Isosexual precocious puberty	is_observable_through	MAXO:0000685	endocrinologist evaluation	ORCID:0000-0002-0736-9199
 HP:0008237	Hypothalamic hypothyroidism	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
@@ -6377,6 +6422,7 @@ HP:0008278	Cerebellar cortical atrophy	is_prenatally_observable_through	MAXO:000
 HP:0008279	Transient hyperlipidemia	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0008281	Acute hyperammonemia	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0008282	Unconjugated hyperbilirubinemia	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
+HP:0008283	Fasting hyperinsulinemia	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0008283	Fasting hyperinsulinemia	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0008285	Transient hypophosphatemia	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0008288	Nonketotic hyperglycinemia	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
@@ -8713,7 +8759,9 @@ HP:0010970	Blood group antigen abnormality	is_observable_through	MAXO:0000829	bl
 HP:0010971	Absence of Lutheran antigen on erythrocytes	is_observable_through	MAXO:0000829	blood cell measurement	ORCID:0000-0002-0736-9199
 HP:0010972	Anemia of inadequate production	is_observable_through	MAXO:0000688	hematologist evaluation	ORCID:0000-0002-0736-9199
 HP:0010974	Abnormal myeloid leukocyte morphology	is_observable_through	MAXO:0000829	blood cell measurement	ORCID:0000-0002-0736-9199
+HP:0010975	Abnormal B cell count	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0010975	Abnormal B cell count	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
+HP:0010976	B lymphocytopenia	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0010976	B lymphocytopenia	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
 HP:0010977	Abnormal phagocytosis	is_observable_through	MAXO:0035114	immune cell function assay	ORCID:0000-0002-0736-9199
 HP:0010978	Abnormality of immune system physiology	is_observable_through	MAXO:0000666	allergy and immunology specialist evaluation	ORCID:0000-0002-0736-9199
@@ -8776,6 +8824,7 @@ HP:0011039	Abnormal helix morphology	is_observable_through	MAXO:0009061	examinat
 HP:0011040	Abnormal intrahepatic bile duct morphology	is_observable_through	MAXO:0000376	biopsy of liver	ORCID:0000-0002-0736-9199
 HP:0011041	Aplasia/Hypoplasia of the cervical spine	is_observable_through	MAXO:0035050	spine radiography	ORCID:0000-0002-0736-9199
 HP:0011042	Abnormal circulating potassium concentration	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
+HP:0011043	Abnormal circulating adrenocorticotropin concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0011043	Abnormal circulating adrenocorticotropin concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0011044	Abnormal number of permanent teeth	is_observable_through	MAXO:0035009	examination by dentist	ORCID:0000-0002-0736-9199
 HP:0011045	Agenesis of permanent maxillary central incisor	is_observable_through	MAXO:0035009	examination by dentist	ORCID:0000-0002-0736-9199
@@ -9696,19 +9745,25 @@ HP:0011727	Peroneal muscle weakness	is_observable_through	MAXO:0000716	neurologi
 HP:0011728	Elbow clonus	is_observable_through	MAXO:0000716	neurologist evaluation	ORCID:0000-0002-0736-9199
 HP:0011729	Abnormality of joint mobility	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:0011730	Abnormal central sensory function	is_observable_through	MAXO:0000716	neurologist evaluation	ORCID:0000-0002-0736-9199
+HP:0011731	Abnormality of circulating cortisol level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0011731	Abnormality of circulating cortisol level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0011732	Abnormal adrenal morphology	is_observable_through	MAXO:0000685	endocrinologist evaluation	ORCID:0000-0002-0736-9199
 HP:0011733	Abnormality of adrenal physiology	is_observable_through	MAXO:0000685	endocrinologist evaluation	ORCID:0000-0002-0736-9199
 HP:0011734	Central adrenal insufficiency	is_observable_through	MAXO:0000685	endocrinologist evaluation	ORCID:0000-0002-0736-9199
 HP:0011735	Adrenocorticotropin deficient adrenal insufficiency	is_observable_through	MAXO:0000685	endocrinologist evaluation	ORCID:0000-0002-0736-9199
+HP:0011736	Primary hyperaldosteronism	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0011736	Primary hyperaldosteronism	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0011737	Corticotropin-releasing hormone deficient adrenal insufficiency	is_observable_through	MAXO:0000685	endocrinologist evaluation	ORCID:0000-0002-0736-9199
 HP:0011738	Corticotropin-releasing hormone receptor defect	is_observable_through	MAXO:0000685	endocrinologist evaluation	ORCID:0000-0002-0736-9199
+HP:0011739	Dexamethasone-suppressible primary hyperaldosteronism	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0011739	Dexamethasone-suppressible primary hyperaldosteronism	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0011740	Glucocortocoid-insensitive primary hyperaldosteronism	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0011740	Glucocortocoid-insensitive primary hyperaldosteronism	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0011741	Secondary hyperaldosteronism	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0011741	Secondary hyperaldosteronism	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0011742	Ectopic adrenal gland	is_observable_through	MAXO:0010311	abdominal CT	ORCID:0000-0002-0736-9199
 HP:0011743	Adrenal gland agenesis	is_observable_through	MAXO:0010311	abdominal CT	ORCID:0000-0002-0736-9199
+HP:0011744	Secondary hypercortisolism	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0011744	Secondary hypercortisolism	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0011745	Non-secretory adrenocortical adenoma	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
 HP:0011746	Secretory adrenocortical adenoma	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
@@ -9752,6 +9807,7 @@ HP:0011784	Thyrotoxicosis with diffuse goiter	is_observable_through	MAXO:0035058
 HP:0011785	Thyrotoxicosis with toxic multinodular goiter	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0011786	Thyrotoxicosis with toxic single thyroid nodule	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0011787	Central hypothyroidism	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0011788	Increased circulating free T3	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0011788	Increased circulating free T3	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0011789	Impaired sensitivity to thyroid stimulating hormone	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0011790	Activating thyroid-stimulating hormone receptor defect	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
@@ -9810,6 +9866,7 @@ HP:0011835	Absent scaphoid	is_observable_through	MAXO:0035001	hand radiography	O
 HP:0011836	Delayed talus ossification	is_observable_through	MAXO:0035006	foot radiography	ORCID:0000-0002-0736-9199
 HP:0011837	Partial IgA deficiency	is_observable_through	MAXO:0035026	circulating immunoglobulin measurement	ORCID:0000-0002-0736-9199
 HP:0011838	Sclerodactyly	is_observable_through	MAXO:0000671	dermatology specialist evaluation	ORCID:0000-0002-0736-9199
+HP:0011839	Abnormal T cell count	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0011839	Abnormal T cell count	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
 HP:0011840	Abnormality of T cell physiology	is_observable_through	MAXO:0035077	functional T cell assessment	ORCID:0000-0002-0736-9199
 HP:0011841	Ventricular flutter	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
@@ -9943,6 +10000,7 @@ HP:0011965	Abnormal circulating citrulline concentration	is_observable_through	M
 HP:0011966	Elevated plasma citrulline	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0011967	Decreased circulating copper concentration	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0011968	Feeding difficulties	is_observable_through	MAXO:0000686	gastroenterologist evaluation	ORCID:0000-0002-0736-9199
+HP:0011969	Elevated circulating luteinizing hormone level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0011969	Elevated circulating luteinizing hormone level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0011970	Cerebral amyloid angiopathy	is_observable_through	MAXO:0000338	biopsy of brain	ORCID:0000-0002-0736-9199
 HP:0011971	Dermatographic urticaria	is_observable_through	MAXO:0009055	examination by dermatologist	ORCID:0000-0002-0736-9199
@@ -10086,6 +10144,7 @@ HP:0012095	Multiple joint dislocation	is_observable_through	MAXO:0000478	orthope
 HP:0012096	Intracranial epidermoid cyst	is_observable_through	MAXO:0000427	MRI of the brain	ORCID:0000-0002-0736-9199
 HP:0012097	Intracranial dermoid cyst	is_observable_through	MAXO:0000427	MRI of the brain	ORCID:0000-0002-0736-9199
 HP:0012098	Edema of the dorsum of feet	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
+HP:0012099	Abnormality of circulating catecholamine level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0012099	Abnormality of circulating catecholamine level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0012100	Abnormal circulating creatinine concentration	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0012101	Decreased serum creatinine	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
@@ -10102,7 +10161,9 @@ HP:0012108	Open angle glaucoma	is_observable_through	MAXO:0000703	ophthalmologis
 HP:0012109	Angle closure glaucoma	is_observable_through	MAXO:0000703	ophthalmologist evaluation	ORCID:0000-0002-0736-9199
 HP:0012110	Hypoplasia of the pons	is_observable_through	MAXO:0000427	MRI of the brain	ORCID:0000-0002-0736-9199
 HP:0012110	Hypoplasia of the pons	is_prenatally_observable_through	MAXO:0001478	fetal MRI	ORCID:0000-0003-1502-5000
+HP:0012111	Abnormality of circulating glucocorticoid level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0012111	Abnormality of circulating glucocorticoid level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0012112	Abnormal circulating corticosterone level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0012112	Abnormal circulating corticosterone level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0012113	Abnormal circulating creatine concentration	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0012114	Endometrial carcinoma	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
@@ -10171,6 +10232,7 @@ HP:0012172	Stereotypical body rocking	is_observable_through	MAXO:0000716	neurolo
 HP:0012173	Orthostatic tachycardia	is_observable_through	MAXO:0000682	cardiologist evaluation	ORCID:0000-0002-0736-9199
 HP:0012174	Glioblastoma multiforme	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
 HP:0012175	Resistance to activated protein C	is_observable_through	MAXO:0000836	blood coagulation test	ORCID:0000-0002-0736-9199
+HP:0012176	Abnormal natural killer cell morphology	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0012176	Abnormal natural killer cell morphology	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
 HP:0012177	Abnormal natural killer cell physiology	is_observable_through	MAXO:0035068	natural killer cell function test	ORCID:0000-0002-0736-9199
 HP:0012178	Reduced natural killer cell activity	is_observable_through	MAXO:0035068	natural killer cell function test	ORCID:0000-0002-0736-9199
@@ -10583,8 +10645,11 @@ HP:0012554	Absent thumbnail	is_observable_through	MAXO:0009055	examination by de
 HP:0012555	Absent nail of hallux	is_observable_through	MAXO:0009055	examination by dermatologist	ORCID:0000-0002-0736-9199
 HP:0012556	Hyperbeta-alaninemia	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0012557	EEG with centrotemporal focal spike waves	is_observable_through	MAXO:0000932	electroencephalography	ORCID:0000-0002-0736-9199
+HP:0012558	Abnormal T3/T4 ratio	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0012558	Abnormal T3/T4 ratio	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0012559	Increased T3/T4 ratio	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0012559	Increased T3/T4 ratio	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0012560	Decreased T3/T4 ratio	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0012560	Decreased T3/T4 ratio	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0012561	Unicuspid aortic valve	is_observable_through	MAXO:0010203	echocardiography	ORCID:0000-0002-0736-9199
 HP:0012562	Premature epimetaphyseal fusion in hand	is_observable_through	MAXO:0000595	radiograph imaging procedure	ORCID:0000-0002-0736-9199
@@ -11072,8 +11137,11 @@ HP:0020106	Severe giardiasis	is_observable_through	MAXO:0000666	allergy and immu
 HP:0020107	Unusual helminthic infection	is_observable_through	MAXO:0000666	allergy and immunology specialist evaluation	ORCID:0000-0002-0736-9199
 HP:0020108	Unusual parasitic infection	is_observable_through	MAXO:0000666	allergy and immunology specialist evaluation	ORCID:0000-0002-0736-9199
 HP:0020110	Bone fracture	is_observable_through	MAXO:0000478	orthopedic surgeon evaluation	ORCID:0000-0002-0736-9199
+HP:0020111	Abnormal CD4+CD25+ regulatory T cell proportion	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0020111	Abnormal CD4+CD25+ regulatory T cell proportion	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0020112	Increased proportion of CD4+CD25+ regulatory T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0020112	Increased proportion of CD4+CD25+ regulatory T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0020113	Decreased proportion of CD4+CD25+ regulatory T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0020113	Decreased proportion of CD4+CD25+ regulatory T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
 HP:0020114	Persistent human papillomavirus infection	is_observable_through	MAXO:0000666	allergy and immunology specialist evaluation	ORCID:0000-0002-0736-9199
 HP:0020117	Hypoplastic dermoepidermal hemidesmosomes	is_observable_through	MAXO:0000423	biopsy of skin	ORCID:0000-0002-0736-9199
@@ -11143,6 +11211,7 @@ HP:0020173	Reduced drug efficacy	is_observable_through	MAXO:0000487	clinical ass
 HP:0020174	Refractory drug response	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:0020175	Reduced circulating cholinesterase activity	is_observable_through	MAXO:0035011	enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:0020176	Cholesterol crystalluria	is_observable_through	MAXO:0000143	urine cytology examination	ORCID:0000-0002-0736-9199
+HP:0020177	Abnormal proportion of CD8-positive, alpha-beta TEMRA T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0020177	Abnormal proportion of CD8-positive, alpha-beta TEMRA T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
 HP:0020178	Abnormal dendritic cell count	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
 HP:0020179	Abnormal circulating haptoglobin concentration	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
@@ -11164,8 +11233,11 @@ HP:0020194	IgA heavy chain paraproteinemia	is_observable_through	MAXO:0035026	ci
 HP:0020195	IgG heavy chain paraproteinemia	is_observable_through	MAXO:0035026	circulating immunoglobulin measurement	ORCID:0000-0002-0736-9199
 HP:0020196	IgM heavy chain paraproteinemia	is_observable_through	MAXO:0035026	circulating immunoglobulin measurement	ORCID:0000-0002-0736-9199
 HP:0020197	Increased circulating arachidonic acid concentration	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
+HP:0020198	Abnormal circulating 18-hydroxycorticosterone level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0020198	Abnormal circulating 18-hydroxycorticosterone level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0020199	Decreased circulating 18-hydroxycortisone level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0020199	Decreased circulating 18-hydroxycortisone level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0020200	Increased circulating 18-hydroxycortisone level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0020200	Increased circulating 18-hydroxycortisone level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0020201	Abnormal sarcomere morphology	is_observable_through	MAXO:0000387	biopsy of muscle tissue	ORCID:0000-0002-0736-9199
 HP:0020202	Abnormal Z disk morphology	is_observable_through	MAXO:0000387	biopsy of muscle tissue	ORCID:0000-0002-0736-9199
@@ -11535,6 +11607,7 @@ HP:0025374	Duplicated odontoid process	is_observable_through	MAXO:0035050	spine 
 HP:0025375	Orthotopic os odontoideum	is_observable_through	MAXO:0035050	spine radiography	ORCID:0000-0002-0736-9199
 HP:0025376	Hyperglutaminuria	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0025379	Anti-thyroid peroxidase antibody positivity	is_observable_through	MAXO:0000609	serology testing	ORCID:0000-0002-0736-9199
+HP:0025380	Increased circulating androstenedione concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0025380	Increased circulating androstenedione concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0025381	Anti-pituitary antibody positivity	is_observable_through	MAXO:0000609	serology testing	ORCID:0000-0002-0736-9199
 HP:0025382	Hypodipsia	is_observable_through	MAXO:0000714	psychiatrist evaluation	ORCID:0000-0002-0736-9199
@@ -11589,6 +11662,7 @@ HP:0025432	Acanthoma	is_observable_through	MAXO:0000691	medical oncologist evalu
 HP:0025433	Decreased lecithin cholesterol acyl transferase level	is_observable_through	MAXO:0035011	enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:0025434	Reduced circulating CH50 activity	is_observable_through	MAXO:0035076	complement assay	ORCID:0000-0002-0736-9199
 HP:0025435	Increased circulating lactate dehydrogenase concentration	is_observable_through	MAXO:0035011	enzyme activity assessment	ORCID:0000-0002-0736-9199
+HP:0025436	Elevated serum 11-deoxycortisol	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0025436	Elevated serum 11-deoxycortisol	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0025437	Macrozoospermia	is_observable_through	MAXO:0035075	sperm analysis	ORCID:0000-0002-0736-9199
 HP:0025439	Pharyngitis	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
@@ -11691,7 +11765,9 @@ HP:0025535	Shawl sign	is_observable_through	MAXO:0000671	dermatology specialist 
 HP:0025536	V-sign	is_observable_through	MAXO:0000671	dermatology specialist evaluation	ORCID:0000-0002-0736-9199
 HP:0025537	Plantar edema	is_observable_through	MAXO:0000671	dermatology specialist evaluation	ORCID:0000-0002-0736-9199
 HP:0025538	Palmar edema	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
+HP:0025539	Abnormal B cell subset distribution	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0025539	Abnormal B cell subset distribution	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
+HP:0025540	Abnormal T cell subset distribution	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0025540	Abnormal T cell subset distribution	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
 HP:0025546	Abnormal mean corpuscular hemoglobin concentration	is_observable_through	MAXO:0000829	blood cell measurement	ORCID:0000-0002-0736-9199
 HP:0025547	Decreased mean corpuscular hemoglobin concentration	is_observable_through	MAXO:0000829	blood cell measurement	ORCID:0000-0002-0736-9199
@@ -11770,12 +11846,19 @@ HP:0025612	Corneal astigmatism	is_observable_through	MAXO:0000973	slit-lamp exam
 HP:0025613	Focal emotional seizure	is_observable_through	MAXO:0000716	neurologist evaluation	ORCID:0000-0002-0736-9199
 HP:0025615	Abscess	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:0025616	Sterile abscess	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
+HP:0025617	Abnormal plasma cell count	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0025617	Abnormal plasma cell count	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
+HP:0025618	Reduced plasma cell count	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0025618	Reduced plasma cell count	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
+HP:0025619	Elevated plasma cell count	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0025619	Elevated plasma cell count	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
+HP:0025620	Abnormal proportion of CD4+ central memory cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0025620	Abnormal proportion of CD4+ central memory cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0025623	Abnormal proportion of CD4+ effector memory cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0025623	Abnormal proportion of CD4+ effector memory cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0025624	Reduced proportion of CD4+ effector memory T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0025624	Reduced proportion of CD4+ effector memory T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0025625	Elevated proportion of CD4+ effector memory T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0025625	Elevated proportion of CD4+ effector memory T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
 HP:0025626	Increased circulating oleate level	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0025627	Increased circulating octadecanoate level	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
@@ -11875,6 +11958,7 @@ HP:0025728	Periventricular pseudocyst	is_observable_through	MAXO:0000427	MRI of 
 HP:0025729	Fetal vascular malperfusion	is_observable_through	MAXO:0000702	obstetrics and gynecology specialist evaluation	ORCID:0000-0002-0736-9199
 HP:0025730	Foramen ovale aneurysm	is_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0002-0736-9199
 HP:0025739	Optic nerve mass	is_observable_through	MAXO:0000703	ophthalmologist evaluation	ORCID:0000-0002-0736-9199
+HP:0025794	Reduced MHC I cell surface expression	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
 HP:0025795	Positive urine infectious agent test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:0025796	Positive urine Legionella pneumophila antigen test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:0030000	EMG: repetitive nerve stimulation abnormality	is_observable_through	MAXO:0000716	neurologist evaluation	ORCID:0000-0002-0736-9199
@@ -11970,7 +12054,9 @@ HP:0030082	Abnormal drinking behavior	is_observable_through	MAXO:0000714	psychia
 HP:0030083	Salt craving	is_observable_through	MAXO:0000714	psychiatrist evaluation	ORCID:0000-0002-0736-9199
 HP:0030085	Abnormal CSF lactate concentration	is_observable_through	MAXO:0001169	cerebrospinal fluid specimen collection	ORCID:0000-0002-0736-9199
 HP:0030086	Reduced CSF lactate	is_observable_through	MAXO:0001169	cerebrospinal fluid specimen collection	ORCID:0000-0002-0736-9199
+HP:0030087	Abnormal circulating testosterone concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0030087	Abnormal circulating testosterone concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0030088	Increased serum testosterone level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0030088	Increased serum testosterone level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0030089	Abnormal muscle fiber protein expression	is_observable_through	MAXO:0000387	biopsy of muscle tissue	ORCID:0000-0002-0736-9199
 HP:0030090	Abnormal muscle fiber merosin expression	is_observable_through	MAXO:0000387	biopsy of muscle tissue	ORCID:0000-0002-0736-9199
@@ -12032,6 +12118,7 @@ HP:0030146	Abnormal liver parenchyma morphology	is_observable_through	MAXO:00003
 HP:0030147	Truncal titubation	is_observable_through	MAXO:0000716	neurologist evaluation	ORCID:0000-0002-0736-9199
 HP:0030148	Heart murmur	is_observable_through	MAXO:0035120	cardiac auscultation	ORCID:0000-0002-0736-9199
 HP:0030149	Cardiogenic shock	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
+HP:0030150	Plasmacytosis	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0030151	Cholangitis	is_observable_through	MAXO:0000376	biopsy of liver	ORCID:0000-0002-0736-9199
 HP:0030153	Cholangiocarcinoma	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
 HP:0030154	Gallbladder perforation	is_observable_through	MAXO:0000426	MRI of the abdomen	ORCID:0000-0002-0736-9199
@@ -12115,7 +12202,9 @@ HP:0030247	Splanchnic vein thrombosis	is_observable_through	MAXO:0035095	venogra
 HP:0030248	Mesenteric venous thrombosis	is_observable_through	MAXO:0035095	venography procedure	ORCID:0000-0002-0736-9199
 HP:0030249	Enanthema	is_observable_through	MAXO:0000671	dermatology specialist evaluation	ORCID:0000-0002-0736-9199
 HP:0030250	Pulmonary granulomatosis	is_observable_through	MAXO:0010356	chest radiograph procedure	ORCID:0000-0002-0736-9199
+HP:0030251	Absence of memory B cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0030251	Absence of memory B cells	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
+HP:0030252	Absent circulating B cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0030252	Absent circulating B cells	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
 HP:0030253	Defective T cell proliferation	is_observable_through	MAXO:0035077	functional T cell assessment	ORCID:0000-0002-0736-9199
 HP:0030254	Nail bed hemorrhage	is_observable_through	MAXO:0009055	examination by dermatologist	ORCID:0000-0002-0736-9199
@@ -12133,9 +12222,11 @@ HP:0030263	Torsion of the penis	is_observable_through	MAXO:0000487	clinical asse
 HP:0030264	Webbed penis	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:0030265	Wide penis	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:0030267	Calcification of the interosseus membrane of the forearm	is_observable_through	MAXO:0035043	upper limb radiography	ORCID:0000-0002-0736-9199
+HP:0030269	Increased circulating insulin-like growth factor 1 concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0030269	Increased circulating insulin-like growth factor 1 concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0030270	Elevated red cell adenosine deaminase activity	is_observable_through	MAXO:0035011	enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:0030271	Reduced erythrocyte 2,3-diphosphoglycerate concentration	is_observable_through	MAXO:0000829	blood cell measurement	ORCID:0000-0002-0736-9199
+HP:0030271	Reduced erythrocyte 2,3-diphosphoglycerate concentration	is_observable_through	MAXO:0035019	erythrocyte enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:0030272	Abnormal erythrocyte enzyme concentration or activity	is_observable_through	MAXO:0035011	enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:0030273	Reduced red cell adenosine deaminase level	is_observable_through	MAXO:0035011	enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:0030274	Accessory scrotum	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
@@ -12197,18 +12288,34 @@ HP:0030329	Retinal thinning	is_observable_through	MAXO:0000703	ophthalmologist e
 HP:0030329	Retinal thinning	is_observable_through	MAXO:0035004	fundoscopy	ORCID:0000-0002-0736-9199
 HP:0030330	Multinucleated giant chondrocytes in epiphyseal cartilage	is_observable_through	MAXO:0000595	radiograph imaging procedure	ORCID:0000-0002-0736-9199
 HP:0030331	Impaired stimulus-induced skin wrinkling	is_observable_through	MAXO:0000671	dermatology specialist evaluation	ORCID:0000-0002-0736-9199
+HP:0030333	Abnormal alpha-beta T cell morphology	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
+HP:0030334	Abnormal CD4-positive, CD25-positive, alpha-beta regulatory T cell morphology	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
+HP:0030335	Abnormal CD4-positive, CD25-positive, alpha-beta regulatory T cell count	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
+HP:0030336	Absence of CD4-positive, CD25-positive regulatory T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
+HP:0030337	Elevated CD4-positive, CD25-positive regulatory T cell count	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
+HP:0030338	Abnormal circulating gonadotropin concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0030338	Abnormal circulating gonadotropin concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0030339	Decreased circulating gonadotropin concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0030339	Decreased circulating gonadotropin concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0030341	Decreased circulating follicle stimulating hormone concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0030341	Decreased circulating follicle stimulating hormone concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0030344	Decreased circulating luteinizing hormone level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0030344	Decreased circulating luteinizing hormone level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0030345	Abnormal circulating luteinizing hormone concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0030345	Abnormal circulating luteinizing hormone concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0030346	Abnormal circulating follicle-stimulating hormone concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0030346	Abnormal circulating follicle-stimulating hormone concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0030347	Abnormal circulating androgen level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0030347	Abnormal circulating androgen level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0030348	Increased circulating androgen concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0030348	Increased circulating androgen concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0030349	Decreased circulating androgen concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0030349	Decreased circulating androgen concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0030350	Erythematous papule	is_observable_through	MAXO:0009055	examination by dermatologist	ORCID:0000-0002-0736-9199
 HP:0030351	Urticarial plaque	is_observable_through	MAXO:0009055	examination by dermatologist	ORCID:0000-0002-0736-9199
+HP:0030352	Abnormal serum insulin-like growth factor 1 level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0030352	Abnormal serum insulin-like growth factor 1 level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0030353	Decreased serum insulin-like growth factor 1	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0030353	Decreased serum insulin-like growth factor 1	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0030355	Abnormal circulating interferon-gamma concentration	is_observable_through	MAXO:0000553	cytokine biomarker assessment	ORCID:0000-0002-0736-9199
 HP:0030356	Increased circulating interferon-gamma concentration	is_observable_through	MAXO:0000553	cytokine biomarker assessment	ORCID:0000-0002-0736-9199
@@ -12225,23 +12332,41 @@ HP:0030366	Delivery by Odon device	is_observable_through	MAXO:0000702	obstetrics
 HP:0030367	Finger hyperphalangy	is_observable_through	MAXO:0035001	hand radiography	ORCID:0000-0002-0736-9199
 HP:0030368	Hyperphalangy of the 2nd finger	is_observable_through	MAXO:0035001	hand radiography	ORCID:0000-0002-0736-9199
 HP:0030369	Induced vaginal delivery	is_observable_through	MAXO:0000702	obstetrics and gynecology specialist evaluation	ORCID:0000-0002-0736-9199
+HP:0030370	Abnormal proportion of naive B cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0030370	Abnormal proportion of naive B cells	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
+HP:0030371	Increased proportion of naive B cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0030371	Increased proportion of naive B cells	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
+HP:0030372	Decreased proportion of naive B cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0030372	Decreased proportion of naive B cells	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
+HP:0030373	Abnormal proportion of memory B cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0030373	Abnormal proportion of memory B cells	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
+HP:0030374	Decreased proportion of memory B cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0030374	Decreased proportion of memory B cells	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
+HP:0030375	Increased proportion of memory B cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0030375	Increased proportion of memory B cells	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
+HP:0030376	Abnormal proportion of immature B cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0030376	Abnormal proportion of immature B cells	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
+HP:0030377	Increased proportion of immature B cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0030377	Increased proportion of immature B cells	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
+HP:0030378	Decreased proportion of immature B cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0030378	Decreased proportion of immature B cells	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
+HP:0030379	Abnormal proportion of transitional B cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0030379	Abnormal proportion of transitional B cells	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
+HP:0030380	Decreased proportion of transitional B cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0030380	Decreased proportion of transitional B cells	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
+HP:0030381	Increased proportion of transitional B cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0030381	Increased proportion of transitional B cells	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
+HP:0030383	Abnormal proportion of marginal zone B cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0030383	Abnormal proportion of marginal zone B cells	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
+HP:0030384	Decreased proportion of marginal zone B cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0030384	Decreased proportion of marginal zone B cells	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
+HP:0030385	Increased proportion of marginal zone B cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0030385	Increased proportion of marginal zone B cells	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
+HP:0030386	Abnormal proportion of class-switched memory B cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0030386	Abnormal proportion of class-switched memory B cells	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
+HP:0030387	Increased proportion of class-switched memory B cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0030387	Increased proportion of class-switched memory B cells	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
+HP:0030388	Decreased proportion of class-switched memory B cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0030388	Decreased proportion of class-switched memory B cells	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
 HP:0030389	Abnormal circulating thromboxane concentration	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0030390	Reduced circulating leukotriene C4 concentration	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
@@ -12557,11 +12682,17 @@ HP:0030681	Abnormal morphology of myocardial trabeculae	is_observable_through	MA
 HP:0030682	Left ventricular noncompaction	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
 HP:0030682	Left ventricular noncompaction	is_observable_through	MAXO:0010203	echocardiography	ORCID:0000-0002-0736-9199
 HP:0030683	Vaginitis	is_observable_through	MAXO:0000702	obstetrics and gynecology specialist evaluation	ORCID:0000-0002-0736-9199
+HP:0030684	Abnormal adiponectin level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0030684	Abnormal adiponectin level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0030685	Decreased adiponectin level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0030685	Decreased adiponectin level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0030686	Increased adiponectin level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0030686	Increased adiponectin level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0030687	Abnormal glucagon level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0030687	Abnormal glucagon level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0030688	Increased glucagon level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0030688	Increased glucagon level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0030689	Decreased glucagon level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0030689	Decreased glucagon level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0030690	Gingival cleft	is_observable_through	MAXO:0000671	dermatology specialist evaluation	ORCID:0000-0002-0736-9199
 HP:0030691	Divergence nystagmus	is_observable_through	MAXO:0000703	ophthalmologist evaluation	ORCID:0000-0002-0736-9199
@@ -12910,6 +13041,7 @@ HP:0031048	Light-chain paraproteinemia	is_observable_through	MAXO:0035026	circul
 HP:0031049	Heavy-chain paraproteinemia	is_observable_through	MAXO:0035026	circulating immunoglobulin measurement	ORCID:0000-0002-0736-9199
 HP:0031050	Whole-immunoglobulin paraproteinemia	is_observable_through	MAXO:0035026	circulating immunoglobulin measurement	ORCID:0000-0002-0736-9199
 HP:0031051	Tarsal sclerosis	is_observable_through	MAXO:0035006	foot radiography	ORCID:0000-0002-0736-9199
+HP:0031052	Elevated vascular endothelial growth factor level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0031052	Elevated vascular endothelial growth factor level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0031053	Coarctation in the transverse aortic arch	is_observable_through	MAXO:0000428	MRI of the chest	ORCID:0000-0002-0736-9199
 HP:0031054	Long segment coarctation of the aorta	is_observable_through	MAXO:0000428	MRI of the chest	ORCID:0000-0002-0736-9199
@@ -12954,12 +13086,19 @@ HP:0031094	Abnormal breast physiology	is_observable_through	MAXO:0000702	obstetr
 HP:0031095	Abnormal humerus morphology	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
 HP:0031095	Abnormal humerus morphology	is_observable_through	MAXO:0035043	upper limb radiography	ORCID:0000-0002-0736-9199
 HP:0031096	Delayed vertebral ossification	is_observable_through	MAXO:0000595	radiograph imaging procedure	ORCID:0000-0002-0736-9199
+HP:0031097	Abnormal thyroid-stimulating hormone level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0031097	Abnormal thyroid-stimulating hormone level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0031098	Decreased thyroid-stimulating hormone level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0031098	Decreased thyroid-stimulating hormone level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0031099	Abnormal circulating inhibin level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0031099	Abnormal circulating inhibin level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0031100	Decreased circulating inhibin B concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0031100	Decreased circulating inhibin B concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0031101	Abnormal circulating antimullerian hormone concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0031101	Abnormal circulating antimullerian hormone concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0031102	Increased circulating antimullerian hormone concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0031102	Increased circulating antimullerian hormone concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0031103	Decreased circulating antimullerian hormone circulation	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0031103	Decreased circulating antimullerian hormone circulation	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0031104	Insulin receptor antibody positivity	is_observable_through	MAXO:0000609	serology testing	ORCID:0000-0002-0736-9199
 HP:0031105	Abnormal uterus morphology	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
@@ -13046,7 +13185,9 @@ HP:0031179	Nuchal rigidity	is_observable_through	MAXO:0000487	clinical assessmen
 HP:0031180	Erythema migrans	is_observable_through	MAXO:0000671	dermatology specialist evaluation	ORCID:0000-0002-0736-9199
 HP:0031181	Necrolytic migratory erythema	is_observable_through	MAXO:0000671	dermatology specialist evaluation	ORCID:0000-0002-0736-9199
 HP:0031185	Increased circulating NT-proBNP concentration	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
+HP:0031186	Abnormal circulating deoxycorticosterone level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0031186	Abnormal circulating deoxycorticosterone level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0031187	Abnormal circulating pregnenolone concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0031187	Abnormal circulating pregnenolone concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0031188	Genital edema	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:0031189	Wrist drop	is_observable_through	MAXO:0000716	neurologist evaluation	ORCID:0000-0002-0736-9199
@@ -13068,14 +13209,20 @@ HP:0031204	Bacterial cell casts	is_observable_through	MAXO:0000143	urine cytolog
 HP:0031205	Reduced lysosomal acid lipase activity	is_observable_through	MAXO:0035011	enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:0031206	Striatal T2 hyperintensity	is_observable_through	MAXO:0000427	MRI of the brain	ORCID:0000-0002-0736-9199
 HP:0031207	Hepatic hemangioma	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
+HP:0031208	Increased pituitary glycoprotein hormone alpha subunit level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0031208	Increased pituitary glycoprotein hormone alpha subunit level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0031209	Decreased circulating lipoprotein lipase concentration	is_observable_through	MAXO:0035011	enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:0031210	Abnormal circulating hyaluronic acid concentration	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0031211	Elevated cholesterol ester level	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
+HP:0031212	Abnormal circulating progesterone level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0031212	Abnormal circulating progesterone level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0031213	Elevated circulating 17-hydroxyprogesterone concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0031213	Elevated circulating 17-hydroxyprogesterone concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0031214	Decreased circulating dehydroepiandrosterone concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0031214	Decreased circulating dehydroepiandrosterone concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0031215	Decreased circulating dehydroepiandrosterone-sulfate concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0031215	Decreased circulating dehydroepiandrosterone-sulfate concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0031216	Increased circulating progesterone	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0031216	Increased circulating progesterone	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0031217	Hot flashes	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:0031218	Inappropriate antidiuretic hormone secretion	is_observable_through	MAXO:0000685	endocrinologist evaluation	ORCID:0000-0002-0736-9199
@@ -13251,21 +13398,34 @@ HP:0031385	Megakaryocyte nucleus hypolobulation	is_observable_through	MAXO:00350
 HP:0031386	Increased micromegakaryocyte count	is_observable_through	MAXO:0035073	megakaryocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0031387	Increased multinucleated megakaryocyte count	is_observable_through	MAXO:0035073	megakaryocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0031388	Megakaryocyte nucleus hyperlobulation	is_observable_through	MAXO:0035073	megakaryocyte morphology measurement	ORCID:0000-0002-0736-9199
+HP:0031389	Abnormal MHC II cell surface expression	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0031390	Reduced MHC II cell surface expression	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0031391	Elevated MHC II cell surface expression	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0031392	Abnormal proportion of CD4-positive T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0031392	Abnormal proportion of CD4-positive T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0031393	Abnormal proportion of CD8-positive T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0031393	Abnormal proportion of CD8-positive T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0031394	Abnormal CD4:CD8 ratio	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0031394	Abnormal CD4:CD8 ratio	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0031396	Abnormal proportion of naive T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0031396	Abnormal proportion of naive T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0031397	Decreased proportion of naive T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0031397	Decreased proportion of naive T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0031398	Increased proportion of naive T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0031398	Increased proportion of naive T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0031399	Abnormal proportion of double-negative alpha-beta regulatory T cell	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0031399	Abnormal proportion of double-negative alpha-beta regulatory T cell	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0031401	Reduced proportion of CD4-negative, CD8-negative, alpha-beta regulatory T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0031401	Reduced proportion of CD4-negative, CD8-negative, alpha-beta regulatory T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
 HP:0031402	Reduced antigen-specific T cell proliferation	is_observable_through	MAXO:0035077	functional T cell assessment	ORCID:0000-0002-0736-9199
+HP:0031404	Impaired antigen-specific response	is_observable_through	MAXO:0000666	allergy and immunology specialist evaluation	ORCID:0000-0002-0736-9199
 HP:0031405	Poroma	is_observable_through	MAXO:0000671	dermatology specialist evaluation	ORCID:0000-0002-0736-9199
 HP:0031405	Poroma	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
 HP:0031406	Abnormal cytokine signaling	is_observable_through	MAXO:0000553	cytokine biomarker assessment	ORCID:0000-0002-0736-9199
 HP:0031407	Impaired cytokine signaling	is_observable_through	MAXO:0000553	cytokine biomarker assessment	ORCID:0000-0002-0736-9199
 HP:0031408	Increased proportion of CD25+ mast cells	is_observable_through	MAXO:0000829	blood cell measurement	ORCID:0000-0002-0736-9199
 HP:0031409	Abnormal lymphocyte physiology	is_observable_through	MAXO:0035122	cell function assay	ORCID:0000-0002-0736-9199
+HP:0031410	Abnormal distribution of CD56 bright/dim natural killer cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0031410	Abnormal distribution of CD56 bright/dim natural killer cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
 HP:0031414	High serum calcifediol	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0031415	High serum calcitriol	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
@@ -13287,8 +13447,11 @@ HP:0031423	Small cerebellar cortex	is_prenatally_observable_through	MAXO:0001478
 HP:0031424	Abnormal circulating beta-C-terminal telopeptide concentration	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0031425	Increased circulating beta-C-terminal telopeptide concentration	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0031426	Decreased circulating beta-C-terminal telopeptide concentration	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
+HP:0031427	Abnormal circulating osteocalcin level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0031427	Abnormal circulating osteocalcin level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0031428	Increased circulating osteocalcin level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0031428	Increased circulating osteocalcin level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0031429	Decreased circulating osteocalcin level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0031429	Decreased circulating osteocalcin level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0031430	Oligoclonal T cell expansion	is_observable_through	MAXO:0035077	functional T cell assessment	ORCID:0000-0002-0736-9199
 HP:0031431	Persistent repetition of sounds	is_observable_through	MAXO:0000714	psychiatrist evaluation	ORCID:0000-0002-0736-9199
@@ -13367,15 +13530,20 @@ HP:0031501	Pelvic mass	is_observable_through	MAXO:0035061	pelvic CT	ORCID:0000-0
 HP:0031502	Trophoblastic tumor	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
 HP:0031503	Night gasping	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:0031504	Foamy urine	is_observable_through	MAXO:0001161	urine specimen collection	ORCID:0000-0002-0736-9199
+HP:0031505	Abnormal circulating T4 concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0031505	Abnormal circulating T4 concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0031506	Increased circulating T4 concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0031506	Increased circulating T4 concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0031507	Decreased circulating T4 concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0031507	Decreased circulating T4 concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0031508	Abnormal circulating thyroid hormone concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0031508	Abnormal circulating thyroid hormone concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0031509	Dry nipple	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:0031510	Linear earlobe crease	is_observable_through	MAXO:0000706	otolaryngologist evaluation	ORCID:0000-0002-0736-9199
 HP:0031511	Diagonal earlobe crease	is_observable_through	MAXO:0000706	otolaryngologist evaluation	ORCID:0000-0002-0736-9199
 HP:0031512	Abnormal cutaneous collagen fibril morphology	is_observable_through	MAXO:0000671	dermatology specialist evaluation	ORCID:0000-0002-0736-9199
 HP:0031513	Luse bodies	is_observable_through	MAXO:0000671	dermatology specialist evaluation	ORCID:0000-0002-0736-9199
+HP:0031514	Increased proportion of exhausted T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0031514	Increased proportion of exhausted T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
 HP:0031515	Abnormal meiosis	is_observable_through	MAXO:0035057	reproductive endocrinologist assessment	ORCID:0000-0002-0736-9199
 HP:0031516	Oocyte arrest at metaphase I	is_observable_through	MAXO:0035057	reproductive endocrinologist assessment	ORCID:0000-0002-0736-9199
@@ -13415,6 +13583,7 @@ HP:0031540	Linear IgG deposits along the epidermal basement membrane zone	is_obs
 HP:0031541	Linear C3 deposits along the epidermal basement membrane zone	is_observable_through	MAXO:0000423	biopsy of skin	ORCID:0000-0002-0736-9199
 HP:0031542	Myelin-like whorls in vacuolated fibers	is_observable_through	MAXO:0000387	biopsy of muscle tissue	ORCID:0000-0002-0736-9199
 HP:0031544	Elevated circulating palmitoleylcarnitine concentration	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
+HP:0031545	Abnormally low T cell receptor excision circle level	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0031545	Abnormally low T cell receptor excision circle level	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
 HP:0031547	Abnormal QT interval	is_observable_through	MAXO:0000900	electrocardiography	ORCID:0000-0002-0736-9199
 HP:0031548	Follicular infundibulum tumor	is_observable_through	MAXO:0000671	dermatology specialist evaluation	ORCID:0000-0002-0736-9199
@@ -13707,6 +13876,7 @@ HP:0031789	Against the rule astigmatism	is_observable_through	MAXO:0000973	slit-
 HP:0031790	Mixed astigmatism	is_observable_through	MAXO:0000973	slit-lamp examination	ORCID:0000-0002-0736-9199
 HP:0031791	Lenticular astigmatism	is_observable_through	MAXO:0000973	slit-lamp examination	ORCID:0000-0002-0736-9199
 HP:0031792	Irregular astigmatism	is_observable_through	MAXO:0000973	slit-lamp examination	ORCID:0000-0002-0736-9199
+HP:0031793	Increased serum leptin	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0031793	Increased serum leptin	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0031794	Decreased circulating glycerol level	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0031795	Abnormal circulating glycerol level	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
@@ -13728,6 +13898,7 @@ HP:0031810	Anti-ganglioside antibody positivity	is_observable_through	MAXO:00006
 HP:0031811	Bilirubinuria	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0031812	Nitrituria	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0031814	Palilalia	is_observable_through	MAXO:0000716	neurologist evaluation	ORCID:0000-0002-0736-9199
+HP:0031817	Decreased circulating parathyroid hormone level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0031817	Decreased circulating parathyroid hormone level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0031820	Decreased waist to hip ratio	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:0031821	Abnormal hypoxanthine-guanine phosphoribosyltransferase level	is_observable_through	MAXO:0035011	enzyme activity assessment	ORCID:0000-0002-0736-9199
@@ -14008,11 +14179,17 @@ HP:0032120	Abnormal peripheral nervous system physiology	is_observable_through	M
 HP:0032121	Froment sign	is_observable_through	MAXO:0000716	neurologist evaluation	ORCID:0000-0002-0736-9199
 HP:0032122	Very low visual acuity	is_observable_through	MAXO:0035015	visual acuity assessment	ORCID:0000-0002-0736-9199
 HP:0032123	Ultra-low vision	is_observable_through	MAXO:0035015	visual acuity assessment	ORCID:0000-0002-0736-9199
+HP:0032124	Abnormal proportion of unswitched memory B cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0032124	Abnormal proportion of unswitched memory B cells	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
+HP:0032125	Increased proportion of unswitched memory B cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0032125	Increased proportion of unswitched memory B cells	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
+HP:0032126	Decreased proportion of unswitched memory B cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0032126	Decreased proportion of unswitched memory B cells	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
+HP:0032127	Abnormal plasmablast proportion	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0032127	Abnormal plasmablast proportion	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
+HP:0032128	Increased proportion of plasmablasts	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0032128	Increased proportion of plasmablasts	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
+HP:0032129	Decreased proportion of plasmablasts	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0032129	Decreased proportion of plasmablasts	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
 HP:0032130	Mycobacterium abscessus abscessus infection	is_observable_through	MAXO:0000666	allergy and immunology specialist evaluation	ORCID:0000-0002-0736-9199
 HP:0032131	Cervical dysplasia	is_observable_through	MAXO:0000702	obstetrics and gynecology specialist evaluation	ORCID:0000-0002-0736-9199
@@ -14067,8 +14244,11 @@ HP:0032179	Abnormal circulating globulin concentration	is_observable_through	MAX
 HP:0032180	Abnormal circulating metabolite concentration	is_observable_through	MAXO:0000566	clinical chemistry assessment	ORCID:0000-0002-0736-9199
 HP:0032180	Abnormal circulating metabolite concentration	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0032181	Anomalous hepatic venous drainage into the left atrium	is_observable_through	MAXO:0001259	angiography	ORCID:0000-0002-0736-9199
+HP:0032182	Abnormal proportion of memory T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0032182	Abnormal proportion of memory T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0032183	Decreased proportion of memory T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0032183	Decreased proportion of memory T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0032184	Increased proportion of memory T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0032184	Increased proportion of memory T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
 HP:0032185	Disseminated molluscum contagiosum	is_observable_through	MAXO:0000666	allergy and immunology specialist evaluation	ORCID:0000-0002-0736-9199
 HP:0032186	Anal neoplasm	is_observable_through	MAXO:0000686	gastroenterologist evaluation	ORCID:0000-0002-0736-9199
@@ -14093,7 +14273,9 @@ HP:0032203	Lymphoid nodular hyperplasia	is_observable_through	MAXO:0000372	biops
 HP:0032204	Chronic active Epstein-Barr virus infection	is_observable_through	MAXO:0000666	allergy and immunology specialist evaluation	ORCID:0000-0002-0736-9199
 HP:0032205	Increased circulating galectin-3 level	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0032208	Increased urinary type 1 collagen N-terminal telopeptide level	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
+HP:0032209	Abnormal circulating free T3 concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0032209	Abnormal circulating free T3 concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0032210	Decreased circulating free T3	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0032210	Decreased circulating free T3	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0032211	Increased urinary epithelial cell count	is_observable_through	MAXO:0000143	urine cytology examination	ORCID:0000-0002-0736-9199
 HP:0032212	Increased urinary squamous epithelial cell count	is_observable_through	MAXO:0000143	urine cytology examination	ORCID:0000-0002-0736-9199
@@ -14103,7 +14285,9 @@ HP:0032215	Disseminated cutaneous warts	is_observable_through	MAXO:0000671	derma
 HP:0032215	Disseminated cutaneous warts	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
 HP:0032216	Lymphocytic infiltration of the colorectal mucosa	is_observable_through	MAXO:0000372	biopsy of large intestine	ORCID:0000-0002-0736-9199
 HP:0032217	Indurated nodule	is_observable_through	MAXO:0009055	examination by dermatologist	ORCID:0000-0002-0736-9199
+HP:0032218	Decreased proportion of CD4-positive T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0032218	Decreased proportion of CD4-positive T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0032219	Increased proportion of CD4-positive T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0032219	Increased proportion of CD4-positive T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
 HP:0032220	Interface hepatitis	is_observable_through	MAXO:0000376	biopsy of liver	ORCID:0000-0002-0736-9199
 HP:0032221	Periportal emperipolesis	is_observable_through	MAXO:0000376	biopsy of liver	ORCID:0000-0002-0736-9199
@@ -14193,6 +14377,7 @@ HP:0032303	Lambda Bence Jones proteinuria	is_observable_through	MAXO:0000789	uri
 HP:0032304	Abnormal circulating mannose-binding protein concentration	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0032305	Decreased circulating mannose-binding protein concentration	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0032306	Increased circulating mannose-binding protein concentration	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
+HP:0032308	Increased circulating procalcitonin concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0032308	Increased circulating procalcitonin concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0032309	Abnormal granulocyte count	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
 HP:0032310	Granulocytosis	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
@@ -14237,9 +14422,12 @@ HP:0032358	Decreased post-bronchodilator forced expiratory volume in one second	
 HP:0032359	Decreased forced expiratory flow 25-75%	is_observable_through	MAXO:0000693	pulmonologist evaluation	ORCID:0000-0002-0736-9199
 HP:0032360	Decreased pre-bronchodilator forced expiratory flow 25-75%	is_observable_through	MAXO:0000693	pulmonologist evaluation	ORCID:0000-0002-0736-9199
 HP:0032361	Decreased post-bronchodilator forced expiratory flow 25-75%	is_observable_through	MAXO:0000693	pulmonologist evaluation	ORCID:0000-0002-0736-9199
+HP:0032362	Increased circulating corticosterone level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0032362	Increased circulating corticosterone level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0032363	Decreased circulating corticosterone level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0032363	Decreased circulating corticosterone level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0032366	Positive direct antiglobulin test	is_observable_through	MAXO:0000609	serology testing	ORCID:0000-0002-0736-9199
+HP:0032367	Abnormal growth hormone level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0032367	Abnormal growth hormone level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0032368	Acidemia	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0032369	Alkalemia	is_observable_through	MAXO:0000566	clinical chemistry assessment	ORCID:0000-0002-0736-9199
@@ -14337,7 +14525,9 @@ HP:0032477	Elevated circulating vitamin B6 concentration	is_observable_through	M
 HP:0032478	Lateral spinal meningocele	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:0032479	Preimplantation lethality	is_observable_through	MAXO:0035057	reproductive endocrinologist assessment	ORCID:0000-0002-0736-9199
 HP:0032480	Beta-aminoisobutyric aciduria	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
+HP:0032481	Abnormal pituitary glycoprotein hormone alpha subunit level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0032481	Abnormal pituitary glycoprotein hormone alpha subunit level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0032482	Decreased pituitary glycoprotein hormone alpha subunit level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0032482	Decreased pituitary glycoprotein hormone alpha subunit level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0032484	Elevated fecal sodium	is_observable_through	MAXO:0035047	stool metabolite measurement	ORCID:0000-0002-0736-9199
 HP:0032485	Abnormal fecal osmolality	is_observable_through	MAXO:0035047	stool metabolite measurement	ORCID:0000-0002-0736-9199
@@ -14416,6 +14606,7 @@ HP:0032573	Elevated urinary cytidine	is_observable_through	MAXO:0000789	urine ch
 HP:0032574	Elevated urinary uridine level	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0032575	Decreased circulating 12-HETE	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0032576	Intracellular accumulation of Dol-PP-GlcNAc2Man5	is_observable_through	MAXO:0000001	medical action	ORCID:0000-0002-0736-9199
+HP:0032577	Clonal T cell receptor rearrangement	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0032577	Clonal T cell receptor rearrangement	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
 HP:0032578	Third ventricle colloid cyst	is_observable_through	MAXO:0010316	brain CT	ORCID:0000-0002-0736-9199
 HP:0032579	Vascular hamartoma	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
@@ -14902,8 +15093,12 @@ HP:0033072	Abnormal macroscopic urine appearance	is_observable_through	MAXO:0001
 HP:0033073	Urate tophus	is_observable_through	MAXO:0000671	dermatology specialist evaluation	ORCID:0000-0002-0736-9199
 HP:0033074	Steroid-responsive anemia	is_observable_through	MAXO:0000688	hematologist evaluation	ORCID:0000-0002-0736-9199
 HP:0033075	Inappropriately normal thyroid-stimulating hormone level	is_observable_through	MAXO:0000685	endocrinologist evaluation	ORCID:0000-0002-0736-9199
+HP:0033075	Inappropriately normal thyroid-stimulating hormone level	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
+HP:0033076	Abnormal circulating free T4 concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0033076	Abnormal circulating free T4 concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0033077	Increased circulating free T4 concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0033077	Increased circulating free T4 concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0033078	Decreased circulating free T4 concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0033078	Decreased circulating free T4 concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0033079	Aplasia/Hypoplasia of the thyroid gland	is_observable_through	MAXO:0010214	thyroid ultrasonography	ORCID:0000-0002-0736-9199
 HP:0033080	Abnormal TSH response to thyrotrophin-releasing hormone stimulation test	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
@@ -15031,6 +15226,7 @@ HP:0033203	Brachioradialis hyperreflexia	is_observable_through	MAXO:0000716	neur
 HP:0033204	Triceps hyperreflexia	is_observable_through	MAXO:0000716	neurologist evaluation	ORCID:0000-0002-0736-9199
 HP:0033205	Biceps hyperreflexia	is_observable_through	MAXO:0000716	neurologist evaluation	ORCID:0000-0002-0736-9199
 HP:0033206	Hyperactive Achilles reflex	is_observable_through	MAXO:0000716	neurologist evaluation	ORCID:0000-0002-0736-9199
+HP:0033207	Increased proportion autoreactive unresponsive CD21-/low B cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0033207	Increased proportion autoreactive unresponsive CD21-/low B cells	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
 HP:0033208	Alveolar capillary dysplasia	is_observable_through	MAXO:0000380	biopsy of lung	ORCID:0000-0002-0736-9199
 HP:0033209	Acinar dysplasia	is_observable_through	MAXO:0010314	lung CT	ORCID:0000-0002-0736-9199
@@ -15045,7 +15241,9 @@ HP:0033217	Perihilar glomerular hyalinosis	is_observable_through	MAXO:0001121	bi
 HP:0033218	Glomerular hyalinosis at the tubular pole	is_observable_through	MAXO:0001121	biopsy of kidney	ORCID:0000-0002-0736-9199
 HP:0033219	Glomerular hyalinosis away from the vascular and tubular poles	is_observable_through	MAXO:0001121	biopsy of kidney	ORCID:0000-0002-0736-9199
 HP:0033220	2-ethylhydracylic aciduria	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
+HP:0033221	Increased CD4:CD8 ratio	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0033221	Increased CD4:CD8 ratio	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0033222	Decreased CD4:CD8 ratio	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0033222	Decreased CD4:CD8 ratio	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
 HP:0033223	Abnormal glomerular parietal epithelial cell morphology	is_observable_through	MAXO:0001121	biopsy of kidney	ORCID:0000-0002-0736-9199
 HP:0033224	Glomerular parietal epithelial cell hyperplasia	is_observable_through	MAXO:0001121	biopsy of kidney	ORCID:0000-0002-0736-9199
@@ -15345,6 +15543,7 @@ HP:0033523	Abnormal sperm principal piece morphology	is_observable_through	MAXO:
 HP:0033524	Abnormal sperm axoneme morphology	is_observable_through	MAXO:0035075	sperm analysis	ORCID:0000-0002-0736-9199
 HP:0033525	Absent sperm axoneme central pair complex	is_observable_through	MAXO:0035075	sperm analysis	ORCID:0000-0002-0736-9199
 HP:0033526	Limited ankle dorsiflexion	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
+HP:0033527	Decreased gonadotropin-stimulated testosterone-to-androstenedione ratio	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0033527	Decreased gonadotropin-stimulated testosterone-to-androstenedione ratio	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0033528	Abnormal cardiac output	is_observable_through	MAXO:0010203	echocardiography	ORCID:0000-0002-0736-9199
 HP:0033529	Abnormal cardiac index	is_observable_through	MAXO:0010203	echocardiography	ORCID:0000-0002-0736-9199
@@ -15460,6 +15659,7 @@ HP:0033640	Acetabular erosions	is_observable_through	MAXO:0001253	pelvic radiogr
 HP:0033641	Aortic valve leaflet calcification	is_observable_through	MAXO:0010203	echocardiography	ORCID:0000-0002-0736-9199
 HP:0033642	Mitral valve leaflet calcification	is_observable_through	MAXO:0010203	echocardiography	ORCID:0000-0002-0736-9199
 HP:0033643	Increased circulating very long-chain fatty acid concentration	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
+HP:0033644	Elevated circulating erythropoietin concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0033644	Elevated circulating erythropoietin concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0033645	Midline brainstem cleft	is_observable_through	MAXO:0000427	MRI of the brain	ORCID:0000-0002-0736-9199
 HP:0033646	Absent hippocampal commissure	is_observable_through	MAXO:0000427	MRI of the brain	ORCID:0000-0002-0736-9199
@@ -15610,6 +15810,7 @@ HP:0033795	Growth without growth hormone	is_observable_through	MAXO:0000685	endo
 HP:0033796	Abnormal leukocyte physiology	is_observable_through	MAXO:0000666	allergy and immunology specialist evaluation	ORCID:0000-0002-0736-9199
 HP:0033797	Leukocyte migration defect	is_observable_through	MAXO:0035114	immune cell function assay	ORCID:0000-0002-0736-9199
 HP:0033798	Impaired leukocyte adhesion	is_observable_through	MAXO:0035114	immune cell function assay	ORCID:0000-0002-0736-9199
+HP:0033799	Abnormal circulating sex hormone concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0033799	Abnormal circulating sex hormone concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0033800	Blistering by anatomical location	is_observable_through	MAXO:0000671	dermatology specialist evaluation	ORCID:0000-0002-0736-9199
 HP:0033801	Blistering by histological location	is_observable_through	MAXO:0000423	biopsy of skin	ORCID:0000-0002-0736-9199
@@ -15620,9 +15821,13 @@ HP:0033805	Non-necrotizing granuloma	is_observable_through	MAXO:0000666	allergy 
 HP:0033806	Abnormal epidermis stratum granulosum morphology	is_observable_through	MAXO:0000423	biopsy of skin	ORCID:0000-0002-0736-9199
 HP:0033807	Absent keratohyalin granules	is_observable_through	MAXO:0000423	biopsy of skin	ORCID:0000-0002-0736-9199
 HP:0033808	Spermatocele	is_observable_through	MAXO:0010211	scrotal ultrasonography	ORCID:0000-0002-0736-9199
+HP:0033809	Increased circulating 17 hydroxypregnenolone concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0033809	Increased circulating 17 hydroxypregnenolone concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0033810	Decreased circulating dihydrotestosterone concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0033810	Decreased circulating dihydrotestosterone concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0033811	Abnormal circulating androstenedione concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0033811	Abnormal circulating androstenedione concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0033812	Decreased circulating androstenedione concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0033812	Decreased circulating androstenedione concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0033821	Pulmonary mass	is_observable_through	MAXO:0010317	chest CT	ORCID:0000-0002-0736-9199
 HP:0033822	Mass on thoracic imaging	is_observable_through	MAXO:0010317	chest CT	ORCID:0000-0002-0736-9199
@@ -16079,7 +16284,9 @@ HP:0034283	Increased fecal protoporphyrin concentration	is_observable_through	MA
 HP:0034284	Recurrent gingivitis	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:0034285	Enteroviral encephalitis	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:0034287	Afibrinogenemia	is_observable_through	MAXO:0000836	blood coagulation test	ORCID:0000-0002-0736-9199
+HP:0034288	Elevated circulating reverse T3 concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0034288	Elevated circulating reverse T3 concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0034289	Elevated circulating rT3/T3 ratio	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0034289	Elevated circulating rT3/T3 ratio	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0034290	Elevated circulating tiglylglycine concentration	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0034291	Elevated circulating creatine concentration	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
@@ -16116,6 +16323,7 @@ HP:0034319	CNS vasculitis with reactivation of varicella-zoster virus	is_observa
 HP:0034320	Muscle fiber intracytoplasmic reducing inclusion bodies	is_observable_through	MAXO:0000387	biopsy of muscle tissue	ORCID:0000-0002-0736-9199
 HP:0034321	Elevated circulating guanidinoacetic acid concentration	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0034322	Reduced tissue galactocerebrosidase activity	is_observable_through	MAXO:0035011	enzyme activity assessment	ORCID:0000-0002-0736-9199
+HP:0034323	Reduced circulating growth hormone concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0034323	Reduced circulating growth hormone concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0034324	Brachiocephalic artery aneurysm	is_observable_through	MAXO:0001259	angiography	ORCID:0000-0002-0736-9199
 HP:0034325	Common carotid artery aneurysm	is_observable_through	MAXO:0010203	echocardiography	ORCID:0000-0002-0736-9199
@@ -16168,6 +16376,7 @@ HP:0034378	Urethrovesical occlusion	is_observable_through	MAXO:0000722	urologist
 HP:0034380	Juvenile type testicular granulosa cell tumor	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
 HP:0034381	Central nervous system axonal spheroid	is_observable_through	MAXO:0000338	biopsy of brain	ORCID:0000-0002-0736-9199
 HP:0034383	Elevated circulating biliverdin concentration	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
+HP:0034384	Elevated circulating insulin:C-peptide ratio	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0034384	Elevated circulating insulin:C-peptide ratio	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0034385	Abnormal left ventricular endsystolic diameter	is_observable_through	MAXO:0010203	echocardiography	ORCID:0000-0002-0736-9199
 HP:0034386	Reduced left ventricular endsystolic diameter	is_observable_through	MAXO:0010203	echocardiography	ORCID:0000-0002-0736-9199
@@ -16220,7 +16429,9 @@ HP:0034436	Gaze avoidance	is_observable_through	MAXO:0009066	examination by psyc
 HP:0034437	Excessive eye contact	is_observable_through	MAXO:0009066	examination by psychiatrist	ORCID:0000-0002-0736-9199
 HP:0034438	Balanitis	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:0034441	Decreased circulating aspartic acid concentration	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
+HP:0034442	Abnormal circulating erythropoietin concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0034442	Abnormal circulating erythropoietin concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0034443	Reduced circulating erythropoietin concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0034443	Reduced circulating erythropoietin concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0034444	Abnormal gamma-glutamyltransferase level	is_observable_through	MAXO:0035011	enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:0034445	Reduced gamma-glutamyltransferase level	is_observable_through	MAXO:0035011	enzyme activity assessment	ORCID:0000-0002-0736-9199
@@ -16361,6 +16572,7 @@ HP:0034585	Cochlear nerve hypoplasia	is_observable_through	MAXO:0010312	head CT	
 HP:0034586	Glutathionuria	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0034587	Nevus psiloliparus	is_observable_through	MAXO:0000671	dermatology specialist evaluation	ORCID:0000-0002-0736-9199
 HP:0034588	Crypt hyperplasia	is_observable_through	MAXO:0000403	biopsy of small intestine	ORCID:0000-0002-0736-9199
+HP:0034589	Increased circulating dehydroepiandrosterone-sulfate concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0034589	Increased circulating dehydroepiandrosterone-sulfate concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0034590	Abnormal circulating thyroxine-binding globulin concentration	is_observable_through	MAXO:0000865	protein measurement in blood	ORCID:0000-0002-0736-9199
 HP:0034591	Decreased circulating thyroxine-binding globulin concentration	is_observable_through	MAXO:0000865	protein measurement in blood	ORCID:0000-0002-0736-9199
@@ -16372,6 +16584,7 @@ HP:0034596	Elevated ciculating 5-hydroxymethyluracil concentration	is_observable
 HP:0034597	Decreased CSF creatinine concentration	is_observable_through	MAXO:0035007	cerebrospinal fluid analysis	ORCID:0000-0002-0736-9199
 HP:0034598	Elevated urinary creatine level	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0034599	Decreased circulating biotin concentration	is_observable_through	MAXO:0035011	enzyme activity assessment	ORCID:0000-0002-0736-9199
+HP:0034600	Elevated circulating thrombopoietin concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0034600	Elevated circulating thrombopoietin concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0034601	Decreased circulating C1q concentration	is_observable_through	MAXO:0035076	complement assay	ORCID:0000-0002-0736-9199
 HP:0034602	Decreased circulating apolipoprotein A-II concentration	is_observable_through	MAXO:0000865	protein measurement in blood	ORCID:0000-0002-0736-9199
@@ -16379,6 +16592,7 @@ HP:0034603	Elevated circulating CA19-9 concentration	is_observable_through	MAXO:
 HP:0034604	Elevated circulating DOPA concentration	is_observable_through	MAXO:0000566	clinical chemistry assessment	ORCID:0000-0002-0736-9199
 HP:0034605	Elevated CSF DOPA concentration	is_observable_through	MAXO:0035007	cerebrospinal fluid analysis	ORCID:0000-0002-0736-9199
 HP:0034606	Elevated circulating porphyrin concentration	is_observable_through	MAXO:0000566	clinical chemistry assessment	ORCID:0000-0002-0736-9199
+HP:0034607	Decreased circulating 17-hydroxyprogesterone concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0034607	Decreased circulating 17-hydroxyprogesterone concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0034608	Decreased circulating transcobalamin II concentration	is_observable_through	MAXO:0000865	protein measurement in blood	ORCID:0000-0002-0736-9199
 HP:0034609	Polychromasia	is_observable_through	MAXO:0000829	blood cell measurement	ORCID:0000-0002-0736-9199
@@ -16462,6 +16676,8 @@ HP:0034689	Reduced sterol 27-hydroxylase activity	is_observable_through	MAXO:003
 HP:0034690	Reduced short-chain acyl-CoA dehydrogenase activity	is_observable_through	MAXO:0035011	enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:0034691	Reduced 3-phosphoglycerate dehydrogenase activity	is_observable_through	MAXO:0035011	enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:0034692	Elongated mitochondria	is_observable_through	MAXO:0035122	cell function assay	ORCID:0000-0002-0736-9199
+HP:0034737	Abnormal erythrocyte metabolite concentration	is_observable_through	MAXO:0035019	erythrocyte enzyme activity assessment	ORCID:0000-0002-0736-9199
+HP:0034738	Reduced erythrocyte glutathione concentration	is_observable_through	MAXO:0035019	erythrocyte enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:0034749	Fungal bloodstream infection	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:0034793	Small intestinal hamartoma	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
 HP:0034796	Cardiomyocyte hyaline bodies	is_observable_through	MAXO:0000366	biopsy of heart	ORCID:0000-0002-0736-9199
@@ -16469,20 +16685,36 @@ HP:0034804	Corneal foreign body sensation	is_observable_through	MAXO:0000973	sli
 HP:0034805	Buttock pain	is_observable_through	MAXO:0000527	physical examination	ORCID:0000-0002-0736-9199
 HP:0034808	Eyelid pain	is_observable_through	MAXO:0009060	examination by ophthalmologist	ORCID:0000-0002-0736-9199
 HP:0034832	Liver angiomyolipoma	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
+HP:0034839	Lymphoid hyperplasia	is_observable_through	MAXO:0000137	positron emission tomography procedure	ORCID:0000-0002-0736-9199
+HP:0034839	Lymphoid hyperplasia	is_observable_through	MAXO:0000381	biopsy of lymph node	ORCID:0000-0002-0736-9199
 HP:0034865	Positive fecal parasite test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:0034866	Positive stool infectious agent test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:0034867	Positive stool giardia antigen	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:0034868	Entamoeba histolytica antibody positive in stool	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
+HP:0034873	Decreased circulating epinephrine concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
+HP:0034874	Decreased circulating norepinephrine concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
+HP:0034878	Decreased circulating metanephrine concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0034889	Positive urine infectious agent nucleic acid test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:0034890	Positive CMV urine nucleic acid test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:0034891	Positive Neisseria gonorrhoeae urine nucleic acid test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:0034892	Positive enterovirus urine nucleic acid test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
+HP:0034897	Decreased circulating antidiuretic hormone concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
+HP:0034898	Elevated circulating growth hormone-releasing hormone concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
+HP:0034902	Abnormal circulating calcitonin concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
+HP:0034903	Decreased circulating calcitonin concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
+HP:0034904	Decreased circulating thyrotropin releasing hormone concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
+HP:0034908	Increased circulating dehydroepiandrosterone concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0034915	Abnormal anus morphology	is_observable_through	MAXO:0000686	gastroenterologist evaluation	ORCID:0000-0002-0736-9199
 HP:0034916	Abnormal anus physiology	is_observable_through	MAXO:0000686	gastroenterologist evaluation	ORCID:0000-0002-0736-9199
 HP:0034917	Weak anal sphincter tone	is_observable_through	MAXO:0000686	gastroenterologist evaluation	ORCID:0000-0002-0736-9199
 HP:0034930	Digestive system neoplasm	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
 HP:0034941	Palatine myxoma	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
 HP:0034953	Duodenal gastrinoma	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
+HP:0034966	Thymic cyst	is_observable_through	MAXO:0000410	biopsy of thymus	ORCID:0000-0002-0736-9199
+HP:0034966	Thymic cyst	is_observable_through	MAXO:0000428	MRI of the chest	ORCID:0000-0002-0736-9199
+HP:0034966	Thymic cyst	is_observable_through	MAXO:0010317	chest CT	ORCID:0000-0002-0736-9199
+HP:0034966	Thymic cyst	is_observable_through	MAXO:0010356	chest radiograph procedure	ORCID:0000-0002-0736-9199
+HP:0034977	Abnormal pituitary stalk morphology	is_observable_through	MAXO:0000427	MRI of the brain	ORCID:0000-0002-0736-9199
 HP:0034985	Reduced cellular cobalamin uptake	is_observable_through	MAXO:0001247	vitamin B12 measurement	ORCID:0000-0002-0736-9199
 HP:0034987	Focal necrotic optic nerve lesion	is_observable_through	MAXO:0000703	ophthalmologist evaluation	ORCID:0000-0002-0736-9199
 HP:0040004	Abnormality of corneal shape	is_observable_through	MAXO:0000973	slit-lamp examination	ORCID:0000-0002-0736-9199
@@ -16560,9 +16792,12 @@ HP:0040080	Anteverted ears	is_observable_through	MAXO:0000706	otolaryngologist e
 HP:0040081	Abnormal circulating creatine kinase concentration	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0040082	Happy demeanor	is_observable_through	MAXO:0000714	psychiatrist evaluation	ORCID:0000-0002-0736-9199
 HP:0040084	Abnormal circulating renin concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0040085	Abnormal circulating aldosterone concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0040086	Abnormal prolactin level	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0040087	Abnormal blood folate concentration	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
+HP:0040088	Abnormal lymphocyte count	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0040088	Abnormal lymphocyte count	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
+HP:0040089	Abnormal natural killer cell count	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0040089	Abnormal natural killer cell count	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
 HP:0040090	Abnormal tympanic membrane morphology	is_observable_through	MAXO:0035069	dysmorphology assessment	ORCID:0000-0002-0736-9199
 HP:0040091	Asymmetry of the size of ears	is_observable_through	MAXO:0000706	otolaryngologist evaluation	ORCID:0000-0002-0736-9199
@@ -16636,6 +16871,7 @@ HP:0040167	Facial papilloma	is_observable_through	MAXO:0000671	dermatology speci
 HP:0040167	Facial papilloma	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
 HP:0040169	Loose anagen hair	is_observable_through	MAXO:0000671	dermatology specialist evaluation	ORCID:0000-0002-0736-9199
 HP:0040170	Abnormality of hair growth	is_observable_through	MAXO:0000671	dermatology specialist evaluation	ORCID:0000-0002-0736-9199
+HP:0040171	Decreased serum testosterone concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0040171	Decreased serum testosterone concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0040173	Abnormality of the tongue muscle	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:0040174	Abnormality of extrinsic muscle of tongue	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
@@ -16675,10 +16911,14 @@ HP:0040210	Abnormal circulating biopterin concentration	is_observable_through	MA
 HP:0040211	Abnormal skin morphology of the palm	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:0040212	Risus sardonicus	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:0040213	Hypopnea	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
+HP:0040214	Abnormal circulating insulin concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0040214	Abnormal circulating insulin concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0040216	Hypoinsulinemia	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0040216	Hypoinsulinemia	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0040217	Elevated hemoglobin A1c	is_observable_through	MAXO:0000829	blood cell measurement	ORCID:0000-0002-0736-9199
+HP:0040218	Reduced natural killer cell count	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0040218	Reduced natural killer cell count	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
+HP:0040219	Absent natural killer cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0040219	Absent natural killer cells	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
 HP:0040220	Abnormal size of the dental root	is_observable_through	MAXO:0035009	examination by dentist	ORCID:0000-0002-0736-9199
 HP:0040221	Hypoplasia of the dental root	is_observable_through	MAXO:0035009	examination by dentist	ORCID:0000-0002-0736-9199
@@ -16797,6 +17037,8 @@ HP:0040405	Asymmetric thickening of the nipple-areolar complex	is_observable_thr
 HP:0040407	Mastitis	is_observable_through	MAXO:0000702	obstetrics and gynecology specialist evaluation	ORCID:0000-0002-0736-9199
 HP:0040407	Mastitis	is_observable_through	MAXO:0010202	breast ultrasonography	ORCID:0000-0002-0736-9199
 HP:0040411	Pain in penis	is_observable_through	MAXO:0000722	urologist evaluation	ORCID:0000-0002-0736-9199
+HP:0040412	Left ventricular thrombus	is_observable_through	MAXO:0001303	cardiac MRI	ORCID:0000-0002-0736-9199
+HP:0040412	Left ventricular thrombus	is_observable_through	MAXO:0010203	echocardiography	ORCID:0000-0002-0736-9199
 HP:0040415	Diffuse breast nodularity	is_observable_through	MAXO:0000431	MRI of the breast	ORCID:0000-0002-0736-9199
 HP:0040415	Diffuse breast nodularity	is_observable_through	MAXO:0010202	breast ultrasonography	ORCID:0000-0002-0736-9199
 HP:0040415	Diffuse breast nodularity	is_observable_through	MAXO:0010363	mammography procedure	ORCID:0000-0002-0736-9199
@@ -16834,6 +17076,7 @@ HP:0041075	Chronic partially decreased circulating IgG3	is_observable_through	MA
 HP:0041076	Abnormal immunoglobulin level in body fluid	is_observable_through	MAXO:0035122	cell function assay	ORCID:0000-0002-0736-9199
 HP:0041077	Increased immunoglobulin level in body fluid	is_observable_through	MAXO:0035122	cell function assay	ORCID:0000-0002-0736-9199
 HP:0041078	Decreased immunoglobulin level in body fluid	is_observable_through	MAXO:0035122	cell function assay	ORCID:0000-0002-0736-9199
+HP:0041080	Abnormal proportion of exhausted T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0041080	Abnormal proportion of exhausted T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
 HP:0041081	Fractured lower leg	is_observable_through	MAXO:0000478	orthopedic surgeon evaluation	ORCID:0000-0002-0736-9199
 HP:0041083	Fractured phalanx	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
@@ -16996,6 +17239,7 @@ HP:0045073	Serositis	is_observable_through	MAXO:0000001	medical action	ORCID:000
 HP:0045074	Thin eyebrow	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:0045075	Sparse eyebrow	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:0045079	Distal femoral metaphyseal irregularity	is_observable_through	MAXO:0000595	radiograph imaging procedure	ORCID:0000-0002-0736-9199
+HP:0045080	Decreased proportion of CD3-positive T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0045080	Decreased proportion of CD3-positive T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
 HP:0045081	Abnormality of body mass index	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:0045082	Decreased body mass index	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
@@ -17565,6 +17809,7 @@ HP:0100526	Neoplasm of the lung	is_observable_through	MAXO:0000691	medical oncol
 HP:0100527	Neoplasia of the pleura	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
 HP:0100528	Pleuropulmonary blastoma	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
 HP:0100529	Abnormal blood phosphate concentration	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
+HP:0100530	Abnormal circulating calcium-phosphate regulating hormone concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0100530	Abnormal circulating calcium-phosphate regulating hormone concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0100531	Wind-swept deformity of the knees	is_observable_through	MAXO:0010357	lower limb radiographic procedure	ORCID:0000-0002-0736-9199
 HP:0100532	Scleritis	is_observable_through	MAXO:0000973	slit-lamp examination	ORCID:0000-0002-0736-9199
@@ -17688,8 +17933,8 @@ HP:0100629	Midline facial cleft	is_observable_through	MAXO:0035069	dysmorphology
 HP:0100630	Neoplasia of the nasopharynx	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
 HP:0100631	Neoplasm of the adrenal gland	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
 HP:0100631	Neoplasm of the adrenal gland	is_observable_through	MAXO:0010311	abdominal CT	ORCID:0000-0002-0736-9199
-HP:0100632	Pulmonary sequestration	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0002-0736-9199
 HP:0100632	Pulmonary sequestration	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
+HP:0100632	Pulmonary sequestration	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0002-0736-9199
 HP:0100632	Pulmonary sequestration	is_observable_through	MAXO:0010317	chest CT	ORCID:0000-0002-0736-9199
 HP:0100633	Esophagitis	is_observable_through	MAXO:0001200	esophagoscopy	ORCID:0000-0002-0736-9199
 HP:0100634	Neuroendocrine neoplasm	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
@@ -17865,7 +18110,9 @@ HP:0100822	Rectocele	is_observable_through	MAXO:0035039	defecography	ORCID:0000-
 HP:0100823	Genital hernia	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:0100825	Cheilitis	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:0100826	Neoplasm of the nail	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
+HP:0100827	Lymphocytosis	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0100827	Lymphocytosis	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
+HP:0100828	Increased T cell count	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0100828	Increased T cell count	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
 HP:0100829	Galactorrhea	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:0100830	Round ear	is_observable_through	MAXO:0000706	otolaryngologist evaluation	ORCID:0000-0002-0736-9199
@@ -18420,27 +18667,49 @@ HP:0410369	Increased hepatitis B virus antibody level	is_observable_through	MAXO
 HP:0410370	Absence of ganglioside GM3	is_observable_through	MAXO:0035023	tissue metabolite measurement	ORCID:0000-0002-0736-9199
 HP:0410371	Increased hepatitis C virus antibody level	is_observable_through	MAXO:0035026	circulating immunoglobulin measurement	ORCID:0000-0002-0736-9199
 HP:0410372	Increased Tn-antigen level	is_observable_through	MAXO:0035054	protein glycosylation assay	ORCID:0000-0002-0736-9199
+HP:0410373	Abnormal proportion of naive CD4 T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0410373	Abnormal proportion of naive CD4 T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0410374	Abnormal proportion of naive CD8 T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0410374	Abnormal proportion of naive CD8 T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0410375	Increased proportion of naive CD4 T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0410375	Increased proportion of naive CD4 T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0410376	Increased proportion of naive CD8 T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0410376	Increased proportion of naive CD8 T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0410377	Decreased proportion of naive CD8 T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0410377	Decreased proportion of naive CD8 T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0410378	Decreased proportion of naive CD4 T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0410378	Decreased proportion of naive CD4 T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0410379	Abnormal proportion of CD4-positive, alpha-beta memory T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0410379	Abnormal proportion of CD4-positive, alpha-beta memory T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0410380	Abnormal proportion of CD8-positive, alpha-beta memory T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0410380	Abnormal proportion of CD8-positive, alpha-beta memory T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0410381	Abnormal proportion of central memory CD4-positive, alpha-beta T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0410381	Abnormal proportion of central memory CD4-positive, alpha-beta T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0410383	Abnormal proportion of effector memory CD8-positive, alpha-beta T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0410383	Abnormal proportion of effector memory CD8-positive, alpha-beta T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0410384	Abnormal proportion of central memory CD8-positive, alpha-beta T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0410384	Abnormal proportion of central memory CD8-positive, alpha-beta T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0410385	Decreased proportion of CD8-positive, alpha-beta memory T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0410385	Decreased proportion of CD8-positive, alpha-beta memory T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0410386	Decreased proportion of CD4-positive, alpha-beta memory T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0410386	Decreased proportion of CD4-positive, alpha-beta memory T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0410388	Decreased proportion of central memory CD4-positive, alpha-beta T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0410388	Decreased proportion of central memory CD4-positive, alpha-beta T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0410389	Decreased proportion of central memory CD8-positive, alpha-beta T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0410389	Decreased proportion of central memory CD8-positive, alpha-beta T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0410390	Decreased proportion of effector memory CD8-positive, alpha-beta T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0410390	Decreased proportion of effector memory CD8-positive, alpha-beta T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0410391	Increased proportion of CD4-positive, alpha-beta memory T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0410391	Increased proportion of CD4-positive, alpha-beta memory T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0410392	Increased proportion of CD8-positive, alpha-beta memory T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0410392	Increased proportion of CD8-positive, alpha-beta memory T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0410393	Increased proportion of central memory CD4-positive, alpha-beta T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0410393	Increased proportion of central memory CD4-positive, alpha-beta T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0410394	Increased proportion of effector memory CD4-positive, alpha-beta T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0410394	Increased proportion of effector memory CD4-positive, alpha-beta T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0410395	Increased proportion of effector memory CD8-positive, alpha-beta T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0410395	Increased proportion of effector memory CD8-positive, alpha-beta T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0410396	Increased proportion of central memory CD8-positive, alpha-beta T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0410396	Increased proportion of central memory CD8-positive, alpha-beta T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
 HP:0410397	Bronchiolectasis	is_observable_through	MAXO:0001183	bronchoscopy	ORCID:0000-0002-0736-9199
 HP:0410399	Positive blood lead test	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
@@ -18525,6 +18794,7 @@ HP:0430138	Positive CSF varicella zoster virus nucleic acid test	is_observable_t
 HP:0430139	CSF pathogen-specific antibody positivity	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:0430140	Positive CSF nucleic acid pathogen test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:0430141	CSF varicella zoster antibody positivity	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
+HP:0430147	Abnormal circulating inhibin B concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0430150	Positive blood infectious agent test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:0430151	Positive respiratory tract infectious agent test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:0500001	Body odor	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
@@ -18534,7 +18804,9 @@ HP:0500007	Iris flocculi	is_observable_through	MAXO:0000973	slit-lamp examinatio
 HP:0500008	Cornea verticillata	is_observable_through	MAXO:0000973	slit-lamp examination	ORCID:0000-0002-0736-9199
 HP:0500009	Dysplastic gangliocytoma of the cerebellum	is_observable_through	MAXO:0000427	MRI of the brain	ORCID:0000-0002-0736-9199
 HP:0500011	Moon facies	is_observable_through	MAXO:0035069	dysmorphology assessment	ORCID:0000-0002-0736-9199
+HP:0500012	Abnormal gonadotropin-releasing hormone concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0500012	Abnormal gonadotropin-releasing hormone concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0500013	Lack of gonadotropin-releasing hormone pulsatility	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0500013	Lack of gonadotropin-releasing hormone pulsatility	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0500015	Abnormal cardiac test	is_observable_through	MAXO:0000001	medical action	ORCID:0000-0002-0736-9199
 HP:0500016	Abnormal cardiac MRI	is_observable_through	MAXO:0000001	medical action	ORCID:0000-0002-0736-9199
@@ -18544,6 +18816,7 @@ HP:0500018	Abnormal cardiac exercise stress test	is_observable_through	MAXO:0035
 HP:0500019	Abnormal resting energy expenditure from metabolic cart test	is_observable_through	MAXO:0000001	medical action	ORCID:0000-0002-0736-9199
 HP:0500020	Abnormal cardiac biomarker test	is_observable_through	MAXO:0000566	clinical chemistry assessment	ORCID:0000-0002-0736-9199
 HP:0500021	Reduced brain gamma-aminobutyric acid level by MRS	is_observable_through	MAXO:0000427	MRI of the brain	ORCID:0000-0002-0736-9199
+HP:0500022	Abnormal circulating dehydroepiandrosterone concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0500022	Abnormal circulating dehydroepiandrosterone concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0500023	Shoulder muscle aplasia	is_observable_through	MAXO:0035051	MRI of the muscle organ	ORCID:0000-0002-0736-9199
 HP:0500024	Aplasia of the musculature of the pelvis	is_observable_through	MAXO:0035034	pelvis MRI	ORCID:0000-0002-0736-9199
@@ -18553,6 +18826,7 @@ HP:0500028	Cotton wool plaques	is_observable_through	MAXO:0000427	MRI of the bra
 HP:0500030	Abnormal hepatic glycogen storage	is_observable_through	MAXO:0000376	biopsy of liver	ORCID:0000-0002-0736-9199
 HP:0500031	Sclerosis of the carpal bones	is_observable_through	MAXO:0000595	radiograph imaging procedure	ORCID:0000-0002-0736-9199
 HP:0500032	Abnormal neuron branching	is_observable_through	MAXO:0000144	histological examination	ORCID:0000-0002-0736-9199
+HP:0500033	Abnormal natural killer subset distribution	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0500033	Abnormal natural killer subset distribution	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
 HP:0500034	Nasolacrimal sac obstruction	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:0500035	Nasolacrimal sac granuloma	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
@@ -18679,7 +18953,9 @@ HP:0500162	Decreased circulating carnosine concentration	is_observable_through	M
 HP:0500163	Hypoornithinemia	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0500164	Abnormal blood carbon dioxide level	is_observable_through	MAXO:0000693	pulmonologist evaluation	ORCID:0000-0002-0736-9199
 HP:0500165	Abnormal blood oxygen level	is_observable_through	MAXO:0000693	pulmonologist evaluation	ORCID:0000-0002-0736-9199
+HP:0500166	Abnormal circulating gastrin concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0500166	Abnormal circulating gastrin concentration	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
+HP:0500167	Hypergastrinemia	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0500167	Hypergastrinemia	is_observable_through	MAXO:0035058	hormone measurement	ORCID:0000-0002-0736-9199
 HP:0500170	Abnormal concentration of acylcarnitine in the urine	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0500173	Reflex asystolic syncope	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
@@ -18764,16 +19040,27 @@ HP:0500257	Increased urine isobutyrylglycine concentration	is_observable_through
 HP:0500258	Abnormal carbon dioxide level in cord blood	is_observable_through	MAXO:0035027	blood gas assessment in umbilical cord blood	ORCID:0000-0002-0736-9199
 HP:0500259	Abnormal oxygen level in cord blood	is_observable_through	MAXO:0035027	blood gas assessment in umbilical cord blood	ORCID:0000-0002-0736-9199
 HP:0500262	Atrichia	is_observable_through	MAXO:0000671	dermatology specialist evaluation	ORCID:0000-0002-0736-9199
+HP:0500263	Abnormal helper T cell proportion	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0500263	Abnormal helper T cell proportion	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0500264	Increased helper T cell proportion	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0500264	Increased helper T cell proportion	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0500265	Increased proportion of CD8-positive, alpha-beta TEMRA T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0500265	Increased proportion of CD8-positive, alpha-beta TEMRA T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0500266	Decreased proportion of CD8-positive, alpha-beta TEMRA T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0500266	Decreased proportion of CD8-positive, alpha-beta TEMRA T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0500267	Abnormal proportion of CD4-positive helper T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0500267	Abnormal proportion of CD4-positive helper T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0500269	Abnormal proportion of gamma-delta T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0500269	Abnormal proportion of gamma-delta T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0500270	Increased proportion of gamma-delta T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0500270	Increased proportion of gamma-delta T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0500271	Decreased proportion of gamma-delta T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0500271	Decreased proportion of gamma-delta T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0500272	Abnormal proportion of immature gamma-delta T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0500272	Abnormal proportion of immature gamma-delta T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0500273	Increased proportion of immature gamma-delta T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0500273	Increased proportion of immature gamma-delta T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
+HP:0500274	Decreased proportion of immature gamma-delta T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:0500274	Decreased proportion of immature gamma-delta T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
 HP:0550003	Proximal scleroderma	is_observable_through	MAXO:0000671	dermatology specialist evaluation	ORCID:0000-0002-0736-9199
 HP:0550004	Verruca plana	is_observable_through	MAXO:0000671	dermatology specialist evaluation	ORCID:0000-0002-0736-9199
@@ -18884,10 +19171,12 @@ HP:4000030	Anti-reticulin antibody positivity	is_observable_through	MAXO:0000609
 HP:4000031	Anti-type VII collagen antibody	is_observable_through	MAXO:0000609	serology testing	ORCID:0000-0002-0736-9199
 HP:4000032	False perception of self-motion	is_observable_through	MAXO:0000706	otolaryngologist evaluation	ORCID:0000-0002-0736-9199
 HP:4000033	Non-spinning vertigo	is_observable_through	MAXO:0000706	otolaryngologist evaluation	ORCID:0000-0002-0736-9199
+HP:4000034	Infection-associated lymphopenia	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:4000034	Infection-associated lymphopenia	is_observable_through	MAXO:0001509	blood cell count	ORCID:0000-0002-0736-9199
 HP:4000036	Encysted hydrocele of the cord	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:4000037	Congenital hydrocele	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:4000038	Infantile hydrocele	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
+HP:4000039	Reduced proportion of mucosal-associated invariant T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:4000039	Reduced proportion of mucosal-associated invariant T cells	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
 HP:4000054	Exanthem	is_observable_through	MAXO:0000671	dermatology specialist evaluation	ORCID:0000-0002-0736-9199
 HP:4000056	Abnormal apoptosis	is_observable_through	MAXO:0035122	cell function assay	ORCID:0000-0002-0736-9199
@@ -18987,13 +19276,18 @@ HP:5200321	Amplification of sexual behavior	is_observable_through	MAXO:0000714	p
 HP:6000002	Olecranon fracture	is_observable_through	MAXO:0000478	orthopedic surgeon evaluation	ORCID:0000-0002-0736-9199
 HP:6000007	Salivary basal cell adenoma	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
 HP:6000018	Internal anal sphincter achalasia	is_observable_through	MAXO:0000686	gastroenterologist evaluation	ORCID:0000-0002-0736-9199
+HP:6000021	Decreased circulating thrombopoietin concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:6000062	Abnormal nipple discharge	is_observable_through	MAXO:0000790	clinical breast examination	ORCID:0000-0002-0736-9199
 HP:6000062	Abnormal nipple discharge	is_observable_through	MAXO:0010202	breast ultrasonography	ORCID:0000-0002-0736-9199
 HP:6000062	Abnormal nipple discharge	is_observable_through	MAXO:0010363	mammography procedure	ORCID:0000-0002-0736-9199
 HP:6000064	Excessive eructation	is_observable_through	MAXO:0000686	gastroenterologist evaluation	ORCID:0000-0002-0736-9199
+HP:6000075	Subcutaneous arteriolar thrombosis	is_observable_through	MAXO:0000423	biopsy of skin	ORCID:0000-0002-0736-9199
 HP:6000106	Costovertebral angle tenderness	is_observable_through	MAXO:0010217	renal ultrasonography	ORCID:0000-0002-0736-9199
 HP:6000107	Cervical motion tenderness	is_observable_through	MAXO:0000478	orthopedic surgeon evaluation	ORCID:0000-0002-0736-9199
+HP:6000154	Bone marrow granuloma	is_observable_through	MAXO:0000336	biopsy of bone marrow	ORCID:0000-0002-0736-9199
+HP:6000154	Bone marrow granuloma	is_observable_through	MAXO:0000752	bone marrow aspiration	ORCID:0000-0002-0736-9199
 HP:6000171	Abdominal wall mass	is_observable_through	MAXO:0000686	gastroenterologist evaluation	ORCID:0000-0002-0736-9199
+HP:6000185	Low tetrahydrocortisol (THF) plus 5-alpha-THF/tetrahydrocortisone (THE) ratio	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:6000222	Painful defecation	is_observable_through	MAXO:0035039	defecography	ORCID:0000-0002-0736-9199
 HP:6000224	Delayed passage of meconium	is_observable_through	MAXO:0035079	neonatologist evaluation	ORCID:0000-0002-0736-9199
 HP:6000233	Carcinoid tumor of the pancreas	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
@@ -19004,6 +19298,8 @@ HP:6000285	Retroperitoneal mass	is_observable_through	MAXO:0000426	MRI of the ab
 HP:6000285	Retroperitoneal mass	is_observable_through	MAXO:0001276	clinical ultrasound-guided needle biopsy	ORCID:0000-0002-0736-9199
 HP:6000285	Retroperitoneal mass	is_observable_through	MAXO:0010311	abdominal CT	ORCID:0000-0002-0736-9199
 HP:6000299	Forearm pain	is_observable_through	MAXO:0000527	physical examination	ORCID:0000-0002-0736-9199
+HP:6000318	Elevated aldosterone:renin ratio	is_observable_through	MAXO:0000685	endocrinologist evaluation	ORCID:0000-0002-0736-9199
+HP:6000318	Elevated aldosterone:renin ratio	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:6000324	Positive stool Giardia antigen test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6000345	Anti-human immunodeficiency virus antibody positivity	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6000346	Anti-polio virus antibody positivity	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
@@ -19011,7 +19307,20 @@ HP:6000348	Antistreptolysin O antibody positivity	is_observable_through	MAXO:000
 HP:6000363	Flank mass	is_observable_through	MAXO:0000072	ultrasonography procedure	ORCID:0000-0002-0736-9199
 HP:6000367	Central thinning of the outer nuclear layer of the retina	is_observable_through	MAXO:0000703	ophthalmologist evaluation	ORCID:0000-0002-0736-9199
 HP:6000395	Positive CSF VDRL test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
+HP:6000404	Reduced circulating insulin-like growth factor 2 concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
+HP:6000407	Elevated circulating fibroblast growth factor 23 concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
+HP:6000419	Elevated circulating proinsulin concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
+HP:6000436	Elevated circulating ghrelin concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
+HP:6000473	Decreased FOXP3-expressing T cell count	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
+HP:6000482	Decreased circulating catecholamine concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
+HP:6000488	Reduced circulating fibroblast growth factor 23 concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
+HP:6000489	Abnormal circulating fibroblast growth factor 23 concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:6000500	Extremities cold to touch	is_observable_through	MAXO:0000680	internal medicine specialist evaluation	ORCID:0000-0002-0736-9199
+HP:6000510	Elevated erythrocyte inosine triphosphate concentration	is_observable_through	MAXO:0035019	erythrocyte enzyme activity assessment	ORCID:0000-0002-0736-9199
+HP:6000515	Elevated 18-hydroxycorticosterone to aldosterone ratio	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
+HP:6000516	Elevated circulating 21-deoxycortisol concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
+HP:6000519	Elevated circulating inhibin A concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
+HP:6000520	Increased circulating inhibin B concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:6000541	Positive cutaneous herpes simplex virus nucleic acid test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6000542	Positive CSF mycobacterium tuberculosis nucleic acid test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6000543	Positive mycobacterium CSF culture	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
@@ -19026,13 +19335,19 @@ HP:6000551	Positive Dengue virus PCR test in the blood circulation	is_observable
 HP:6000552	Positive CSF JC-virus nucleic acid test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6000553	Bloodstream Malaria parasite	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6000554	Positive bloodstream plasmodium falciparum nucleic acid pathogen test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
+HP:6000564	Elevated circulating vasoactive intestinal peptide concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:6000579	Positive oropharangeal infectious agent test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6000580	Positive oropharynx poliovirus nucleic acid test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6000581	Positive synonvial fluid infectious agent test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6000582	Positive synonvial fluid culture	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6000583	Positive synovial fluid gram stain	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6000584	Anti Parvovirus antibody positivity	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
+HP:6000610	Elevated erythrocyte galactose-1-phosphate concentration	is_observable_through	MAXO:0035019	erythrocyte enzyme activity assessment	ORCID:0000-0002-0736-9199
+HP:6000639	PAS-positive lymphocyte vacuolization	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
+HP:6000640	Lipid-laden bone-marrow macrophages	is_observable_through	MAXO:0001387	bone marrow cell morphology measurement	ORCID:0000-0002-0736-9199
+HP:6000641	Bone marrow monocytosis	is_observable_through	MAXO:0001387	bone marrow cell morphology measurement	ORCID:0000-0002-0736-9199
 HP:6000657	Pancreatic intraductal papillary mucinous neoplasm	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
+HP:6000677	Elevated natural killer cell count	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:6000710	Dalen Fuchs nodules	is_observable_through	MAXO:0000703	ophthalmologist evaluation	ORCID:0000-0002-0736-9199
 HP:6000729	Positive CSF fungus test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6000730	Positive CSF human T-lymphotropic virus type I antibody positivity	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
@@ -19049,6 +19364,8 @@ HP:6000740	Anti-Francisella tularensis antibody positivity	is_observable_through
 HP:6000741	Positive bloodstream MERS coronavirus nucleic acid test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6000742	Positive nasopharyngeal corynebacterium diphtheriae nucleic acid test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6000743	Pediculosis capitis	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
+HP:6000752	Elevated erythrocyte AICA-ribotide concentration	is_observable_through	MAXO:0035019	erythrocyte enzyme activity assessment	ORCID:0000-0002-0736-9199
+HP:6000755	Elevated circulating C-terminal fibroblast growth factor 23 concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:6000759	Positive CSF West Nile virus nucleic acid test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6000760	Positive CSF herpes simplex virus nucleic acid test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6000761	Positive CSF cryptococcal antigen test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
@@ -19113,6 +19430,9 @@ HP:6000963	Demonstration of acid-fast bacilli in wound tissue	is_observable_thro
 HP:6000964	Positive tissue encapsulated budding yeast test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6000965	Positive tissue coccidioidomycosis culture	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6001005	Positive gastric CMV intranuclear inclusions	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
+HP:6001016	Inappropriate normal or low erythropoietin	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
+HP:6001033	Bone marrow cystine accumulation	is_observable_through	MAXO:0000336	biopsy of bone marrow	ORCID:0000-0002-0736-9199
+HP:6001033	Bone marrow cystine accumulation	is_observable_through	MAXO:0000752	bone marrow aspiration	ORCID:0000-0002-0736-9199
 HP:6001038	Intestinal worm	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6001039	Scrotal worm	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6001040	Small intestinal adenoma	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
@@ -19120,7 +19440,9 @@ HP:6001046	Breast cyst	is_observable_through	MAXO:0000790	clinical breast examin
 HP:6001046	Breast cyst	is_observable_through	MAXO:0010202	breast ultrasonography	ORCID:0000-0002-0736-9199
 HP:6001046	Breast cyst	is_observable_through	MAXO:0010363	mammography procedure	ORCID:0000-0002-0736-9199
 HP:6001063	Sweaty foot-like odor	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
+HP:6001080	Reduced urine retrahydrocortisol plus 5-alpha-THF to tetrahydrocortisone ratio	is_observable_through	MAXO:0035062	urine hormone measurement	ORCID:0000-0002-0736-9199
 HP:6001088	Fungal hair infection	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
+HP:6001096	Decreased T-cell ZAP-70 protein expression in CD4-positive T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:6001111	Positive saliva rabies nucleic acid test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6001159	Pulsatile mass in extremity	is_observable_through	MAXO:0000720	vascular surgeon evaluation	ORCID:0000-0002-0736-9199
 HP:6001159	Pulsatile mass in extremity	is_observable_through	MAXO:0035119	duplex ultrasound with color flow imaging	ORCID:0000-0002-0736-9199
@@ -19130,3 +19452,4 @@ HP:6001179	Positive CSF anti-measles antibody test	is_observable_through	MAXO:00
 HP:6001181	Choroid thickening	is_observable_through	MAXO:0000703	ophthalmologist evaluation	ORCID:0000-0002-0736-9199
 HP:6001183	Retinal shunt vessels	is_observable_through	MAXO:0000703	ophthalmologist evaluation	ORCID:0000-0002-0736-9199
 HP:6001186	Optic disc hemorrhage	is_observable_through	MAXO:0000703	ophthalmologist evaluation	ORCID:0000-0002-0736-9199
+HP:6001190	Abnormal MHC surface expression	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
