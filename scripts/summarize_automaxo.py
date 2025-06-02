@@ -227,7 +227,7 @@ def append_annotations(disease_to_ame_list_d):
                 extension_label = ""
                 attributes = ""
                 last_update = ""
-                row = [a.mondo_id, a.mondo_label, a.pmid, a.maxo_id, a.maxo_label, a.hpo_id, a.relation,
+                row = [a.mondo_id, a.mondo_label, a.pmid, a.maxo_id, a.maxo_label, a.hpo_id, a.relation.upper(),
                        evidence_code, extension_id, extension_label, attributes, a.author, last_update, a.created]
                 line = "\t".join(row)
                 file.write(line + "\n")
