@@ -2523,8 +2523,8 @@ HP:0002406	Limb dysmetria	is_observable_through	MAXO:0009058	examination by a ne
 HP:0002408	Cerebral arteriovenous malformation	is_observable_through	MAXO:0000427	MRI of the brain	ORCID:0000-0002-0736-9199
 HP:0002410	Aqueductal stenosis	is_observable_through	MAXO:0010316	brain CT	ORCID:0000-0002-0736-9199
 HP:0002411	Myokymia	is_observable_through	MAXO:0000716	neurologist evaluation	ORCID:0000-0002-0736-9199
-HP:0002414	Spina bifida	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
 HP:0002414	Spina bifida	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0002-0736-9199
+HP:0002414	Spina bifida	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
 HP:0002414	Spina bifida	is_prenatally_observable_through	MAXO:0001478	fetal MRI	ORCID:0000-0003-1502-5000
 HP:0002415	Leukodystrophy	is_observable_through	MAXO:0000427	MRI of the brain	ORCID:0000-0002-0736-9199
 HP:0002415	Leukodystrophy	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
@@ -3205,6 +3205,7 @@ HP:0003095	Septic arthritis	is_observable_through	MAXO:0000694	rheumatologist ev
 HP:0003097	Short femur	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
 HP:0003097	Short femur	is_observable_through	MAXO:0010357	lower limb radiographic procedure	ORCID:0000-0002-0736-9199
 HP:0003099	Fibular overgrowth	is_observable_through	MAXO:0010357	lower limb radiographic procedure	ORCID:0000-0002-0736-9199
+HP:0003102	Increased carrying angle	is_observable_through	MAXO:0000478	orthopedic surgeon evaluation	ORCID:0000-0002-0736-9199
 HP:0003103	Abnormal cortical bone morphology	is_observable_through	MAXO:0000595	radiograph imaging procedure	ORCID:0000-0002-0736-9199
 HP:0003105	Protuberances at ends of long bones	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
 HP:0003106	Subperiosteal bone resorption	is_observable_through	MAXO:0000595	radiograph imaging procedure	ORCID:0000-0002-0736-9199
@@ -3985,11 +3986,15 @@ HP:0004279	Short palm	is_observable_through	MAXO:0000487	clinical assessment	ORC
 HP:0004280	Irregular ossification of hand bones	is_observable_through	MAXO:0000595	radiograph imaging procedure	ORCID:0000-0002-0736-9199
 HP:0004281	Irregular sclerosis of hand bones	is_observable_through	MAXO:0000595	radiograph imaging procedure	ORCID:0000-0002-0736-9199
 HP:0004283	Narrow palm	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
+HP:0004284	Notched hand bones	is_observable_through	MAXO:0035001	hand radiography	ORCID:0000-0002-0736-9199
+HP:0004285	Overmodelled hand bones	is_observable_through	MAXO:0035001	hand radiography	ORCID:0000-0002-0736-9199
 HP:0004286	Patchy sclerosis of hand bones	is_observable_through	MAXO:0000595	radiograph imaging procedure	ORCID:0000-0002-0736-9199
+HP:0004287	Pointed hand bones	is_observable_through	MAXO:0035001	hand radiography	ORCID:0000-0002-0736-9199
 HP:0004288	Pseudoepiphyses of hand bones	is_observable_through	MAXO:0035043	upper limb radiography	ORCID:0000-0002-0736-9199
 HP:0004289	Sclerotic foci in hand bones	is_observable_through	MAXO:0000595	radiograph imaging procedure	ORCID:0000-0002-0736-9199
 HP:0004290	Sclerosis of hand bones with transverse striations	is_observable_through	MAXO:0000595	radiograph imaging procedure	ORCID:0000-0002-0736-9199
 HP:0004291	Stippled calcification of hand bones	is_observable_through	MAXO:0000595	radiograph imaging procedure	ORCID:0000-0002-0736-9199
+HP:0004292	Undermodelled hand bones	is_observable_through	MAXO:0035001	hand radiography	ORCID:0000-0002-0736-9199
 HP:0004293	Synostosis of second metacarpal-trapezoid	is_observable_through	MAXO:0035001	hand radiography	ORCID:0000-0002-0736-9199
 HP:0004294	Subluxation of metacarpal phalangeal joints	is_observable_through	MAXO:0035001	hand radiography	ORCID:0000-0002-0736-9199
 HP:0004296	Abnormal gastrointestinal vascular morphology	is_observable_through	MAXO:0000686	gastroenterologist evaluation	ORCID:0000-0002-0736-9199
@@ -4103,6 +4108,7 @@ HP:0004411	Deviated nasal septum	is_observable_through	MAXO:0035069	dysmorpholog
 HP:0004414	Abnormality of the pulmonary artery	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
 HP:0004415	Pulmonary artery stenosis	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
 HP:0004416	Precocious atherosclerosis	is_observable_through	MAXO:0000682	cardiologist evaluation	ORCID:0000-0002-0736-9199
+HP:0004417	Intermittent claudication	is_observable_through	MAXO:0000574	medical history taking	ORCID:0000-0002-0736-9199
 HP:0004418	Thrombophlebitis	is_observable_through	MAXO:0035095	venography procedure	ORCID:0000-0002-0736-9199
 HP:0004419	Recurrent thrombophlebitis	is_observable_through	MAXO:0035095	venography procedure	ORCID:0000-0002-0736-9199
 HP:0004420	Arterial thrombosis	is_observable_through	MAXO:0009008	Doppler ultrasonography	ORCID:0000-0002-0736-9199
@@ -4539,6 +4545,8 @@ HP:0005120	Abnormal cardiac atrium morphology	is_observable_through	MAXO:0010203
 HP:0005121	Posterior scalloping of vertebral bodies	is_observable_through	MAXO:0035050	spine radiography	ORCID:0000-0002-0736-9199
 HP:0005129	Congenital hypertrophy of left ventricle	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
 HP:0005129	Congenital hypertrophy of left ventricle	is_observable_through	MAXO:0010203	echocardiography	ORCID:0000-0002-0736-9199
+HP:0005132	Pericardial constriction	is_observable_through	MAXO:0001319	X-ray coronary angiography procedure	ORCID:0000-0002-0736-9199
+HP:0005132	Pericardial constriction	is_observable_through	MAXO:0010203	echocardiography	ORCID:0000-0002-0736-9199
 HP:0005134	Absence of the pulmonary valve	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
 HP:0005134	Absence of the pulmonary valve	is_observable_through	MAXO:0010203	echocardiography	ORCID:0000-0002-0736-9199
 HP:0005135	Abnormal T-wave	is_observable_through	MAXO:0000900	electrocardiography	ORCID:0000-0002-0736-9199
@@ -4603,6 +4611,9 @@ HP:0005199	Aplasia of the abdominal wall musculature	is_observable_through	MAXO:
 HP:0005200	Retroperitoneal fibrosis	is_observable_through	MAXO:0010311	abdominal CT	ORCID:0000-0002-0736-9199
 HP:0005201	Anomalous splenoportal venous system	is_observable_through	MAXO:0000376	biopsy of liver	ORCID:0000-0002-0736-9199
 HP:0005202	Helicobacter pylori infection	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
+HP:0005206	Pancreatic pseudocyst	is_observable_through	MAXO:0001310	MRI of the pancreas	ORCID:0000-0002-0736-9199
+HP:0005206	Pancreatic pseudocyst	is_observable_through	MAXO:0010209	pancreatic ultrasonography	ORCID:0000-0002-0736-9199
+HP:0005206	Pancreatic pseudocyst	is_observable_through	MAXO:0010311	abdominal CT	ORCID:0000-0002-0736-9199
 HP:0005208	Secretory diarrhea	is_observable_through	MAXO:0000686	gastroenterologist evaluation	ORCID:0000-0002-0736-9199
 HP:0005209	Intrahepatic bile duct cysts	is_observable_through	MAXO:0000376	biopsy of liver	ORCID:0000-0002-0736-9199
 HP:0005210	Hypoplastic colon	is_observable_through	MAXO:0000426	MRI of the abdomen	ORCID:0000-0002-0736-9199
@@ -4626,6 +4637,8 @@ HP:0005224	Rectal abscess	is_observable_through	MAXO:0001184	colonoscopy	ORCID:0
 HP:0005227	Adenomatous colonic polyposis	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
 HP:0005229	Jejunoileal ulceration	is_observable_through	MAXO:0035037	gastroscopy	ORCID:0000-0002-0736-9199
 HP:0005231	Chronic gastritis	is_observable_through	MAXO:0035037	gastroscopy	ORCID:0000-0002-0736-9199
+HP:0005232	Pancreatic dysplasia	is_observable_through	MAXO:0001310	MRI of the pancreas	ORCID:0000-0002-0736-9199
+HP:0005232	Pancreatic dysplasia	is_observable_through	MAXO:0035049	endoscopic retrograde cholangiopancreatography	ORCID:0000-0002-0736-9199
 HP:0005233	Hypoplasia of the gallbladder	is_observable_through	MAXO:0010311	abdominal CT	ORCID:0000-0002-0736-9199
 HP:0005235	Jejunal atresia	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
 HP:0005235	Jejunal atresia	is_observable_through	MAXO:0010311	abdominal CT	ORCID:0000-0002-0736-9199
@@ -4644,11 +4657,15 @@ HP:0005247	Hypoplasia of the abdominal wall musculature	is_observable_through	MA
 HP:0005247	Hypoplasia of the abdominal wall musculature	is_observable_through	MAXO:0010311	abdominal CT	ORCID:0000-0002-0736-9199
 HP:0005248	Intrahepatic biliary atresia	is_observable_through	MAXO:0000376	biopsy of liver	ORCID:0000-0002-0736-9199
 HP:0005248	Intrahepatic biliary atresia	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
+HP:0005249	Functional intestinal obstruction	is_observable_through	MAXO:0010200	abdominal ultrasonography	ORCID:0000-0002-0736-9199
+HP:0005249	Functional intestinal obstruction	is_observable_through	MAXO:0010311	abdominal CT	ORCID:0000-0002-0736-9199
+HP:0005249	Functional intestinal obstruction	is_observable_through	MAXO:0010351	abdominal radiographic procedure	ORCID:0000-0002-0736-9199
 HP:0005253	Increased anterioposterior diameter of thorax	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
 HP:0005253	Increased anterioposterior diameter of thorax	is_observable_through	MAXO:0010356	chest radiograph procedure	ORCID:0000-0002-0736-9199
 HP:0005254	Unilateral chest hypoplasia	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
 HP:0005255	Absence of pectoralis minor muscle	is_observable_through	MAXO:0000716	neurologist evaluation	ORCID:0000-0002-0736-9199
 HP:0005256	Unilateral absence of pectoralis major muscle	is_observable_through	MAXO:0000716	neurologist evaluation	ORCID:0000-0002-0736-9199
+HP:0005258	Pectoral muscle hypoplasia/aplasia	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:0005259	Abnormal facility in opposing the shoulders	is_observable_through	MAXO:0010356	chest radiograph procedure	ORCID:0000-0002-0736-9199
 HP:0005261	Joint hemorrhage	is_observable_through	MAXO:0000688	hematologist evaluation	ORCID:0000-0002-0736-9199
 HP:0005263	Gastritis	is_observable_through	MAXO:0035037	gastroscopy	ORCID:0000-0002-0736-9199
@@ -5017,8 +5034,8 @@ HP:0005853	Congenital foot contraction deformities	is_prenatally_observable_thro
 HP:0005855	Multiple prenatal fractures	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:0005855	Multiple prenatal fractures	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
 HP:0005856	Ulnar radial head dislocation	is_observable_through	MAXO:0000478	orthopedic surgeon evaluation	ORCID:0000-0002-0736-9199
-HP:0005857	Cervical spina bifida	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0002-0736-9199
 HP:0005857	Cervical spina bifida	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
+HP:0005857	Cervical spina bifida	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0002-0736-9199
 HP:0005863	Type E brachydactyly	is_observable_through	MAXO:0035001	hand radiography	ORCID:0000-0002-0736-9199
 HP:0005866	Opposable triphalangeal thumb	is_observable_through	MAXO:0035001	hand radiography	ORCID:0000-0002-0736-9199
 HP:0005867	4-5 metacarpal synostosis	is_observable_through	MAXO:0035001	hand radiography	ORCID:0000-0002-0736-9199
@@ -5526,12 +5543,14 @@ HP:0006681	Absent atrioventricular node	is_observable_through	MAXO:0000900	elect
 HP:0006682	Premature ventricular contraction	is_observable_through	MAXO:0000900	electrocardiography	ORCID:0000-0002-0736-9199
 HP:0006683	Abnormal ventricular filling	is_observable_through	MAXO:0010203	echocardiography	ORCID:0000-0002-0736-9199
 HP:0006684	Ventricular preexcitation with multiple accessory pathways	is_observable_through	MAXO:0000900	electrocardiography	ORCID:0000-0002-0736-9199
+HP:0006685	Endocardial fibrosis	is_observable_through	MAXO:0000366	biopsy of heart	ORCID:0000-0002-0736-9199
 HP:0006687	Aortic tortuosity	is_observable_through	MAXO:0000428	MRI of the chest	ORCID:0000-0002-0736-9199
 HP:0006688	Paroxysmal tachycardia	is_observable_through	MAXO:0000900	electrocardiography	ORCID:0000-0002-0736-9199
 HP:0006689	Bacterial endocarditis	is_observable_through	MAXO:0010203	echocardiography	ORCID:0000-0002-0736-9199
 HP:0006690	Myocardial calcification	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
 HP:0006691	Pulmonic valve myxoma	is_observable_through	MAXO:0010203	echocardiography	ORCID:0000-0002-0736-9199
 HP:0006692	Short chordae tendineae of the tricuspid valve	is_observable_through	MAXO:0010203	echocardiography	ORCID:0000-0002-0736-9199
+HP:0006693	Myocardial steatosis	is_observable_through	MAXO:0000366	biopsy of heart	ORCID:0000-0002-0736-9199
 HP:0006694	Early progressive calcific cardiac valvular disease	is_observable_through	MAXO:0010203	echocardiography	ORCID:0000-0002-0736-9199
 HP:0006695	Atrioventricular canal defect	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
 HP:0006695	Atrioventricular canal defect	is_observable_through	MAXO:0010203	echocardiography	ORCID:0000-0002-0736-9199
@@ -8991,8 +9010,8 @@ HP:0010953	Noncommunicating hydrocephalus	is_observable_through	MAXO:0010316	bra
 HP:0010954	Hypoplastic right heart	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
 HP:0010954	Hypoplastic right heart	is_observable_through	MAXO:0010203	echocardiography	ORCID:0000-0002-0736-9199
 HP:0010955	Dilatation of the bladder	is_observable_through	MAXO:0010215	bladder ultrasonography	ORCID:0000-0002-0736-9199
-HP:0010956	Fetal megacystis	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0002-0736-9199
 HP:0010956	Fetal megacystis	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
+HP:0010956	Fetal megacystis	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0002-0736-9199
 HP:0010957	Congenital posterior urethral valve	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
 HP:0010957	Congenital posterior urethral valve	is_observable_through	MAXO:0000722	urologist evaluation	ORCID:0000-0002-0736-9199
 HP:0010958	Bilateral renal agenesis	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
@@ -12293,6 +12312,7 @@ HP:0025743	Elevated urine biliverdin level	is_observable_through	MAXO:0000789	ur
 HP:0025745	Abnormal urine amino acid level	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0025746	Diminished urine glutamine level	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0025749	Asymmetric blood pressure between limbs	is_observable_through	MAXO:0000494	blood pressure measurement	ORCID:0000-0002-0736-9199
+HP:0025750	Asymmetric blood pressure between legs	is_observable_through	MAXO:0000497	noninvasive blood pressure measurement	ORCID:0000-0002-0736-9199
 HP:0025751	Reduced anterior scleral thickness	is_observable_through	MAXO:0000973	slit-lamp examination	ORCID:0000-0002-0736-9199
 HP:0025752	Reduced posterior scleral thickness	is_observable_through	MAXO:0000973	slit-lamp examination	ORCID:0000-0002-0736-9199
 HP:0025753	Elevated urinary 2-aminoisobutyric acid	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
@@ -12323,11 +12343,15 @@ HP:0025792	Abnormal cognitive process	is_observable_through	MAXO:0000714	psychia
 HP:0025794	Reduced MHC I cell surface expression	is_observable_through	MAXO:0035055	flow cytometry procedure	ORCID:0000-0002-0736-9199
 HP:0025795	Positive urine infectious agent test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:0025796	Positive urine Legionella pneumophila antigen test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
+HP:0025798	Abnormal wrist morphology	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
+HP:0025799	Abnormal wrist physiology	is_observable_through	MAXO:0000478	orthopedic surgeon evaluation	ORCID:0000-0002-0736-9199
+HP:0025801	Nail elevation	is_observable_through	MAXO:0000671	dermatology specialist evaluation	ORCID:0000-0002-0736-9199
 HP:0030000	EMG: repetitive nerve stimulation abnormality	is_observable_through	MAXO:0000716	neurologist evaluation	ORCID:0000-0002-0736-9199
 HP:0030001	Lagophthalmos	is_observable_through	MAXO:0000703	ophthalmologist evaluation	ORCID:0000-0002-0736-9199
 HP:0030002	Nocturnal lagophthalmos	is_observable_through	MAXO:0000703	ophthalmologist evaluation	ORCID:0000-0002-0736-9199
 HP:0030003	Paralytic lagophthalmos	is_observable_through	MAXO:0000703	ophthalmologist evaluation	ORCID:0000-0002-0736-9199
 HP:0030004	Cicatricial lagophthalmos	is_observable_through	MAXO:0000703	ophthalmologist evaluation	ORCID:0000-0002-0736-9199
+HP:0030005	Capillary leak	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:0030006	Single fiber EMG abnormality	is_observable_through	MAXO:0000716	neurologist evaluation	ORCID:0000-0002-0736-9199
 HP:0030007	EMG: positive sharp waves	is_observable_through	MAXO:0000716	neurologist evaluation	ORCID:0000-0002-0736-9199
 HP:0030008	Cervical agenesis	is_observable_through	MAXO:0000702	obstetrics and gynecology specialist evaluation	ORCID:0000-0002-0736-9199
@@ -12418,6 +12442,7 @@ HP:0030080	Burkitt lymphoma	is_observable_through	MAXO:0000691	medical oncologis
 HP:0030081	Punctate periventricular T2 hyperintense foci	is_observable_through	MAXO:0000427	MRI of the brain	ORCID:0000-0002-0736-9199
 HP:0030082	Abnormal drinking behavior	is_observable_through	MAXO:0000714	psychiatrist evaluation	ORCID:0000-0002-0736-9199
 HP:0030083	Salt craving	is_observable_through	MAXO:0000714	psychiatrist evaluation	ORCID:0000-0002-0736-9199
+HP:0030084	Clinodactyly	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:0030085	Abnormal CSF lactate concentration	is_observable_through	MAXO:0001169	cerebrospinal fluid specimen collection	ORCID:0000-0002-0736-9199
 HP:0030085	Abnormal CSF lactate concentration	is_observable_through	MAXO:0035029	cerebrospinal fluid metabolite measurement	ORCID:0000-0002-0736-9199
 HP:0030086	Reduced CSF lactate	is_observable_through	MAXO:0001169	cerebrospinal fluid specimen collection	ORCID:0000-0002-0736-9199
@@ -12500,6 +12525,7 @@ HP:0030160	Cervicitis	is_observable_through	MAXO:0000702	obstetrics and gynecolo
 HP:0030161	Vaginal pruritus	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:0030162	Glomerulomegaly	is_observable_through	MAXO:0001121	biopsy of kidney	ORCID:0000-0002-0736-9199
 HP:0030163	Abnormal vascular physiology	is_observable_through	MAXO:0000682	cardiologist evaluation	ORCID:0000-0002-0736-9199
+HP:0030164	Jaw claudication	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:0030165	Temporal artery tortuosity	is_observable_through	MAXO:0001259	angiography	ORCID:0000-0002-0736-9199
 HP:0030166	Night sweats	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:0030167	Antimitochondrial antibody positivity	is_observable_through	MAXO:0000609	serology testing	ORCID:0000-0002-0736-9199
@@ -12779,6 +12805,7 @@ HP:0030418	Vulvar melanoma	is_observable_through	MAXO:0000691	medical oncologist
 HP:0030419	Bartholin gland carcinoma	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
 HP:0030420	Vulvar adenocarcinoma	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
 HP:0030421	Epididymal neoplasm	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
+HP:0030423	Splenic cyst	is_observable_through	MAXO:0010212	spleen ultrasonography	ORCID:0000-0002-0736-9199
 HP:0030424	Epididymal cyst	is_observable_through	MAXO:0000722	urologist evaluation	ORCID:0000-0002-0736-9199
 HP:0030425	Calcified ovarian cyst	is_observable_through	MAXO:0035053	ovary ultrasonography	ORCID:0000-0002-0736-9199
 HP:0030426	Ossifying fibroma	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
@@ -13276,6 +13303,9 @@ HP:0030844	Undetectable pattern electroretinogram	is_observable_through	MAXO:003
 HP:0030844	Undetectable pattern electroretinogram	is_observable_through	MAXO:0035099	electroretinogram procedure	ORCID:0000-0002-0736-9199
 HP:0030845	Heliotrope rash of eyelid	is_observable_through	MAXO:0000671	dermatology specialist evaluation	ORCID:0000-0002-0736-9199
 HP:0030846	Abnormality of venous physiology	is_observable_through	MAXO:0000682	cardiologist evaluation	ORCID:0000-0002-0736-9199
+HP:0030847	Abnormal jugular venous pressure	is_observable_through	MAXO:0000072	ultrasonography procedure	ORCID:0000-0002-0736-9199
+HP:0030848	Elevated jugular venous pressure	is_observable_through	MAXO:0000072	ultrasonography procedure	ORCID:0000-0002-0736-9199
+HP:0030849	Hepatojugular reflux	is_observable_through	MAXO:0000072	ultrasonography procedure	ORCID:0000-0002-0736-9199
 HP:0030850	Abnormal pulse pressure	is_observable_through	MAXO:0000494	blood pressure measurement	ORCID:0000-0002-0736-9199
 HP:0030851	Low pulse pressure	is_observable_through	MAXO:0000494	blood pressure measurement	ORCID:0000-0002-0736-9199
 HP:0030852	High pulse pressure	is_observable_through	MAXO:0000494	blood pressure measurement	ORCID:0000-0002-0736-9199
@@ -13293,6 +13323,7 @@ HP:0030861	Decreased CSF amyloid concentration	is_observable_through	MAXO:003500
 HP:0030862	Elevated CSF amyloid concentration	is_observable_through	MAXO:0035007	cerebrospinal fluid analysis	ORCID:0000-0002-0736-9199
 HP:0030863	Nasal flaring	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:0030864	Intercostal retractions	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
+HP:0030865	Large elbow	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:0030866	Large knee	is_observable_through	MAXO:0010357	lower limb radiographic procedure	ORCID:0000-0002-0736-9199
 HP:0030867	Vertical orbital dystopia	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:0030868	Monorchism	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
@@ -13307,6 +13338,7 @@ HP:0030876	Increased pulmonary capillary wedge pressure	is_observable_through	MA
 HP:0030877	Reduced FEV1/FVC ratio	is_observable_through	MAXO:0000693	pulmonologist evaluation	ORCID:0000-0002-0736-9199
 HP:0030878	Abnormality on pulmonary function testing	is_observable_through	MAXO:0035078	pulmonary function testing	ORCID:0000-0002-0736-9199
 HP:0030879	Interlobular septal thickening	is_observable_through	MAXO:0010356	chest radiograph procedure	ORCID:0000-0002-0736-9199
+HP:0030880	Raynaud phenomenon	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:0030883	Femoroacetabular impingement	is_observable_through	MAXO:0001253	pelvic radiograph procedure	ORCID:0000-0002-0736-9199
 HP:0030884	Gastrojejunal tube feeding in infancy	is_observable_through	MAXO:0000686	gastroenterologist evaluation	ORCID:0000-0002-0736-9199
 HP:0030885	Recurrent parasitic infections	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
@@ -13795,8 +13827,11 @@ HP:0031314	Carotid artery calcification	is_observable_through	MAXO:0035098	biops
 HP:0031315	External carotid artery calcification	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
 HP:0031315	External carotid artery calcification	is_observable_through	MAXO:0035098	biopsy of artery	ORCID:0000-0002-0736-9199
 HP:0031316	Abnormal ventricular myocardium morphology	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
+HP:0031317	Fatty replacement of ventricular myocardial tissue	is_observable_through	MAXO:0000366	biopsy of heart	ORCID:0000-0002-0736-9199
+HP:0031318	Myofiber disarray	is_observable_through	MAXO:0000366	biopsy of heart	ORCID:0000-0002-0736-9199
 HP:0031319	Cardiomyocyte hypertrophy	is_observable_through	MAXO:0000366	biopsy of heart	ORCID:0000-0002-0736-9199
 HP:0031320	Cardiomyocyte mitochondrial proliferation	is_observable_through	MAXO:0000366	biopsy of heart	ORCID:0000-0002-0736-9199
+HP:0031321	Myocardial immune cell infiltration	is_observable_through	MAXO:0000366	biopsy of heart	ORCID:0000-0002-0736-9199
 HP:0031326	Monoclonal light chain cardiac amyloidosis	is_observable_through	MAXO:0000366	biopsy of heart	ORCID:0000-0002-0736-9199
 HP:0031327	Transthyretin cardiac amyloidosis	is_observable_through	MAXO:0000366	biopsy of heart	ORCID:0000-0002-0736-9199
 HP:0031328	Perivascular cardiac fibrosis	is_observable_through	MAXO:0035098	biopsy of artery	ORCID:0000-0002-0736-9199
@@ -13954,6 +13989,7 @@ HP:0031461	Intramuscular Myxoma	is_observable_through	MAXO:0000691	medical oncol
 HP:0031462	Musculotendinous retraction	is_observable_through	MAXO:0000478	orthopedic surgeon evaluation	ORCID:0000-0002-0736-9199
 HP:0031463	Esophageal squamous papilloma	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
 HP:0031464	Genital blistering	is_observable_through	MAXO:0000671	dermatology specialist evaluation	ORCID:0000-0002-0736-9199
+HP:0031465	Abnormal vasa vasorum morphology	is_observable_through	MAXO:0000424	magnetic resonance imaging procedure	ORCID:0000-0002-0736-9199
 HP:0031466	Impairment in personality functioning	is_observable_through	MAXO:0000714	psychiatrist evaluation	ORCID:0000-0002-0736-9199
 HP:0031467	Abnormal negative emotional state	is_observable_through	MAXO:0000714	psychiatrist evaluation	ORCID:0000-0002-0736-9199
 HP:0031468	Separation insecurity	is_observable_through	MAXO:0000714	psychiatrist evaluation	ORCID:0000-0002-0736-9199
@@ -14384,6 +14420,7 @@ HP:0031809	Archibald's sign	is_observable_through	MAXO:0035001	hand radiography	
 HP:0031810	Anti-ganglioside antibody positivity	is_observable_through	MAXO:0000609	serology testing	ORCID:0000-0002-0736-9199
 HP:0031811	Bilirubinuria	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0031812	Nitrituria	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
+HP:0031813	Colonic eosinophilia	is_observable_through	MAXO:0000350	biopsy of colon	ORCID:0000-0002-0736-9199
 HP:0031814	Palilalia	is_observable_through	MAXO:0000716	neurologist evaluation	ORCID:0000-0002-0736-9199
 HP:0031815	Abnormal oral physiology	is_observable_through	MAXO:0000706	otolaryngologist evaluation	ORCID:0000-0002-0736-9199
 HP:0031816	Abnormal oral morphology	is_observable_through	MAXO:0000706	otolaryngologist evaluation	ORCID:0000-0002-0736-9199
@@ -15212,6 +15249,7 @@ HP:0032645	Renal interstitial mononuclear cell infiltration	is_observable_throug
 HP:0032646	Renal interstitial xanthogranulomatous inflammation	is_observable_through	MAXO:0001121	biopsy of kidney	ORCID:0000-0002-0736-9199
 HP:0032647	Renal tubular epithelial cell apoptosis	is_observable_through	MAXO:0001121	biopsy of kidney	ORCID:0000-0002-0736-9199
 HP:0032648	Tubularization of Bowman capsule	is_observable_through	MAXO:0001121	biopsy of kidney	ORCID:0000-0002-0736-9199
+HP:0032649	Skewfoot	is_observable_through	MAXO:0035006	foot radiography	ORCID:0000-0002-0736-9199
 HP:0032650	Elevated CSF glial fibrillary acidic protein concentration	is_observable_through	MAXO:0035007	cerebrospinal fluid analysis	ORCID:0000-0002-0736-9199
 HP:0032651	Elevated CSF chitinase-3-like protein 1 concentration	is_observable_through	MAXO:0035007	cerebrospinal fluid analysis	ORCID:0000-0002-0736-9199
 HP:0032652	Elevated CSF chitotriosidase 1 concentration	is_observable_through	MAXO:0035007	cerebrospinal fluid analysis	ORCID:0000-0002-0736-9199
@@ -17268,10 +17306,13 @@ HP:0034690	Reduced short-chain acyl-CoA dehydrogenase activity	is_observable_thr
 HP:0034691	Reduced 3-phosphoglycerate dehydrogenase activity	is_observable_through	MAXO:0035011	enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:0034692	Elongated mitochondria	is_observable_through	MAXO:0035122	cell function assay	ORCID:0000-0002-0736-9199
 HP:0034693	Reduced hepatic methionine adenosyltransferase activity	is_observable_through	MAXO:0035020	tissue enzyme activity assessment	ORCID:0000-0002-0736-9199
+HP:0034697	Cutaneous telangiectasia	is_observable_through	MAXO:0000423	biopsy of skin	ORCID:0000-0002-0736-9199
+HP:0034697	Cutaneous telangiectasia	is_observable_through	MAXO:0009055	examination by dermatologist	ORCID:0000-0002-0736-9199
 HP:0034698	Abnormal aromatase activity	is_observable_through	MAXO:0035011	enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:0034699	Elevated aromatase activity	is_observable_through	MAXO:0035011	enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:0034700	Reduced aromatase activity	is_observable_through	MAXO:0035011	enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:0034701	Corneal amyloidosis	is_observable_through	MAXO:0000973	slit-lamp examination	ORCID:0000-0002-0736-9199
+HP:0034702	Abnormal keratinocyte morphology	is_observable_through	MAXO:0000423	biopsy of skin	ORCID:0000-0002-0736-9199
 HP:0034704	Parotid gland adenocarcinoma	is_observable_through	MAXO:0001272	clinical fine needle aspiration biopsy	ORCID:0000-0002-0736-9199
 HP:0034706	Reduced hepatic D-glycerate kinase activity	is_observable_through	MAXO:0035020	tissue enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:0034710	Pulmonary hamartoma	is_observable_through	MAXO:0010317	chest CT	ORCID:0000-0002-0736-9199
@@ -17289,6 +17330,8 @@ HP:0034726	Elevated circulating beta-mannosidase activity	is_observable_through	
 HP:0034727	Reduced circulating alpha-L-fucosidase activity	is_observable_through	MAXO:0035011	enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:0034728	Abnormal circulating alpha-L-fucosidase activity	is_observable_through	MAXO:0035011	enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:0034729	Elevated circulating alpha-L-fucosidase activity	is_observable_through	MAXO:0035011	enzyme activity assessment	ORCID:0000-0002-0736-9199
+HP:0034732	Exercise-triggered malignant hyperthermia	is_observable_through	MAXO:0000574	medical history taking	ORCID:0000-0002-0736-9199
+HP:0034733	Anesthesic-triggered malignant hyperthermia	is_observable_through	MAXO:0000667	anesthesiology specialist evaluation	ORCID:0000-0002-0736-9199
 HP:0034734	Elevated CSF argininosuccinic acid concentration	is_observable_through	MAXO:0035029	cerebrospinal fluid metabolite measurement	ORCID:0000-0002-0736-9199
 HP:0034735	Elevated CSF aspartylglucosamine concentration	is_observable_through	MAXO:0035029	cerebrospinal fluid metabolite measurement	ORCID:0000-0002-0736-9199
 HP:0034737	Abnormal erythrocyte metabolite concentration	is_observable_through	MAXO:0035019	erythrocyte enzyme activity assessment	ORCID:0000-0002-0736-9199
@@ -17300,15 +17343,19 @@ HP:0034743	Elevated CSF proline concentration	is_observable_through	MAXO:0035029
 HP:0034744	Elevated urinary S-sulfocysteine level	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
 HP:0034749	Fungal bloodstream infection	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:0034753	Positive Murphy sign	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
+HP:0034761	Neurofibroma by anatomical location	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
+HP:0034767	Abnormal rete ridge morphology	is_observable_through	MAXO:0000423	biopsy of skin	ORCID:0000-0002-0736-9199
 HP:0034772	Decreased skull base length	is_observable_through	MAXO:0010318	skull CT	ORCID:0000-0002-0736-9199
 HP:0034773	Oscillopsia	is_observable_through	MAXO:0000716	neurologist evaluation	ORCID:0000-0002-0736-9199
 HP:0034774	Decreased blink rate	is_observable_through	MAXO:0000703	ophthalmologist evaluation	ORCID:0000-0002-0736-9199
 HP:0034775	Abnormal blink rate	is_observable_through	MAXO:0000703	ophthalmologist evaluation	ORCID:0000-0002-0736-9199
 HP:0034776	Elevated blink rate	is_observable_through	MAXO:0000703	ophthalmologist evaluation	ORCID:0000-0002-0736-9199
 HP:0034777	Purulent sputum	is_observable_through	MAXO:0001462	diagnostic procedure of sputum	ORCID:0000-0002-0736-9199
+HP:0034782	Obstipation	is_observable_through	MAXO:0000792	abdominal examination	ORCID:0000-0002-0736-9199
 HP:0034788	Pericardial friction rub	is_observable_through	MAXO:0035120	cardiac auscultation	ORCID:0000-0002-0736-9199
 HP:0034793	Small intestinal hamartoma	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
 HP:0034796	Cardiomyocyte hyaline bodies	is_observable_through	MAXO:0000366	biopsy of heart	ORCID:0000-0002-0736-9199
+HP:0034801	Epidermal necrosis	is_observable_through	MAXO:0000423	biopsy of skin	ORCID:0000-0002-0736-9199
 HP:0034803	Hemolacria	is_observable_through	MAXO:0000703	ophthalmologist evaluation	ORCID:0000-0002-0736-9199
 HP:0034804	Corneal foreign body sensation	is_observable_through	MAXO:0000973	slit-lamp examination	ORCID:0000-0002-0736-9199
 HP:0034805	Buttock pain	is_observable_through	MAXO:0000527	physical examination	ORCID:0000-0002-0736-9199
@@ -17321,11 +17368,14 @@ HP:0034831	Pancreatic hamartoma	is_observable_through	MAXO:0010200	abdominal ult
 HP:0034831	Pancreatic hamartoma	is_observable_through	MAXO:0010311	abdominal CT	ORCID:0000-0002-0736-9199
 HP:0034832	Liver angiomyolipoma	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
 HP:0034834	Peripheral nerve polyglucosan inclusion bodies	is_observable_through	MAXO:0035087	biopsy of peripheral nerve	ORCID:0000-0002-0736-9199
+HP:0034835	Cardiac polyglucosan accumulation	is_observable_through	MAXO:0000366	biopsy of heart	ORCID:0000-0002-0736-9199
 HP:0034836	Cystic nephroma	is_observable_through	MAXO:0001122	kidney CT	ORCID:0000-0002-0736-9199
 HP:0034836	Cystic nephroma	is_observable_through	MAXO:0001305	MRI of the kidney	ORCID:0000-0002-0736-9199
 HP:0034836	Cystic nephroma	is_observable_through	MAXO:0010217	renal ultrasonography	ORCID:0000-0002-0736-9199
+HP:0034837	Absent dermal elastic fibers	is_observable_through	MAXO:0000423	biopsy of skin	ORCID:0000-0002-0736-9199
 HP:0034839	Lymphoid hyperplasia	is_observable_through	MAXO:0000137	positron emission tomography procedure	ORCID:0000-0002-0736-9199
 HP:0034839	Lymphoid hyperplasia	is_observable_through	MAXO:0000381	biopsy of lymph node	ORCID:0000-0002-0736-9199
+HP:0034840	Absence of epidermal lamellar bodies	is_observable_through	MAXO:0035064	electron microscopic study	ORCID:0000-0002-0736-9199
 HP:0034843	Ureteral hamartoma	is_observable_through	MAXO:0035083	CT urogram	ORCID:0000-0002-0736-9199
 HP:0034858	Abnormal leukocyte enzyme concentration or activity	is_observable_through	MAXO:0035018	leukocyte enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:0034859	Reduced tissue beta-glucuronidase activity	is_observable_through	MAXO:0035020	tissue enzyme activity assessment	ORCID:0000-0002-0736-9199
@@ -17359,6 +17409,7 @@ HP:0034897	Decreased circulating antidiuretic hormone concentration	is_observabl
 HP:0034898	Elevated circulating growth hormone-releasing hormone concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0034899	Abnormal amniotic fluid protein concentration	is_observable_through	MAXO:0001448	diagnostic procedure of amniotic fluid	ORCID:0000-0002-0736-9199
 HP:0034900	Decreased amniotic fluid alpha-fetoprotein concentration	is_observable_through	MAXO:0001448	diagnostic procedure of amniotic fluid	ORCID:0000-0002-0736-9199
+HP:0034901	Increased circulating vitamin E concentration	is_observable_through	MAXO:0001250	vitamin E measurement	ORCID:0000-0002-0736-9199
 HP:0034902	Abnormal circulating calcitonin concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0034903	Decreased circulating calcitonin concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:0034904	Decreased circulating thyrotropin releasing hormone concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
@@ -17376,11 +17427,13 @@ HP:0034921	Pituitary blastoma	is_observable_through	MAXO:0000427	MRI of the brai
 HP:0034922	Peripheral axon spheroid formation	is_observable_through	MAXO:0035087	biopsy of peripheral nerve	ORCID:0000-0002-0736-9199
 HP:0034923	Reduced liver carboxylesterase 1 activity	is_observable_through	MAXO:0035020	tissue enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:0034924	Abnormal dermis morphology	is_observable_through	MAXO:0009055	examination by dermatologist	ORCID:0000-0002-0736-9199
+HP:0034925	Perivascular dermis hyaline deposition	is_observable_through	MAXO:0000423	biopsy of skin	ORCID:0000-0002-0736-9199
 HP:0034929	Reduced hepatic cystathionine gamma-lyase activity	is_observable_through	MAXO:0035020	tissue enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:0034930	Digestive system neoplasm	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
 HP:0034932	Decreased circulating acid maltase activity	is_observable_through	MAXO:0035011	enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:0034938	Decreased circulating sialic acid concentration	is_observable_through	MAXO:0000566	clinical chemistry assessment	ORCID:0000-0002-0736-9199
 HP:0034941	Palatine myxoma	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
+HP:0034943	Decreased dermal collagen	is_observable_through	MAXO:0000423	biopsy of skin	ORCID:0000-0002-0736-9199
 HP:0034951	Osteochondromyxoma	is_observable_through	MAXO:0001269	clinical biopsy	ORCID:0000-0002-0736-9199
 HP:0034953	Duodenal gastrinoma	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
 HP:0034954	Thymic carcinoid tumor	is_observable_through	MAXO:0000410	biopsy of thymus	ORCID:0000-0002-0736-9199
@@ -17391,6 +17444,7 @@ HP:0034966	Thymic cyst	is_observable_through	MAXO:0000410	biopsy of thymus	ORCID
 HP:0034966	Thymic cyst	is_observable_through	MAXO:0000428	MRI of the chest	ORCID:0000-0002-0736-9199
 HP:0034966	Thymic cyst	is_observable_through	MAXO:0010317	chest CT	ORCID:0000-0002-0736-9199
 HP:0034966	Thymic cyst	is_observable_through	MAXO:0010356	chest radiograph procedure	ORCID:0000-0002-0736-9199
+HP:0034969	Endosteal scalloping	is_observable_through	MAXO:0000595	radiograph imaging procedure	ORCID:0000-0002-0736-9199
 HP:0034970	Urinary bladder hamartoma	is_observable_through	MAXO:0010362	cystography procedure	ORCID:0000-0002-0736-9199
 HP:0034970	Urinary bladder hamartoma	is_observable_through	MAXO:0035083	CT urogram	ORCID:0000-0002-0736-9199
 HP:0034971	Peritoneal mass	is_observable_through	MAXO:0010200	abdominal ultrasonography	ORCID:0000-0002-0736-9199
@@ -17403,9 +17457,13 @@ HP:0034978	Interrupted pituitary stalk	is_observable_through	MAXO:0000427	MRI of
 HP:0034980	Synkinesis	is_observable_through	MAXO:0000716	neurologist evaluation	ORCID:0000-0002-0736-9199
 HP:0034985	Reduced cellular cobalamin uptake	is_observable_through	MAXO:0001247	vitamin B12 measurement	ORCID:0000-0002-0736-9199
 HP:0034987	Focal necrotic optic nerve lesion	is_observable_through	MAXO:0000703	ophthalmologist evaluation	ORCID:0000-0002-0736-9199
+HP:0034989	Interstitial dermal edema	is_observable_through	MAXO:0000423	biopsy of skin	ORCID:0000-0002-0736-9199
 HP:0034995	Reduced tissue fructose-1,6-bisphosphatase activity	is_observable_through	MAXO:0035020	tissue enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:0034996	Reduced hepatic carbamoylphosphate synthetase 1 activity	is_observable_through	MAXO:0035020	tissue enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:0034997	Reduced intraepidermal small nerve fiber density	is_observable_through	MAXO:0000423	biopsy of skin	ORCID:0000-0002-0736-9199
+HP:0034999	Intracellular accumulation of collagen VII	is_observable_through	MAXO:0035064	electron microscopic study	ORCID:0000-0002-0736-9199
+HP:0035000	Reduced reticular lamina anchoring fibril density	is_observable_through	MAXO:0000423	biopsy of skin	ORCID:0000-0002-0736-9199
+HP:0035001	Reduced lamina lucida anchoring filament density	is_observable_through	MAXO:0000423	biopsy of skin	ORCID:0000-0002-0736-9199
 HP:0035005	Reduced hepatic alanine-glyoxylate aminotransferase activity	is_observable_through	MAXO:0035020	tissue enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:0040004	Abnormality of corneal shape	is_observable_through	MAXO:0000973	slit-lamp examination	ORCID:0000-0002-0736-9199
 HP:0040007	Absent pigmentation of chest	is_observable_through	MAXO:0000671	dermatology specialist evaluation	ORCID:0000-0002-0736-9199
@@ -17866,6 +17924,7 @@ HP:0041195	Fractured epiphysis of third metatarsal bone	is_observable_through	MA
 HP:0041196	Fractured distal epiphysis of radius	is_observable_through	MAXO:0035043	upper limb radiography	ORCID:0000-0002-0736-9199
 HP:0041197	Fractured proximal epiphysis of first metacarpal bone	is_observable_through	MAXO:0035001	hand radiography	ORCID:0000-0002-0736-9199
 HP:0041198	Fractured proximal epiphysis of middle phalanx of manual digit 3	is_observable_through	MAXO:0035043	upper limb radiography	ORCID:0000-0002-0736-9199
+HP:0041199	Fractured interphalangeal joint	is_observable_through	MAXO:0000595	radiograph imaging procedure	ORCID:0000-0002-0736-9199
 HP:0041200	Fractured sternal end of clavicle	is_observable_through	MAXO:0010356	chest radiograph procedure	ORCID:0000-0002-0736-9199
 HP:0041209	Fractured epiphysis of middle phalanx of manus	is_observable_through	MAXO:0035043	upper limb radiography	ORCID:0000-0002-0736-9199
 HP:0041210	Fractured lateral malleolus of fibula	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
@@ -18014,6 +18073,8 @@ HP:0100022	Abnormality of movement	is_observable_through	MAXO:0000716	neurologis
 HP:0100023	Recurrent hand flapping	is_observable_through	MAXO:0000716	neurologist evaluation	ORCID:0000-0002-0736-9199
 HP:0100024	Conspicuously happy disposition	is_observable_through	MAXO:0000714	psychiatrist evaluation	ORCID:0000-0002-0736-9199
 HP:0100025	Overfriendliness	is_observable_through	MAXO:0009066	examination by psychiatrist	ORCID:0000-0002-0736-9199
+HP:0100026	Arteriovenous malformation	is_observable_through	MAXO:0000424	magnetic resonance imaging procedure	ORCID:0000-0002-0736-9199
+HP:0100026	Arteriovenous malformation	is_observable_through	MAXO:0001259	angiography	ORCID:0000-0002-0736-9199
 HP:0100027	Recurrent pancreatitis	is_observable_through	MAXO:0000685	endocrinologist evaluation	ORCID:0000-0002-0736-9199
 HP:0100028	Ectopic thyroid	is_observable_through	MAXO:0000685	endocrinologist evaluation	ORCID:0000-0002-0736-9199
 HP:0100029	Lingual thyroid	is_observable_through	MAXO:0000685	endocrinologist evaluation	ORCID:0000-0002-0736-9199
@@ -18270,6 +18331,7 @@ HP:0100276	Skin pit	is_observable_through	MAXO:0009055	examination by dermatolog
 HP:0100277	Periauricular skin pits	is_observable_through	MAXO:0009055	examination by dermatologist	ORCID:0000-0002-0736-9199
 HP:0100277	Periauricular skin pits	is_observable_through	MAXO:0035069	dysmorphology assessment	ORCID:0000-0002-0736-9199
 HP:0100279	Ulcerative colitis	is_observable_through	MAXO:0001184	colonoscopy	ORCID:0000-0002-0736-9199
+HP:0100280	Crohn's disease	is_observable_through	MAXO:0000686	gastroenterologist evaluation	ORCID:0000-0002-0736-9199
 HP:0100281	Chronic colitis	is_observable_through	MAXO:0001184	colonoscopy	ORCID:0000-0002-0736-9199
 HP:0100282	Acute colitis	is_observable_through	MAXO:0001184	colonoscopy	ORCID:0000-0002-0736-9199
 HP:0100283	EMG: continuous motor unit activity at rest	is_observable_through	MAXO:0000716	neurologist evaluation	ORCID:0000-0002-0736-9199
@@ -20291,6 +20353,7 @@ HP:5201016	Submucous cleft palate	is_observable_through	MAXO:0000706	otolaryngol
 HP:6000000	Left-right disorientation	is_observable_through	MAXO:0000714	psychiatrist evaluation	ORCID:0000-0002-0736-9199
 HP:6000001	Elevated circulating DNAJB9 protein concentration	is_observable_through	MAXO:0000865	protein measurement in blood	ORCID:0000-0002-0736-9199
 HP:6000002	Olecranon fracture	is_observable_through	MAXO:0000478	orthopedic surgeon evaluation	ORCID:0000-0002-0736-9199
+HP:6000006	Holster sign	is_observable_through	MAXO:0000671	dermatology specialist evaluation	ORCID:0000-0002-0736-9199
 HP:6000007	Salivary basal cell adenoma	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
 HP:6000009	Cerebriform connective tissue nevus	is_observable_through	MAXO:0000423	biopsy of skin	ORCID:0000-0002-0736-9199
 HP:6000009	Cerebriform connective tissue nevus	is_observable_through	MAXO:0000671	dermatology specialist evaluation	ORCID:0000-0002-0736-9199
@@ -20307,14 +20370,18 @@ HP:6000032	Autophony	is_observable_through	MAXO:0000706	otolaryngologist evaluat
 HP:6000036	Long telomere length	is_observable_through	MAXO:0000745	cytogenetic analysis	ORCID:0000-0002-0736-9199
 HP:6000037	Reduced circulating aromatic L-amino acid decarboxylase activity	is_observable_through	MAXO:0035011	enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:6000044	Elongated temporal styloid process	is_observable_through	MAXO:0010318	skull CT	ORCID:0000-0002-0736-9199
+HP:6000057	Dermal multinucleated giant cells	is_observable_through	MAXO:0000423	biopsy of skin	ORCID:0000-0002-0736-9199
 HP:6000060	Aerophagia	is_observable_through	MAXO:0000686	gastroenterologist evaluation	ORCID:0000-0002-0736-9199
 HP:6000062	Abnormal nipple discharge	is_observable_through	MAXO:0000790	clinical breast examination	ORCID:0000-0002-0736-9199
 HP:6000062	Abnormal nipple discharge	is_observable_through	MAXO:0010202	breast ultrasonography	ORCID:0000-0002-0736-9199
 HP:6000062	Abnormal nipple discharge	is_observable_through	MAXO:0010363	mammography procedure	ORCID:0000-0002-0736-9199
 HP:6000064	Excessive eructation	is_observable_through	MAXO:0000686	gastroenterologist evaluation	ORCID:0000-0002-0736-9199
+HP:6000065	Esophageal fibrosis	is_observable_through	MAXO:0000359	biopsy of esophagus	ORCID:0000-0002-0736-9199
 HP:6000070	Cutaneous granuloma	is_observable_through	MAXO:0000423	biopsy of skin	ORCID:0000-0002-0736-9199
+HP:6000071	Heterotopic dermal ossification	is_observable_through	MAXO:0000595	radiograph imaging procedure	ORCID:0000-0002-0736-9199
 HP:6000074	Pharyngeal myxoma	is_observable_through	MAXO:0000389	biopsy of nasopharynx	ORCID:0000-0002-0736-9199
 HP:6000075	Subcutaneous arteriolar thrombosis	is_observable_through	MAXO:0000423	biopsy of skin	ORCID:0000-0002-0736-9199
+HP:6000077	Pancreatic islet beta cell iron deposition	is_observable_through	MAXO:0000392	biopsy of pancreas	ORCID:0000-0002-0736-9199
 HP:6000078	Nasal hamartoma	is_observable_through	MAXO:0000389	biopsy of nasopharynx	ORCID:0000-0002-0736-9199
 HP:6000079	Metachromatic intraneuronal lipid deposits	is_observable_through	MAXO:0035087	biopsy of peripheral nerve	ORCID:0000-0002-0736-9199
 HP:6000080	Reduced phosphoserine phosphatase activity in cultured fibroblasts	is_observable_through	MAXO:0035020	tissue enzyme activity assessment	ORCID:0000-0002-0736-9199
@@ -20322,6 +20389,8 @@ HP:6000081	Reduced alpha-aminoadipic semialdehyde synthase activity in cultured 
 HP:6000082	Reduced hepatic beta-ureidopropionase activity	is_observable_through	MAXO:0035020	tissue enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:6000083	Reduced hepatic dihydropyrimidinase activity	is_observable_through	MAXO:0035020	tissue enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:6000088	Reduced muscle alpha-1,4-glucosidase activity	is_observable_through	MAXO:0035020	tissue enzyme activity assessment	ORCID:0000-0002-0736-9199
+HP:6000090	Dermal flame figures	is_observable_through	MAXO:0000423	biopsy of skin	ORCID:0000-0002-0736-9199
+HP:6000095	Draining sinus tract in skin	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:6000099	Airway mucosal thickening	is_observable_through	MAXO:0035024	high-resolution pulmonary computed tomography	ORCID:0000-0002-0736-9199
 HP:6000102	Breast intraductal papilloma	is_observable_through	MAXO:0000340	biopsy of breast	ORCID:0000-0002-0736-9199
 HP:6000102	Breast intraductal papilloma	is_observable_through	MAXO:0000431	MRI of the breast	ORCID:0000-0002-0736-9199
@@ -20361,6 +20430,11 @@ HP:6000152	Adrenocortical hyperplasia	is_observable_through	MAXO:0010311	abdomin
 HP:6000154	Bone marrow granuloma	is_observable_through	MAXO:0000336	biopsy of bone marrow	ORCID:0000-0002-0736-9199
 HP:6000154	Bone marrow granuloma	is_observable_through	MAXO:0000752	bone marrow aspiration	ORCID:0000-0002-0736-9199
 HP:6000155	Neuronal intranuclear inclusion bodies	is_observable_through	MAXO:0035087	biopsy of peripheral nerve	ORCID:0000-0002-0736-9199
+HP:6000156	Pancreatic atrophy	is_observable_through	MAXO:0001310	MRI of the pancreas	ORCID:0000-0002-0736-9199
+HP:6000156	Pancreatic atrophy	is_observable_through	MAXO:0010311	abdominal CT	ORCID:0000-0002-0736-9199
+HP:6000156	Pancreatic atrophy	is_observable_through	MAXO:0035049	endoscopic retrograde cholangiopancreatography	ORCID:0000-0002-0736-9199
+HP:6000157	Decreased pancreatic acinar cell density	is_observable_through	MAXO:0000392	biopsy of pancreas	ORCID:0000-0002-0736-9199
+HP:6000160	Splenic lipid-laden macrophage infiltration	is_observable_through	MAXO:0000405	biopsy of spleen	ORCID:0000-0002-0736-9199
 HP:6000161	Reduced hepatic N-acetylglutamate synthase activity	is_observable_through	MAXO:0035020	tissue enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:6000171	Abdominal wall mass	is_observable_through	MAXO:0000686	gastroenterologist evaluation	ORCID:0000-0002-0736-9199
 HP:6000174	Lateral neck mass	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
@@ -20392,9 +20466,11 @@ HP:6000218	Reduced circulating xanthine oxidase activity	is_observable_through	M
 HP:6000219	Reduced methylmalonate semialdehyde dehydrogenase activity in cultured fibroblasts	is_observable_through	MAXO:0035020	tissue enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:6000222	Painful defecation	is_observable_through	MAXO:0035039	defecography	ORCID:0000-0002-0736-9199
 HP:6000224	Delayed passage of meconium	is_observable_through	MAXO:0035079	neonatologist evaluation	ORCID:0000-0002-0736-9199
+HP:6000225	Single second heart sound	is_observable_through	MAXO:0035120	cardiac auscultation	ORCID:0000-0002-0736-9199
 HP:6000229	High-set nipples	is_observable_through	MAXO:0035069	dysmorphology assessment	ORCID:0000-0002-0736-9199
 HP:6000230	Decreased muscle caveolin-3 level	is_observable_through	MAXO:0000387	biopsy of muscle tissue	ORCID:0000-0002-0736-9199
 HP:6000231	Abnormal tissue enzyme concentration or activity	is_observable_through	MAXO:0035020	tissue enzyme activity assessment	ORCID:0000-0002-0736-9199
+HP:6000232	Splenic necrosis	is_observable_through	MAXO:0010212	spleen ultrasonography	ORCID:0000-0002-0736-9199
 HP:6000233	Carcinoid tumor of the pancreas	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
 HP:6000234	Elevated circulating dihydroxyphenylacetic acid concentration	is_observable_through	MAXO:0000566	clinical chemistry assessment	ORCID:0000-0002-0736-9199
 HP:6000238	Elevated CSF 5-amino-4-imidazolecarboxyamide concentration	is_observable_through	MAXO:0035029	cerebrospinal fluid metabolite measurement	ORCID:0000-0002-0736-9199
@@ -20404,10 +20480,12 @@ HP:6000243	Reduced circulating cortisol-binding globulin concentration	is_observ
 HP:6000244	Decreased circulating thyroglobulin concentration	is_observable_through	MAXO:0000865	protein measurement in blood	ORCID:0000-0002-0736-9199
 HP:6000245	Elevated circulating granulocyte-macrophage colony-stimulating factor concentration	is_observable_through	MAXO:0000865	protein measurement in blood	ORCID:0000-0002-0736-9199
 HP:6000246	Elevated CSF D-2-hydroxyglutaric acid concentration	is_observable_through	MAXO:0035029	cerebrospinal fluid metabolite measurement	ORCID:0000-0002-0736-9199
+HP:6000252	Fetal lung hyperechogenicity	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0002-0736-9199
 HP:6000255	Demonstration of Leishmania in tissue	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6000256	Pneumocystis cysts in respiratory secretions	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6000259	Positive hydrogen breath test	is_observable_through	MAXO:0035096	breath hydrogen test	ORCID:0000-0002-0736-9199
 HP:6000262	Pseudoglioma	is_observable_through	MAXO:0000703	ophthalmologist evaluation	ORCID:0000-0002-0736-9199
+HP:6000263	Papillary dermal edema	is_observable_through	MAXO:0000423	biopsy of skin	ORCID:0000-0002-0736-9199
 HP:6000264	Fetal tachycardia	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0002-0736-9199
 HP:6000264	Fetal tachycardia	is_prenatally_observable_through	MAXO:0009007	fetal echocardiography	ORCID:0000-0002-0736-9199
 HP:6000265	Elevated urinary 3-hydroxykynurenine level	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
@@ -20436,6 +20514,7 @@ HP:6000318	Elevated aldosterone:renin ratio	is_observable_through	MAXO:0000685	e
 HP:6000318	Elevated aldosterone:renin ratio	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:6000319	Meteorism	is_observable_through	MAXO:0000686	gastroenterologist evaluation	ORCID:0000-0002-0736-9199
 HP:6000324	Positive stool Giardia antigen test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
+HP:6000326	Cardiac valve vegetations	is_observable_through	MAXO:0010203	echocardiography	ORCID:0000-0002-0736-9199
 HP:6000329	Umbilical cord prolapse	is_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0002-0736-9199
 HP:6000330	Increased ratio of deoxypyridinoline to pyridinoline cross-links in urine	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
 HP:6000331	Elevated urinary thymine level	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
@@ -20443,6 +20522,8 @@ HP:6000332	Elevated urinary indoleacetic acid level	is_observable_through	MAXO:0
 HP:6000333	Reduced hepatic phosphorylase kinase activity	is_observable_through	MAXO:0035020	tissue enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:6000334	Reduced hepatic ornithine transcarbamylase activity	is_observable_through	MAXO:0035020	tissue enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:6000335	Elevated urinary quinolinic acid level	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
+HP:6000339	Small fetal abdominal circumference	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0002-0736-9199
+HP:6000340	Prenatal flattened diaphragm	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0002-0736-9199
 HP:6000341	Snowflake effect in amniotic cavity	is_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0002-0736-9199
 HP:6000345	Anti-human immunodeficiency virus antibody positivity	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6000346	Anti-polio virus antibody positivity	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
@@ -20459,11 +20540,16 @@ HP:6000360	Reduced tissue alpha-N-acetylglucosaminidase activity	is_observable_t
 HP:6000361	Reduced succinyl-CoA:3-oxoacid-CoA transferase activity in cultured fibroblasts	is_observable_through	MAXO:0035020	tissue enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:6000363	Flank mass	is_observable_through	MAXO:0000072	ultrasonography procedure	ORCID:0000-0002-0736-9199
 HP:6000367	Central thinning of the outer nuclear layer of the retina	is_observable_through	MAXO:0000703	ophthalmologist evaluation	ORCID:0000-0002-0736-9199
+HP:6000369	Ductus venosus agenesis with intrahepatic drainage	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0002-0736-9199
+HP:6000370	Ductus venosus agenesis with extrahepatic drainage and liver bypass	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0002-0736-9199
 HP:6000371	Elevated circulating D-glyceric concentration	is_observable_through	MAXO:0000566	clinical chemistry assessment	ORCID:0000-0002-0736-9199
 HP:6000372	Elevated CSF D-glyceric acid concentration	is_observable_through	MAXO:0035029	cerebrospinal fluid metabolite measurement	ORCID:0000-0002-0736-9199
 HP:6000374	Increased circulating interleukin 1beta concentration	is_observable_through	MAXO:0000553	cytokine biomarker assessment	ORCID:0000-0002-0736-9199
 HP:6000375	Reduced neutrophil myeloperoxidase activity	is_observable_through	MAXO:0035018	leukocyte enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:6000376	Jugular foramen stenosis	is_observable_through	MAXO:0010318	skull CT	ORCID:0000-0002-0736-9199
+HP:6000379	Pancreatic arteriovenous malformation	is_observable_through	MAXO:0001259	angiography	ORCID:0000-0002-0736-9199
+HP:6000379	Pancreatic arteriovenous malformation	is_observable_through	MAXO:0001310	MRI of the pancreas	ORCID:0000-0002-0736-9199
+HP:6000381	Splenic calcification	is_observable_through	MAXO:0010311	abdominal CT	ORCID:0000-0002-0736-9199
 HP:6000385	Elevated circulating soluble CD163 concentration	is_observable_through	MAXO:0000865	protein measurement in blood	ORCID:0000-0002-0736-9199
 HP:6000389	Non-glucose reducing substance in urine	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
 HP:6000390	Elevated urinary succinylaminoimidazole carboxamide riboside level	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
@@ -20479,8 +20565,11 @@ HP:6000401	Reduced circulating protein Z concentration	is_observable_through	MAX
 HP:6000404	Reduced circulating insulin-like growth factor 2 concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:6000407	Elevated circulating fibroblast growth factor 23 concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:6000408	Reduced CSF asparagine concentration	is_observable_through	MAXO:0035029	cerebrospinal fluid metabolite measurement	ORCID:0000-0002-0736-9199
+HP:6000409	Pancreatic mass	is_observable_through	MAXO:0001310	MRI of the pancreas	ORCID:0000-0002-0736-9199
+HP:6000409	Pancreatic mass	is_observable_through	MAXO:0010209	pancreatic ultrasonography	ORCID:0000-0002-0736-9199
 HP:6000419	Elevated circulating proinsulin concentration	is_observable_through	MAXO:0035005	circulating hormone measurement	ORCID:0000-0002-0736-9199
 HP:6000420	Burning eye sensation	is_observable_through	MAXO:0000703	ophthalmologist evaluation	ORCID:0000-0002-0736-9199
+HP:6000424	Kerion	is_observable_through	MAXO:0000671	dermatology specialist evaluation	ORCID:0000-0002-0736-9199
 HP:6000426	Reduced Acyl-CoA:dihydroxyacetone phosphate acyltransferase activity in cultured fibroblasts	is_observable_through	MAXO:0035020	tissue enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:6000427	Reduced alkyl-dihydroxyacetonephosphate synthase activity in cultured fibroblasts	is_observable_through	MAXO:0035020	tissue enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:6000430	Reduced tissue acetyl-CoA carboxylase activity	is_observable_through	MAXO:0035020	tissue enzyme activity assessment	ORCID:0000-0002-0736-9199
@@ -20503,6 +20592,7 @@ HP:6000466	Elevated urine 3-methyladipic acid level	is_observable_through	MAXO:0
 HP:6000467	Elevated urine D-lactate level	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
 HP:6000468	Elevated CSF alpha-ketoglutarate concentration	is_observable_through	MAXO:0035029	cerebrospinal fluid metabolite measurement	ORCID:0000-0002-0736-9199
 HP:6000469	Elevated urine 2,3-dihydroxy-2-methylbutanoic acid level	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
+HP:6000470	Fetal oral mass	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0002-0736-9199
 HP:6000473	Decreased FOXP3-expressing T cell count	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
 HP:6000477	Elevated urine 2-trans,4-cis-decadienoylcarnitine level	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
 HP:6000479	Elevated urine N-acetyltyrosine level	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
@@ -20519,6 +20609,8 @@ HP:6000489	Abnormal circulating fibroblast growth factor 23 concentration	is_obs
 HP:6000500	Extremities cold to touch	is_observable_through	MAXO:0000680	internal medicine specialist evaluation	ORCID:0000-0002-0736-9199
 HP:6000502	Elevated circulating calprotectin concentration	is_observable_through	MAXO:0000865	protein measurement in blood	ORCID:0000-0002-0736-9199
 HP:6000504	Poly-hill sign	is_observable_through	MAXO:0035008	shoulder radiograph procedure	ORCID:0000-0002-0736-9199
+HP:6000506	Radioulnar subluxation	is_observable_through	MAXO:0035043	upper limb radiography	ORCID:0000-0002-0736-9199
+HP:6000507	Non-pitting edema	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:6000509	Elevated CSF L-2-hydroxyglutaric acid concentration	is_observable_through	MAXO:0035029	cerebrospinal fluid metabolite measurement	ORCID:0000-0002-0736-9199
 HP:6000510	Elevated erythrocyte inosine triphosphate concentration	is_observable_through	MAXO:0035019	erythrocyte enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:6000511	Reduced erythrocyte inosine triphosphatase activity	is_observable_through	MAXO:0035019	erythrocyte enzyme activity assessment	ORCID:0000-0002-0736-9199
@@ -20578,6 +20670,8 @@ HP:6000581	Positive synonvial fluid infectious agent test	is_observable_through	
 HP:6000582	Positive synonvial fluid culture	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6000583	Positive synovial fluid gram stain	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6000584	Anti Parvovirus antibody positivity	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
+HP:6000589	Esophageal dilation	is_observable_through	MAXO:0000019	esophography with contrast	ORCID:0000-0002-0736-9199
+HP:6000593	Supernumerary tarsal bone	is_observable_through	MAXO:0035006	foot radiography	ORCID:0000-0002-0736-9199
 HP:6000598	Elevated urinary succinylacetone level	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
 HP:6000599	Elevated urinary 2-oxoisocaproic level	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
 HP:6000600	Elevated urinary 2-oxovaleric acid level	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
@@ -20593,6 +20687,7 @@ HP:6000610	Elevated erythrocyte galactose-1-phosphate concentration	is_observabl
 HP:6000611	Elevated circulating chitotriosidase activity	is_observable_through	MAXO:0035011	enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:6000612	Squamosal suture synostosis	is_observable_through	MAXO:0001254	skull radiograph procedure	ORCID:0000-0002-0736-9199
 HP:6000612	Squamosal suture synostosis	is_observable_through	MAXO:0010318	skull CT	ORCID:0000-0002-0736-9199
+HP:6000613	Enlarged fetal lungs	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0002-0736-9199
 HP:6000614	Orbital inflammation	is_observable_through	MAXO:0000703	ophthalmologist evaluation	ORCID:0000-0002-0736-9199
 HP:6000615	Reduced Inositol polyphosphate 5-phosphatase OCRL-1 activity in cultured fibroblasts	is_observable_through	MAXO:0035020	tissue enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:6000616	Reduced muscle glycogen debrancher enzyme activity	is_observable_through	MAXO:0035020	tissue enzyme activity assessment	ORCID:0000-0002-0736-9199
@@ -20603,6 +20698,7 @@ HP:6000621	Elevated urinary N-tau-ribosylhistidine level	is_observable_through	M
 HP:6000622	Elevated urinary ureidoisobutyric acid level	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
 HP:6000623	Elevated urinary N-carbamyl-beta-aminoisobutyric acid level	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
 HP:6000624	Nipple epidermal Paget cells	is_observable_through	MAXO:0000144	histological examination	ORCID:0000-0002-0736-9199
+HP:6000627	Rest limb pain	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:6000629	Nipple thickening	is_observable_through	MAXO:0000702	obstetrics and gynecology specialist evaluation	ORCID:0000-0002-0736-9199
 HP:6000629	Nipple thickening	is_observable_through	MAXO:0010363	mammography procedure	ORCID:0000-0002-0736-9199
 HP:6000630	Hypoechoic breast mass	is_observable_through	MAXO:0010202	breast ultrasonography	ORCID:0000-0002-0736-9199
@@ -20615,8 +20711,15 @@ HP:6000639	PAS-positive lymphocyte vacuolization	is_observable_through	MAXO:0001
 HP:6000640	Lipid-laden bone-marrow macrophages	is_observable_through	MAXO:0001387	bone marrow cell morphology measurement	ORCID:0000-0002-0736-9199
 HP:6000641	Bone marrow monocytosis	is_observable_through	MAXO:0001387	bone marrow cell morphology measurement	ORCID:0000-0002-0736-9199
 HP:6000649	Triangular nail	is_observable_through	MAXO:0000671	dermatology specialist evaluation	ORCID:0000-0002-0736-9199
+HP:6000651	Abnormal metacarpal ossification	is_observable_through	MAXO:0000595	radiograph imaging procedure	ORCID:0000-0002-0736-9199
+HP:6000656	Papillary dermis eosinophilic hyaline material	is_observable_through	MAXO:0000423	biopsy of skin	ORCID:0000-0002-0736-9199
 HP:6000657	Pancreatic intraductal papillary mucinous neoplasm	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
 HP:6000661	Phlebolith	is_observable_through	MAXO:0000595	radiograph imaging procedure	ORCID:0000-0002-0736-9199
+HP:6000663	Elevated myocardial iron load	is_observable_through	MAXO:0000366	biopsy of heart	ORCID:0000-0002-0736-9199
+HP:6000663	Elevated myocardial iron load	is_observable_through	MAXO:0001303	cardiac MRI	ORCID:0000-0002-0736-9199
+HP:6000664	Right ventricular regional wall motion abnormality	is_observable_through	MAXO:0010203	echocardiography	ORCID:0000-0002-0736-9199
+HP:6000665	Right ventricular regional akinesia	is_observable_through	MAXO:0010203	echocardiography	ORCID:0000-0002-0736-9199
+HP:6000666	Right ventricular regional dyskinesia	is_observable_through	MAXO:0010203	echocardiography	ORCID:0000-0002-0736-9199
 HP:6000670	Elevated urinary L-glycerate level	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
 HP:6000671	Breast myxoma	is_observable_through	MAXO:0000431	MRI of the breast	ORCID:0000-0002-0736-9199
 HP:6000671	Breast myxoma	is_observable_through	MAXO:0000790	clinical breast examination	ORCID:0000-0002-0736-9199
@@ -20637,6 +20740,8 @@ HP:6000697	Low tissue ferrochelatase activity	is_observable_through	MAXO:0035020
 HP:6000701	Elevated urinary bile acid level	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
 HP:6000702	Elevated urinary glyoxylic acid level	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
 HP:6000704	Elevated circulating CXCL9 concentration	is_observable_through	MAXO:0000553	cytokine biomarker assessment	ORCID:0000-0002-0736-9199
+HP:6000705	Thickened fibular cortex	is_observable_through	MAXO:0010357	lower limb radiographic procedure	ORCID:0000-0002-0736-9199
+HP:6000708	Femoral osteosclerosis	is_observable_through	MAXO:0010357	lower limb radiographic procedure	ORCID:0000-0002-0736-9199
 HP:6000710	Dalen Fuchs nodules	is_observable_through	MAXO:0000703	ophthalmologist evaluation	ORCID:0000-0002-0736-9199
 HP:6000713	Hepatic reticuloendothelial system cell iron deposition	is_observable_through	MAXO:0000376	biopsy of liver	ORCID:0000-0002-0736-9199
 HP:6000716	Terminal hepatic lobular vascular occlusion	is_observable_through	MAXO:0000144	histological examination	ORCID:0000-0002-0736-9199
@@ -20694,7 +20799,10 @@ HP:6000778	Cone-shaped distal tibial epiphysis	is_observable_through	MAXO:000078
 HP:6000781	Reduced tissue phosphomannomutase activity	is_observable_through	MAXO:0035020	tissue enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:6000782	Reduced tissue phosphomannose isomerase activity	is_observable_through	MAXO:0035020	tissue enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:6000783	Reduced tissue palmitoyl-protein thioesterase activity	is_observable_through	MAXO:0035020	tissue enzyme activity assessment	ORCID:0000-0002-0736-9199
+HP:6000788	Displacement of the extensor tendon in metacarpophalangeal joint	is_observable_through	MAXO:0000478	orthopedic surgeon evaluation	ORCID:0000-0002-0736-9199
+HP:6000789	Heloma	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:6000792	Positive lacrimal tract actinomyces culture	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
+HP:6000793	Eschar	is_observable_through	MAXO:0009055	examination by dermatologist	ORCID:0000-0002-0736-9199
 HP:6000796	Positive bloodstream VDRL test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6000797	Positive bloodstream rapid plasma reagin test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6000798	Positive bloodstream HIV p24 antigen test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
@@ -20708,6 +20816,8 @@ HP:6000805	Elevated urinary uroporphyrin level	is_observable_through	MAXO:000078
 HP:6000806	Elevated urinary phosphohydroxylysine level	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
 HP:6000807	Cervical C6/C7 vertebrae fusion	is_observable_through	MAXO:0000478	orthopedic surgeon evaluation	ORCID:0000-0002-0736-9199
 HP:6000808	Periumbilical depression	is_observable_through	MAXO:0000686	gastroenterologist evaluation	ORCID:0000-0002-0736-9199
+HP:6000809	Thickened tibial cortex	is_observable_through	MAXO:0010357	lower limb radiographic procedure	ORCID:0000-0002-0736-9199
+HP:6000810	Thickened femoral cortex	is_observable_through	MAXO:0010357	lower limb radiographic procedure	ORCID:0000-0002-0736-9199
 HP:6000813	Elevated circulating aspartate aminotransferase to alanine aminotransferase ratio	is_observable_through	MAXO:0035011	enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:6000815	Amyloid goiter	is_observable_through	MAXO:0000411	biopsy of thyroid gland	ORCID:0000-0002-0736-9199
 HP:6000818	Transverse terminal limb defect	is_observable_through	MAXO:0000478	orthopedic surgeon evaluation	ORCID:0000-0002-0736-9199
@@ -20737,14 +20847,18 @@ HP:6000853	Thyroid cyst	is_observable_through	MAXO:0000411	biopsy of thyroid gla
 HP:6000853	Thyroid cyst	is_observable_through	MAXO:0010214	thyroid ultrasonography	ORCID:0000-0002-0736-9199
 HP:6000854	Decreased circulating sulfate concentration	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:6000855	Cold intolerance	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
+HP:6000859	Dermal foam cells	is_observable_through	MAXO:0000423	biopsy of skin	ORCID:0000-0002-0736-9199
 HP:6000860	Diminished tissue very long-chain acyl-CoA dehydrogenase activity	is_observable_through	MAXO:0035020	tissue enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:6000861	Diminished tissue glycogen branching enzyme activity	is_observable_through	MAXO:0035020	tissue enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:6000862	Parotid adenoma	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
 HP:6000863	Elevated serum-ascites albumin gradient (SAAG)	is_observable_through	MAXO:0000686	gastroenterologist evaluation	ORCID:0000-0002-0736-9199
+HP:6000867	Delayed tibial epiphyseal ossification	is_observable_through	MAXO:0010357	lower limb radiographic procedure	ORCID:0000-0002-0736-9199
+HP:6000870	Metaphyseal chevron deformity	is_observable_through	MAXO:0000595	radiograph imaging procedure	ORCID:0000-0002-0736-9199
 HP:6000872	Aplasia/Hypoplasia of the calvaria	is_observable_through	MAXO:0001254	skull radiograph procedure	ORCID:0000-0002-0736-9199
 HP:6000872	Aplasia/Hypoplasia of the calvaria	is_observable_through	MAXO:0010318	skull CT	ORCID:0000-0002-0736-9199
 HP:6000887	Elevated blood bismuth concentration	is_observable_through	MAXO:0000787	blood chemistry measurement	ORCID:0000-0002-0736-9199
 HP:6000888	Elevated urine bismuth level	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
+HP:6000891	Absent toe phalanx flexion crease	is_observable_through	MAXO:0035069	dysmorphology assessment	ORCID:0000-0002-0736-9199
 HP:6000893	Gaucher cells	is_observable_through	MAXO:0000144	histological examination	ORCID:0000-0002-0736-9199
 HP:6000894	Breast adenoma	is_observable_through	MAXO:0000431	MRI of the breast	ORCID:0000-0002-0736-9199
 HP:6000894	Breast adenoma	is_observable_through	MAXO:0000790	clinical breast examination	ORCID:0000-0002-0736-9199
@@ -20771,6 +20885,7 @@ HP:6000910	Diminished tissue alpha-L-iduronidase activity	is_observable_through	
 HP:6000911	Reduced tissue neuraminidase activity	is_observable_through	MAXO:0035020	tissue enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:6000913	Swelling of inguinal region	is_observable_through	MAXO:0000686	gastroenterologist evaluation	ORCID:0000-0002-0736-9199
 HP:6000918	Transverse terminal upper limb defect	is_observable_through	MAXO:0000478	orthopedic surgeon evaluation	ORCID:0000-0002-0736-9199
+HP:6000921	Fibular torsion	is_observable_through	MAXO:0010357	lower limb radiographic procedure	ORCID:0000-0002-0736-9199
 HP:6000923	Positive bloodstream EBV monospot test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6000924	Positive CSF Toxoplasma gondii antibody positivity	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6000925	Positive tuberculin skin test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
@@ -20781,15 +20896,20 @@ HP:6000929	Neutralizing anti-rabies virus antibody positivity	is_observable_thro
 HP:6000930	Impaired hepatobiliary scintigraphy tracer uptake	is_observable_through	MAXO:0035090	hepatobiliary iminodiacetic acid scan	ORCID:0000-0002-0736-9199
 HP:6000933	Koebner Phenomenon	is_observable_through	MAXO:0000671	dermatology specialist evaluation	ORCID:0000-0002-0736-9199
 HP:6000934	Glenoid dysplasia	is_observable_through	MAXO:0000478	orthopedic surgeon evaluation	ORCID:0000-0002-0736-9199
+HP:6000943	Femoral osteopoikilosis	is_observable_through	MAXO:0010357	lower limb radiographic procedure	ORCID:0000-0002-0736-9199
 HP:6000944	Carotidynia	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
+HP:6000945	Asymmetric blood pressure between arms	is_observable_through	MAXO:0000497	noninvasive blood pressure measurement	ORCID:0000-0002-0736-9199
 HP:6000946	Transverse terminal lower limb defect	is_observable_through	MAXO:0000478	orthopedic surgeon evaluation	ORCID:0000-0002-0736-9199
 HP:6000947	Hemimelia of lower leg	is_observable_through	MAXO:0000478	orthopedic surgeon evaluation	ORCID:0000-0002-0736-9199
 HP:6000948	Hemimelia of forearm	is_observable_through	MAXO:0000478	orthopedic surgeon evaluation	ORCID:0000-0002-0736-9199
 HP:6000950	Breath-holding spell	is_observable_through	MAXO:0000707	pediatrician evaluation	ORCID:0000-0002-0736-9199
+HP:6000952	Delayed toe phalanx ossification	is_observable_through	MAXO:0035006	foot radiography	ORCID:0000-0002-0736-9199
 HP:6000954	Positive peritoneal fluid bacterial culture	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6000955	Ocular cystine crystal deposition	is_observable_through	MAXO:0000973	slit-lamp examination	ORCID:0000-0002-0736-9199
+HP:6000956	Exuberant granulation tissue	is_observable_through	MAXO:0009055	examination by dermatologist	ORCID:0000-0002-0736-9199
 HP:6000957	Oral mucosal papule	is_observable_through	MAXO:0035069	dysmorphology assessment	ORCID:0000-0002-0736-9199
 HP:6000959	Scalp edema	is_observable_through	MAXO:0000671	dermatology specialist evaluation	ORCID:0000-0002-0736-9199
+HP:6000960	Serpiginous burrow	is_observable_through	MAXO:0000671	dermatology specialist evaluation	ORCID:0000-0002-0736-9199
 HP:6000961	Positive brain-tissue rabies nucleic acid test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6000962	Positive respiratory tract Bordetella pertussis nucleic acid test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6000963	Demonstration of acid-fast bacilli in wound tissue	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
@@ -20824,12 +20944,15 @@ HP:6001018	Mediastinal lymph node calcification	is_observable_through	MAXO:00103
 HP:6001018	Mediastinal lymph node calcification	is_observable_through	MAXO:0010356	chest radiograph procedure	ORCID:0000-0002-0736-9199
 HP:6001019	Eggshell calcification of lymph nodes	is_observable_through	MAXO:0010317	chest CT	ORCID:0000-0002-0736-9199
 HP:6001019	Eggshell calcification of lymph nodes	is_observable_through	MAXO:0010356	chest radiograph procedure	ORCID:0000-0002-0736-9199
+HP:6001021	Subcutaneous emphysema	is_observable_through	MAXO:0000595	radiograph imaging procedure	ORCID:0000-0002-0736-9199
 HP:6001023	Diminished long-chain-enoyl-CoA hydratase activity in cultured fibroblasts	is_observable_through	MAXO:0035020	tissue enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:6001024	Diminished acetyl-CoA C-acyltransferase activity in cultured fibroblasts	is_observable_through	MAXO:0035020	tissue enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:6001025	Pathological inclusion body	is_observable_through	MAXO:0000144	histological examination	ORCID:0000-0002-0736-9199
+HP:6001026	Reduced epidermal collagen IV alpha 5 chain staining	is_observable_through	MAXO:0000423	biopsy of skin	ORCID:0000-0002-0736-9199
 HP:6001033	Bone marrow cystine accumulation	is_observable_through	MAXO:0000336	biopsy of bone marrow	ORCID:0000-0002-0736-9199
 HP:6001033	Bone marrow cystine accumulation	is_observable_through	MAXO:0000752	bone marrow aspiration	ORCID:0000-0002-0736-9199
 HP:6001034	Desmoid tumor	is_observable_through	MAXO:0001271	clinical core needle biopsy	ORCID:0000-0002-0736-9199
+HP:6001036	Left ventricular rupture	is_observable_through	MAXO:0010203	echocardiography	ORCID:0000-0002-0736-9199
 HP:6001038	Intestinal worm	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6001039	Scrotal worm	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6001040	Small intestinal adenoma	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
@@ -20837,31 +20960,47 @@ HP:6001044	Dyschronometria	is_observable_through	MAXO:0000714	psychiatrist evalu
 HP:6001046	Breast cyst	is_observable_through	MAXO:0000790	clinical breast examination	ORCID:0000-0002-0736-9199
 HP:6001046	Breast cyst	is_observable_through	MAXO:0010202	breast ultrasonography	ORCID:0000-0002-0736-9199
 HP:6001046	Breast cyst	is_observable_through	MAXO:0010363	mammography procedure	ORCID:0000-0002-0736-9199
+HP:6001052	Tibiotalar synostosis	is_observable_through	MAXO:0035006	foot radiography	ORCID:0000-0002-0736-9199
+HP:6001055	Palpable thrill on extremity	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:6001062	Eosinophilic neuronal inclusion bodies	is_observable_through	MAXO:0035087	biopsy of peripheral nerve	ORCID:0000-0002-0736-9199
 HP:6001063	Sweaty foot-like odor	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:6001074	Longitudinal erythronychia	is_observable_through	MAXO:0000671	dermatology specialist evaluation	ORCID:0000-0002-0736-9199
 HP:6001080	Reduced urine retrahydrocortisol plus 5-alpha-THF to tetrahydrocortisone ratio	is_observable_through	MAXO:0035062	urine hormone measurement	ORCID:0000-0002-0736-9199
 HP:6001081	Elevated urinary 2,4-dihydroxyglutarate level	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
+HP:6001086	Irregular RR interval	is_observable_through	MAXO:0000900	electrocardiography	ORCID:0000-0002-0736-9199
+HP:6001087	Irregular P-P interval	is_observable_through	MAXO:0000900	electrocardiography	ORCID:0000-0002-0736-9199
 HP:6001088	Fungal hair infection	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6001096	Decreased T-cell ZAP-70 protein expression in CD4-positive T cells	is_observable_through	MAXO:0001357	lymphocyte morphology measurement	ORCID:0000-0002-0736-9199
+HP:6001098	Metaphyseal undermodelling	is_observable_through	MAXO:0000595	radiograph imaging procedure	ORCID:0000-0002-0736-9199
 HP:6001101	crossed brainstem sign	is_observable_through	MAXO:0000427	MRI of the brain	ORCID:0000-0002-0736-9199
+HP:6001105	Positive probe-to-bone test	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:6001108	Local anesthetic ineffectiveness	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:6001111	Positive saliva rabies nucleic acid test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6001112	Elevated tissue arylsulfatase A activity	is_observable_through	MAXO:0035020	tissue enzyme activity assessment	ORCID:0000-0002-0736-9199
 HP:6001113	Elevated circulating methysterol concentration	is_observable_through	MAXO:0000566	clinical chemistry assessment	ORCID:0000-0002-0736-9199
 HP:6001114	Elevated urinary adipic acid	is_observable_through	MAXO:0000789	urine chemistry measurement	ORCID:0000-0002-0736-9199
+HP:6001119	Purulent drainage from skin	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:6001124	Sphenoid wing dysplasia	is_observable_through	MAXO:0010318	skull CT	ORCID:0000-0002-0736-9199
+HP:6001125	Skin laceration	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
+HP:6001130	Distal radioulnar joint arthritis	is_observable_through	MAXO:0035043	upper limb radiography	ORCID:0000-0002-0736-9199
 HP:6001141	Anterior shoulder pain	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
+HP:6001143	Posterior fat pad sign of the elbow	is_observable_through	MAXO:0035043	upper limb radiography	ORCID:0000-0002-0736-9199
 HP:6001147	Increased peripheral nerve cross sectional area	is_observable_through	MAXO:0035087	biopsy of peripheral nerve	ORCID:0000-0002-0736-9199
 HP:6001149	Positive hook test at the elbow	is_observable_through	MAXO:0000478	orthopedic surgeon evaluation	ORCID:0000-0002-0736-9199
 HP:6001158	Trochanteric pain	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:6001159	Pulsatile mass in extremity	is_observable_through	MAXO:0000720	vascular surgeon evaluation	ORCID:0000-0002-0736-9199
 HP:6001159	Pulsatile mass in extremity	is_observable_through	MAXO:0035119	duplex ultrasound with color flow imaging	ORCID:0000-0002-0736-9199
+HP:6001160	Abnormal R wave	is_observable_through	MAXO:0000900	electrocardiography	ORCID:0000-0002-0736-9199
+HP:6001161	Poor R-wave progression	is_observable_through	MAXO:0000900	electrocardiography	ORCID:0000-0002-0736-9199
+HP:6001162	Prominent V1-V2 R wave	is_observable_through	MAXO:0000900	electrocardiography	ORCID:0000-0002-0736-9199
+HP:6001163	Finger mass	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:6001164	Foot mass	is_observable_through	MAXO:0035006	foot radiography	ORCID:0000-0002-0736-9199
 HP:6001165	Abnormal retinal vein morphology	is_observable_through	MAXO:0000703	ophthalmologist evaluation	ORCID:0000-0002-0736-9199
+HP:6001166	Spongiosis	is_observable_through	MAXO:0000423	biopsy of skin	ORCID:0000-0002-0736-9199
 HP:6001167	Discoid adrenal gland	is_observable_through	MAXO:0001309	MRI of the adrenal gland	ORCID:0000-0002-0736-9199
 HP:6001168	Abnormal optic disc vasculature morphology	is_observable_through	MAXO:0000703	ophthalmologist evaluation	ORCID:0000-0002-0736-9199
 HP:6001172	Increased compartment pressure	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
+HP:6001178	Clavicular edema	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
 HP:6001179	Positive CSF anti-measles antibody test	is_observable_through	MAXO:0000690	infectious disease internist evaluation	ORCID:0000-0002-0736-9199
 HP:6001181	Choroid thickening	is_observable_through	MAXO:0000703	ophthalmologist evaluation	ORCID:0000-0002-0736-9199
 HP:6001183	Retinal shunt vessels	is_observable_through	MAXO:0000703	ophthalmologist evaluation	ORCID:0000-0002-0736-9199
