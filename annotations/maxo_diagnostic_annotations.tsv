@@ -85,8 +85,8 @@ HP:0000072	Hydroureter	is_prenatally_observable_through	MAXO:0000520	fetal ultra
 HP:0000072	Hydroureter	is_observable_through	MAXO:0035061	pelvic CT	ORCID:0000-0002-0736-9199
 HP:0000073	Ureteral duplication	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
 HP:0000073	Ureteral duplication	is_observable_through	MAXO:0010219	pelvis ultrasonography	ORCID:0000-0002-0736-9199
-HP:0000074	Ureteropelvic junction obstruction	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0002-0736-9199
 HP:0000074	Ureteropelvic junction obstruction	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
+HP:0000074	Ureteropelvic junction obstruction	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0002-0736-9199
 HP:0000074	Ureteropelvic junction obstruction	is_observable_through	MAXO:0000722	urologist evaluation	ORCID:0000-0002-0736-9199
 HP:0000074	Ureteropelvic junction obstruction	is_observable_through	MAXO:0009065	intravenous pyelogram	ORCID:0000-0002-0736-9199
 HP:0000074	Ureteropelvic junction obstruction	is_observable_through	MAXO:0035083	CT urogram	ORCID:0000-0002-0736-9199
@@ -2534,8 +2534,8 @@ HP:0002406	Limb dysmetria	is_observable_through	MAXO:0009058	examination by a ne
 HP:0002408	Cerebral arteriovenous malformation	is_observable_through	MAXO:0000427	MRI of the brain	ORCID:0000-0002-0736-9199
 HP:0002410	Aqueductal stenosis	is_observable_through	MAXO:0010316	brain CT	ORCID:0000-0002-0736-9199
 HP:0002411	Myokymia	is_observable_through	MAXO:0000716	neurologist evaluation	ORCID:0000-0002-0736-9199
-HP:0002414	Spina bifida	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
 HP:0002414	Spina bifida	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0002-0736-9199
+HP:0002414	Spina bifida	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
 HP:0002414	Spina bifida	is_prenatally_observable_through	MAXO:0001478	fetal MRI	ORCID:0000-0003-1502-5000
 HP:0002415	Leukodystrophy	is_observable_through	MAXO:0000427	MRI of the brain	ORCID:0000-0002-0736-9199
 HP:0002415	Leukodystrophy	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
@@ -10082,8 +10082,8 @@ HP:0011722	Mixed total anomalous pulmonary venous connection	is_prenatally_obser
 HP:0011722	Mixed total anomalous pulmonary venous connection	is_observable_through	MAXO:0010203	echocardiography	ORCID:0000-0002-0736-9199
 HP:0011723	Congenital malformation of the right heart	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0002-0736-9199
 HP:0011723	Congenital malformation of the right heart	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
-HP:0011724	Uhl's anomaly	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0002-0736-9199
 HP:0011724	Uhl's anomaly	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
+HP:0011724	Uhl's anomaly	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0002-0736-9199
 HP:0011725	Chaotic multifocal atrial tachycardia	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
 HP:0011725	Chaotic multifocal atrial tachycardia	is_observable_through	MAXO:0000900	electrocardiography	ORCID:0000-0002-0736-9199
 HP:0011726	Persistent fetal circulation	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
@@ -18883,8 +18883,8 @@ HP:0100629	Midline facial cleft	is_observable_through	MAXO:0035069	dysmorphology
 HP:0100630	Neoplasia of the nasopharynx	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
 HP:0100631	Neoplasm of the adrenal gland	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
 HP:0100631	Neoplasm of the adrenal gland	is_observable_through	MAXO:0010311	abdominal CT	ORCID:0000-0002-0736-9199
-HP:0100632	Pulmonary sequestration	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0002-0736-9199
 HP:0100632	Pulmonary sequestration	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0003-1502-5000
+HP:0100632	Pulmonary sequestration	is_prenatally_observable_through	MAXO:0000520	fetal ultrasonography	ORCID:0000-0002-0736-9199
 HP:0100632	Pulmonary sequestration	is_observable_through	MAXO:0010317	chest CT	ORCID:0000-0002-0736-9199
 HP:0100633	Esophagitis	is_observable_through	MAXO:0001200	esophagoscopy	ORCID:0000-0002-0736-9199
 HP:0100634	Neuroendocrine neoplasm	is_observable_through	MAXO:0000691	medical oncologist evaluation	ORCID:0000-0002-0736-9199
@@ -21359,3 +21359,12 @@ HP:6001190	Abnormal MHC surface expression	is_observable_through	MAXO:0035055	fl
 HP:6001194	Limited shoulder external rotation	is_observable_through	MAXO:0000478	orthopedic surgeon evaluation	ORCID:0000-0002-0736-9199
 HP:6001197	Wrist arthritis	is_observable_through	MAXO:0035001	hand radiography	ORCID:0000-0002-0736-9199
 HP:6001200	Ulnar wrist pain	is_observable_through	MAXO:0000487	clinical assessment	ORCID:0000-0002-0736-9199
+HP:6001221	Posterior shoulder pain	is_observable_through	MAXO:0000478	orthopedic surgeon evaluation	ORCID:0000-0002-0736-9199
+HP:6001222	Superior shoulder pain	is_observable_through	MAXO:0000478	orthopedic surgeon evaluation	ORCID:0000-0002-0736-9199
+HP:6001223	Lateral shoulder pain	is_observable_through	MAXO:0000478	orthopedic surgeon evaluation	ORCID:0000-0002-0736-9199
+HP:6001229	Foamy tear film	is_observable_through	MAXO:0000703	ophthalmologist evaluation	ORCID:0000-0002-0736-9199
+HP:6001241	Flexed posturing of finger	is_observable_through	MAXO:0000478	orthopedic surgeon evaluation	ORCID:0000-0002-0736-9199
+HP:6001258	Pulmonary hyperplasia	is_observable_through	MAXO:0000693	pulmonologist evaluation	ORCID:0000-0002-0736-9199
+HP:6001259	Positive protozoan parasite CSF wet mount test	is_observable_through	MAXO:0001169	cerebrospinal fluid specimen collection	ORCID:0000-0002-0736-9199
+HP:6001276	Decreased circulating ADAMTS13 activity	is_observable_through	MAXO:0035011	enzyme activity assessment	ORCID:0000-0002-0736-9199
+HP:6001277	Abnormal methacholine challenge test	is_observable_through	MAXO:0035078	pulmonary function testing	ORCID:0000-0002-0736-9199
