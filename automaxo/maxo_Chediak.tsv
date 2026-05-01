@@ -1,0 +1,18 @@
+disease_id	disease_name	source_id	maxo_id	maxo_name	hpo_id	relation	evidence	extension_id	extension_name	comment	other	author	last_updated	created
+MONDO:0008963	Chediak-Higashi syndrome	PMID:28355352	MAXO:0001479	allogeneic hematopoietic stem cell transplantation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0008963	Chediak-Higashi syndrome	PMID:11509933	MAXO:0001479	allogeneic hematopoietic stem cell transplantation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0008963	Chediak-Higashi syndrome	PMID:15765164	MAXO:0001479	allogeneic hematopoietic stem cell transplantation	HP:0000118	prevents	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0008963	Chediak-Higashi syndrome	PMID:16190108	MAXO:0001479	allogeneic hematopoietic stem cell transplantation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0008963	Chediak-Higashi syndrome	PMID:26511512	MAXO:0001479	allogeneic hematopoietic stem cell transplantation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0008963	Chediak-Higashi syndrome	PMID:17293882	MAXO:0001479	allogeneic hematopoietic stem cell transplantation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0008963	Chediak-Higashi syndrome	PMID:15790783	MAXO:0001479	allogeneic hematopoietic stem cell transplantation	HP:0002719	prevents	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0008963	Chediak-Higashi syndrome	PMID:17637689	MAXO:0001479	allogeneic hematopoietic stem cell transplantation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0008963	Chediak-Higashi syndrome	PMID:14528111	MAXO:0001479	allogeneic hematopoietic stem cell transplantation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0008963	Chediak-Higashi syndrome	PMID:14599068	MAXO:0001479	allogeneic hematopoietic stem cell transplantation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0008963	Chediak-Higashi syndrome	PMID:25609327	MAXO:0001479	allogeneic hematopoietic stem cell transplantation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0008963	Chediak-Higashi syndrome	PMID:15790783	MAXO:0001479	allogeneic hematopoietic stem cell transplantation	HP:0000118	prevents	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0008963	Chediak-Higashi syndrome	PMID:28219570	MAXO:0001265	partial lung transplantation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0008963	Chediak-Higashi syndrome	PMID:28762620	MAXO:0010033	umbilical cord blood transplantation	HP:0000118	prevents	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0008963	Chediak-Higashi syndrome	PMID:27816481	MAXO:0010033	umbilical cord blood transplantation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0008963	Chediak-Higashi syndrome	PMID:30778805	MAXO:0001479	allogeneic hematopoietic stem cell transplantation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0008963	Chediak-Higashi syndrome	PMID:33093354	MAXO:0001479	allogeneic hematopoietic stem cell transplantation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-02

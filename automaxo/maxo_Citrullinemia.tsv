@@ -1,0 +1,15 @@
+disease_id	disease_name	source_id	maxo_id	maxo_name	hpo_id	relation	evidence	extension_id	extension_name	comment	other	author	last_updated	created
+MONDO:0011326	citrullinemia, type II, adult-onset	PMID:19285691	MAXO:0001175	liver transplantation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0011326	citrullinemia, type II, adult-onset	PMID:19260507	MAXO:0001175	liver transplantation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0011326	citrullinemia, type II, adult-onset	PMID:20118603	MAXO:0010002	protein intake avoidance	HP:0002480	contraindicated	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0011326	citrullinemia, type II, adult-onset	PMID:21204812	MAXO:0001175	liver transplantation	HP:0000118	prevents	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0011326	citrullinemia, type II, adult-onset	PMID:19285691	MAXO:0001175	liver transplantation	HP:0001987	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0011326	citrullinemia, type II, adult-onset	PMID:21921468	MAXO:0000771	carbohydrate-restricted diet intake	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0011326	citrullinemia, type II, adult-onset	PMID:24182831	MAXO:0001175	liver transplantation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0011326	citrullinemia, type II, adult-onset	PMID:17228780	MAXO:0001175	liver transplantation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0011326	citrullinemia, type II, adult-onset	PMID:17354380	MAXO:0001175	liver transplantation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0011326	citrullinemia, type II, adult-onset	PMID:29651749	MAXO:0000771	carbohydrate-restricted diet intake	HP:0001987	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0011326	citrullinemia, type II, adult-onset	PMID:25283831	MAXO:0000771	carbohydrate-restricted diet intake	HP:0002480	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0011326	citrullinemia, type II, adult-onset	PMID:27555199	MAXO:0000667	anesthesiology specialist evaluation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0011326	citrullinemia, type II, adult-onset	PMID:31898207	MAXO:0000771	carbohydrate-restricted diet intake	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0011326	citrullinemia, type II, adult-onset	PMID:31898207	MAXO:0010009	arginine supplementation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-02

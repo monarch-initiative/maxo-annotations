@@ -1,0 +1,25 @@
+disease_id	disease_name	source_id	maxo_id	maxo_name	hpo_id	relation	evidence	extension_id	extension_name	comment	other	author	last_updated	created
+MONDO:0007041	Apert syndrome	PMID:21865115	MAXO:0000237	retinoid agent therapy	HP:0001061	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:22901909	MAXO:0001183	bronchoscopy	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:23170942	MAXO:0001293	hand reconstructive plastic surgery	HP:0001159	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:22196295	MAXO:0001293	hand reconstructive plastic surgery	HP:0001159	prevents	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:24709088	MAXO:0000486	distraction osteogenesis	HP:0001363	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:23702195	MAXO:0000486	distraction osteogenesis	HP:0002870	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:23702195	MAXO:0000486	distraction osteogenesis	HP:0006536	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:25313108	MAXO:0009060	examination by ophthalmologist	HP:0000646	prevents	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:26398130	MAXO:0000500	airway management	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:24820706	MAXO:0000500	airway management	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:26674912	MAXO:0000004	surgical procedure	HP:0010536	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:26674912	MAXO:0000004	surgical procedure	HP:0000453	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:25929771	MAXO:0000004	surgical procedure	HP:0010743	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:26365357	MAXO:0001293	hand reconstructive plastic surgery	HP:0001159	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:28906337	MAXO:0000486	distraction osteogenesis	HP:0010807	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:28570459	MAXO:0000486	distraction osteogenesis	HP:0011800	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:28820838	MAXO:0001292	surgical plastic reconstruction of face	HP:0001363	unknown	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:29891270	MAXO:0001293	hand reconstructive plastic surgery	HP:0001159	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:31137453	MAXO:0000667	anesthesiology specialist evaluation	HP:0002902	prevents	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:32398550	MAXO:0000004	surgical procedure	HP:0001818	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:33136789	MAXO:0001293	hand reconstructive plastic surgery	HP:0001159	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:31895846	MAXO:0001293	hand reconstructive plastic surgery	HP:0001159	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:34133757	MAXO:0000504	tracheostomy	HP:0005347	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007041	Apert syndrome	PMID:34133757	MAXO:0001514	surgical procedure on respiratory system	HP:0005347	treats	PCS					0000-0002-0736-9199		2024-08-02

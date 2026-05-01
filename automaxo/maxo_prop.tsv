@@ -1,0 +1,23 @@
+disease_id	disease_name	source_id	maxo_id	maxo_name	hpo_id	relation	evidence	extension_id	extension_name	comment	other	author	last_updated	created
+MONDO:0011628	propionic acidemia	PMID:30375139	MAXO:0001175	liver transplantation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:31715057	MAXO:0001175	liver transplantation	HP:0000118	prevents	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:30242960	MAXO:0001175	liver transplantation	HP:0000118	prevents	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:25990417	MAXO:0001175	liver transplantation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:28298669	MAXO:0000515	extracorporeal membrane oxygenation	HP:0001987	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:31196016	MAXO:0000058	pharmacotherapy	HP:0001987	prevents	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:33093405	MAXO:0001175	liver transplantation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:26881497	MAXO:0001175	liver transplantation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:27283461	MAXO:0000515	extracorporeal membrane oxygenation	HP:0001987	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:29679984	MAXO:0000058	pharmacotherapy	HP:0001987	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:30080956	MAXO:0001175	liver transplantation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:30879957	MAXO:0000623	nutrition counseling	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:31915802	MAXO:0000058	pharmacotherapy	HP:0008281	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:32270363	MAXO:0001175	liver transplantation	HP:0000118	prevents	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:31757659	MAXO:0001175	liver transplantation	HP:0000118	prevents	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:31978012	MAXO:0001175	liver transplantation	HP:0000118	prevents	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:33451859	MAXO:0010002	protein intake avoidance	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:33978500	MAXO:0000667	anesthesiology specialist evaluation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:35189944	MAXO:0001175	liver transplantation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:25683683	MAXO:0001175	liver transplantation	HP:0000118	prevents	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:35401508	MAXO:0001017	vaccination	HP:0000118	prevents	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0011628	propionic acidemia	PMID:36710110	MAXO:0010032	cardiac transplantation	HP:0001638	prevents	PCS					0000-0002-0736-9199		2024-08-03

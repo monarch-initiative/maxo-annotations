@@ -1,0 +1,11 @@
+disease_id	disease_name	source_id	maxo_id	maxo_name	hpo_id	relation	evidence	extension_id	extension_name	comment	other	author	last_updated	created
+MONDO:0015263	Brugada syndrome	PMID:34152392	MAXO:0000452	ablation therapy	HP:0004308	prevents	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0015263	Brugada syndrome	PMID:36396185	MAXO:0000452	ablation therapy	HP:0001663	prevents	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0015263	Brugada syndrome	PMID:34152392	MAXO:0000452	ablation therapy	HP:0005110	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0015263	Brugada syndrome	PMID:34182174	MAXO:0000452	ablation therapy	HP:0001663	prevents	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0015263	Brugada syndrome	PMID:34387130	MAXO:0000474	implantable cardioverter-defibrillator placement	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0015263	Brugada syndrome	PMID:34444641	MAXO:0000884	behavioral dietary intervention	HP:0000118	prevents	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0015263	Brugada syndrome	PMID:34446272	MAXO:0000452	ablation therapy	HP:0004756	prevents	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0015263	Brugada syndrome	PMID:34751355	MAXO:0000474	implantable cardioverter-defibrillator placement	HP:0001699	prevents	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0015263	Brugada syndrome	PMID:36396185	MAXO:0000474	implantable cardioverter-defibrillator placement	HP:0001663	prevents	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0015263	Brugada syndrome	PMID:36960730	MAXO:0000452	ablation therapy	HP:0001663	prevents	PCS					0000-0002-0736-9199		2024-08-02

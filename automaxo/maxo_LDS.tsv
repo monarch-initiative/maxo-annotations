@@ -1,0 +1,21 @@
+disease_id	disease_name	source_id	maxo_id	maxo_name	hpo_id	relation	evidence	extension_id	extension_name	comment	other	author	last_updated	created
+MONDO:0018954	Loeys-Dietz syndrome	PMID:21801912	MAXO:0001281	surgical repair of aorta	HP:0002616	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:21992158	MAXO:0000945	spinal cord stimulation	HP:0100749	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:24045763	MAXO:0000646	cancer chemotherapy	HP:0012182	prevents	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:24395868	MAXO:0001515	surgical procedure on vascular system	HP:0002138	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:24239520	MAXO:0001515	surgical procedure on vascular system	HP:0031252	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:23350955	MAXO:0001515	surgical procedure on vascular system	HP:0030745	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:24399673	MAXO:0025001	surgical procedure on cardiovascular system	HP:6000144	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:24431245	MAXO:0001515	surgical procedure on vascular system	HP:0002138	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:27780078	MAXO:0000702	obstetrics and gynecology specialist evaluation	HP:0002647	prevents	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:28304197	MAXO:0001515	surgical procedure on vascular system	HP:0004947	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:28604473	MAXO:0000667	anesthesiology specialist evaluation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:27487644	MAXO:0000667	anesthesiology specialist evaluation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:25203753	MAXO:0000667	anesthesiology specialist evaluation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:29350591	MAXO:0001515	surgical procedure on vascular system	HP:0004944	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:25323276	MAXO:0001515	surgical procedure on vascular system	HP:0004944	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:29889773	MAXO:0000479	orthopedic surgery	HP:0003302	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:30513314	MAXO:0010032	cardiac transplantation	HP:0001635	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:31842932	MAXO:0035065	dentist evaluation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:32164578	MAXO:0001346	gastrostomy	HP:0001508	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0018954	Loeys-Dietz syndrome	PMID:35095068	MAXO:0001281	surgical repair of aorta	HP:0012727	treats	PCS					0000-0002-0736-9199		2024-08-02

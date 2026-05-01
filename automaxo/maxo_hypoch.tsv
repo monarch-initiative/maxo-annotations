@@ -1,0 +1,7 @@
+disease_id	disease_name	source_id	maxo_id	maxo_name	hpo_id	relation	evidence	extension_id	extension_name	comment	other	author	last_updated	created
+MONDO:0007037	Achondroplasia	PMID:1785332	MAXO:0000780	human growth hormone replacement therapy	HP:0004322	prevents	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0007037	Achondroplasia	PMID:9539301	MAXO:0000780	human growth hormone replacement therapy	HP:0004322	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0007793	hypochondroplasia	PMID:20226364	MAXO:0000087	massage therapy	HP:0002355	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0007793	hypochondroplasia	PMID:22137367	MAXO:0000780	human growth hormone replacement therapy	HP:0004322	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0007793	hypochondroplasia	PMID:25323764	MAXO:0000780	human growth hormone replacement therapy	HP:0003498	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0007793	hypochondroplasia	PMID:38084006	MAXO:0000479	orthopedic surgery	HP:0004322	prevents	PCS					0000-0002-0736-9199		2024-08-03

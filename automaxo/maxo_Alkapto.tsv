@@ -1,0 +1,14 @@
+disease_id	disease_name	source_id	maxo_id	maxo_name	hpo_id	relation	evidence	extension_id	extension_name	comment	other	author	last_updated	created
+MONDO:0008753	alkaptonuria	PMID:10488288	MAXO:0025001	surgical procedure on cardiovascular system	HP:0001650	prevents	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0008753	alkaptonuria	PMID:10494297	MAXO:0010002	protein intake avoidance	HP:0033704	prevents	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0008753	alkaptonuria	PMID:12359141	MAXO:0010043	whole kidney transplantation	HP:0000083	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0008753	alkaptonuria	PMID:12546396	MAXO:0001046	discectomy	HP:0008441	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0008753	alkaptonuria	PMID:16736091	MAXO:0001046	discectomy	HP:0008441	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0008753	alkaptonuria	PMID:22482092	MAXO:0009082	arthroplasty	HP:0003040	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0008753	alkaptonuria	PMID:19300282	MAXO:0009082	arthroplasty	HP:0003040	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0008753	alkaptonuria	PMID:19671401	MAXO:0000004	surgical procedure	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0008753	alkaptonuria	PMID:22772574	MAXO:0001046	discectomy	HP:0008441	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0008753	alkaptonuria	PMID:25475116	MAXO:0000058	pharmacotherapy	HP:0033704	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0008753	alkaptonuria	PMID:32822600	MAXO:0000058	pharmacotherapy	HP:0033704	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0008753	alkaptonuria	PMID:28081634	MAXO:0000058	pharmacotherapy	HP:0033704	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0008753	alkaptonuria	PMID:9870204	MAXO:0010002	protein intake avoidance	HP:0033704	prevents	PCS					0000-0002-0736-9199		2024-08-03

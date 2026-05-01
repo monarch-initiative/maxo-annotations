@@ -1,0 +1,9 @@
+disease_id	disease_name	source_id	maxo_id	maxo_name	hpo_id	relation	evidence	extension_id	extension_name	comment	other	author	last_updated	created
+MONDO:0009104	Donnai-Barrow syndrome	PMID:21756462	MAXO:0009025	cochlear device implantation	HP:0000407	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0009104	Donnai-Barrow syndrome	PMID:32657950	MAXO:0000004	surgical procedure	HP:0410030	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0009104	Donnai-Barrow syndrome	PMID:32657950	MAXO:0000004	surgical procedure	HP:0000776	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0009104	Donnai-Barrow syndrome	PMID:32657950	MAXO:0000090	enteral nutrition intake	HP:0011968	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0009104	Donnai-Barrow syndrome	PMID:32657950	MAXO:0000515	extracorporeal membrane oxygenation	HP:0002878	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0009104	Donnai-Barrow syndrome	PMID:32657950	MAXO:0000930	speech therapy	HP:0000750	prevents	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0009104	Donnai-Barrow syndrome	PMID:32657950	MAXO:0001351	occupational therapy	HP:0001263	prevents	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0009104	Donnai-Barrow syndrome	PMID:32657950	MAXO:0025001	surgical procedure on cardiovascular system	HP:0001636	treats	PCS					0000-0002-0736-9199		2024-07-22

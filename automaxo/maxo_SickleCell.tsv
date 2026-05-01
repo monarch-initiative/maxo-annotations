@@ -1,0 +1,118 @@
+disease_id	disease_name	source_id	maxo_id	maxo_name	hpo_id	relation	evidence	extension_id	extension_name	comment	other	author	last_updated	created
+MONDO:0011382	sickle cell anemia	PMID:28159390	MAXO:0001001	gene therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:28257476	MAXO:0001225	iron chelator agent therapy	HP:6000663	prevents	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:30095751	MAXO:0000802	avoid excessive exercise	HP:0030058	contraindicated	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:30893088	MAXO:0000457	pain management	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:30951023	MAXO:0000756	blood transfusion	HP:0100749	prevents	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:30616959	MAXO:0000756	blood transfusion	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:28500860	MAXO:0000756	blood transfusion	HP:0025722	prevents	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:28870775	MAXO:0000747	hematopoietic stem cell transplantation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:30324698	MAXO:0000756	blood transfusion	HP:0001297	prevents	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:29313508	MAXO:0000756	blood transfusion	HP:0001297	prevents	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:28094851	MAXO:0000756	blood transfusion	HP:0001297	unknown	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:28249145	MAXO:0001001	gene therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:28544309	MAXO:0001223	chelator agent therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:28295188	MAXO:0001223	chelator agent therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:28877587	MAXO:0001001	gene therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:29668544	MAXO:0000756	blood transfusion	HP:0001297	prevents	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32507420	MAXO:0000457	pain management	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32892842	MAXO:0001001	gene therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:28612714	MAXO:0001001	gene therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:28541013	MAXO:0001001	gene therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:33390216	MAXO:0000457	pain management	HP:0012531	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:33749705	MAXO:0001001	gene therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:34607344	MAXO:0000756	blood transfusion	HP:0025722	prevents	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:31026251	MAXO:0000756	blood transfusion	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:28094851	MAXO:0000756	blood transfusion	HP:0001903	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:28538131	MAXO:0001001	gene therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:28673501	MAXO:0001225	iron chelator agent therapy	HP:6000663	prevents	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:28748876	MAXO:0010043	whole kidney transplantation	HP:0003774	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:28802541	MAXO:0000194	opioid analgesic agent therapy	HP:0012531	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:29556958	MAXO:0000178	anticoagulant agent therapy	HP:0004831	prevents	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:29977264	MAXO:0000065	aerobic exercise therapy	HP:0000118	unknown	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:30153113	MAXO:0000279	glucocorticoids/ mineralocorticoids therapy	HP:0012531	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:30300449	MAXO:0001225	iron chelator agent therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:30643938	MAXO:0000515	extracorporeal membrane oxygenation	HP:0012531	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:30667500	MAXO:0000756	blood transfusion	HP:0001297	prevents	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:31742587	MAXO:0000065	aerobic exercise therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:31860969	MAXO:0000756	blood transfusion	HP:0001903	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:31942751	MAXO:0000756	blood transfusion	HP:0100749	prevents	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:30941859	MAXO:0000756	blood transfusion	HP:0001297	prevents	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:29377071	MAXO:0000756	blood transfusion	HP:0001297	unknown	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:29377292	MAXO:0000756	blood transfusion	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:28821470	MAXO:0000756	blood transfusion	HP:0001297	prevents	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:31014083	MAXO:0000061	antibacterial agent therapy	HP:0002090	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:31045749	MAXO:0000883	cognitive behavior therapy	HP:0012531	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:31413089	MAXO:0001001	gene therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:31595633	MAXO:0010030	bone marrow transplantation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:31628051	MAXO:0001001	gene therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:31742673	MAXO:0000457	pain management	HP:0012531	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:31803937	MAXO:0000011	physical therapy	HP:0010885	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:31990652	MAXO:0001001	gene therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32034776	MAXO:0001001	gene therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:31780850	MAXO:0001001	gene therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32147028	MAXO:0000083	acupuncture therapy	HP:0012531	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32202251	MAXO:0000747	hematopoietic stem cell transplantation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32202252	MAXO:0010030	bone marrow transplantation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32367470	MAXO:0000457	pain management	HP:0012531	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32259777	MAXO:0000457	pain management	HP:0012531	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32305060	MAXO:0000756	blood transfusion	HP:0001297	prevents	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32705357	MAXO:0000457	pain management	HP:6000040	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32255722	MAXO:0000457	pain management	HP:0012531	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32469414	MAXO:0010030	bone marrow transplantation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32516073	MAXO:0001514	surgical procedure on respiratory system	HP:0200023	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32681734	MAXO:0000065	aerobic exercise therapy	HP:0003546	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32716555	MAXO:0000756	blood transfusion	HP:0001903	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32790687	MAXO:0010043	whole kidney transplantation	HP:0003774	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32817291	MAXO:0001001	gene therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32878859	MAXO:0000066	supplemental oxygen therapy	HP:0012418	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32885834	MAXO:0000457	pain management	HP:0012531	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:33128440	MAXO:0000747	hematopoietic stem cell transplantation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:33128443	MAXO:0000061	antibacterial agent therapy	HP:0002754	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:33176303	MAXO:0000756	blood transfusion	HP:0100749	prevents	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:33373554	MAXO:0000457	pain management	HP:0012531	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:33494879	MAXO:0000747	hematopoietic stem cell transplantation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:33541761	MAXO:0001001	gene therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:34080441	MAXO:0000083	acupuncture therapy	HP:0012531	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:34234298	MAXO:0000747	hematopoietic stem cell transplantation	HP:0002500	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:33560399	MAXO:0000747	hematopoietic stem cell transplantation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:33836978	MAXO:0001175	liver transplantation	HP:0001399	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:33583735	MAXO:0001175	liver transplantation	HP:0001399	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:33711512	MAXO:0000457	pain management	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:33674866	MAXO:0000457	pain management	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:32039737	MAXO:0000457	pain management	HP:0012531	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:30893088	MAXO:0000457	pain management	HP:0012531	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:28853040	MAXO:0000457	pain management	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:33836866	MAXO:0000747	hematopoietic stem cell transplantation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:33836889	MAXO:0010030	bone marrow transplantation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:34101983	MAXO:0000955	bi-level positive airway pressure ventilation	HP:0000118	prevents	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:34232977	MAXO:0001001	gene therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:34847228	MAXO:0001223	chelator agent therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:34889383	MAXO:0000045	dehydration prevention recommendation	HP:0000118	prevents	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:34889383	MAXO:0001118	hypotension prevention recommendation	HP:0000118	prevents	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:35072359	MAXO:0000515	extracorporeal membrane oxygenation	HP:0012531	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:35260809	MAXO:0001512	surgical procedure on reproductive system	HP:0200023	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:35724398	MAXO:0001017	vaccination	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:36400544	MAXO:0001001	gene therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:36170507	MAXO:0001001	gene therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:35894560	MAXO:0001001	gene therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:35302009	MAXO:0001001	gene therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:36346425	MAXO:0001001	gene therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:36516084	MAXO:0000747	hematopoietic stem cell transplantation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:38289232	MAXO:0001001	gene therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:35385685	MAXO:0001001	gene therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:36354234	MAXO:0001017	vaccination	HP:0000118	prevents	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:36866433	MAXO:0001483	complement 5 inhibitor therapy	HP:0001878	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:36996737	MAXO:0000087	massage therapy	HP:0012531	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:36994864	MAXO:0000087	massage therapy	HP:0012531	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:37184905	MAXO:0000083	acupuncture therapy	HP:0012531	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:36775794	MAXO:0000083	acupuncture therapy	HP:0012531	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:37488061	MAXO:0000646	cancer chemotherapy	HP:0006775	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:38161155	MAXO:0000952	hydration therapy	HP:0012531	prevents	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:38205646	MAXO:0000747	hematopoietic stem cell transplantation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:37939876	MAXO:0000747	hematopoietic stem cell transplantation	HP:0001297	prevents	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:38285418	MAXO:0000952	hydration therapy	HP:0200023	prevents	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:38285418	MAXO:0001507	surgical procedure on genitourinary system	HP:0200023	prevents	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:38302294	MAXO:0000457	pain management	HP:0012531	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:37248824	MAXO:0000457	pain management	HP:0012531	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0011382	sickle cell anemia	PMID:38693059	MAXO:0000756	blood transfusion	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22

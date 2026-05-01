@@ -1,0 +1,32 @@
+disease_id	disease_name	source_id	maxo_id	maxo_name	hpo_id	relation	evidence	extension_id	extension_name	comment	other	author	last_updated	created
+MONDO:0018997	Noonan syndrome	PMID:10206464	MAXO:0000646	cancer chemotherapy	HP:0006721	treats	PCS					0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:10668781	MAXO:0000011	physical therapy	HP:0031058	treats	PCS					0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:10668781	MAXO:0000011	physical therapy	HP:0003546	treats	PCS					0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:12147971	MAXO:0025001	surgical procedure on cardiovascular system	HP:0001631	treats	PCS					0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:12679651	MAXO:0000014	radiation therapy	HP:0500092	treats	PCS					0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:1456257	MAXO:0000640	corticosteroid agent therapy	HP:0010310	treats	PCS					0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:15889278	MAXO:0000187	beta-adrenergic antagonist therapy	HP:0032092	treats	PCS					0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:16078230	MAXO:0000646	cancer chemotherapy	HP:0003006	treats	PCS					0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:16636503	MAXO:0025001	surgical procedure on cardiovascular system	HP:0001684	treats	PCS					0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:17028394	MAXO:0000780	human growth hormone replacement therapy	HP:0004322	treats	PCS					0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:19927903	MAXO:0001514	surgical procedure on respiratory system	HP:0025677	treats	PCS					0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:20306897	MAXO:0025001	surgical procedure on cardiovascular system	HP:0001631	treats	PCS					0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:2485602	MAXO:0000780	human growth hormone replacement therapy	HP:0004322	treats	PCS					0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:11316696	MAXO:0000780	human growth hormone replacement therapy	HP:0004322	treats	PCS					0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:12679651	MAXO:0000646	cancer chemotherapy	HP:0500092	treats	PCS					0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:15889278	MAXO:0000165	diuretic agent therapy	HP:0001635	treats	PCS					0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:25480460	MAXO:0001514	surgical procedure on respiratory system	HP:0010310	treats	PCS					0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:25894171	MAXO:0010043	whole kidney transplantation	HP:0000083	treats	PCS					0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:27565148	MAXO:0000944	cranial electrical stimulation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:28192847	MAXO:0000884	behavioral dietary intervention	HP:0002578	treats	PCS					0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:28330516	MAXO:0025001	surgical procedure on cardiovascular system	HP:0001642	treats	PCS					0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:29092974	MAXO:0009074	breast augmentation surgery	HP:0003187	treats	PCS					0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:29109363	MAXO:0000780	human growth hormone replacement therapy	HP:0004322	treats	PCS					0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:30382642	MAXO:0000058	pharmacotherapy	HP:0002615	treats	PCS					0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:30576779	MAXO:0001280	surgical repair of pulmonary valve	HP:0001639	treats	PCS					0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:34363648	MAXO:0000646	cancer chemotherapy	HP:0100764	treats	PCS					0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:34446079	MAXO:0000004	surgical procedure	HP:0001631	treats	PCS					0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:35810017	MAXO:0010043	whole kidney transplantation	HP:0000083	treats	PCS					0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:38309657	MAXO:0000024	surgical procedure on the eye	HP:0000656	treats	PCS					0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:7500608	MAXO:0001514	surgical procedure on respiratory system	HP:0010310	treats	PCS					0000-0002-0736-9199		2024-07-20
+MONDO:0018997	Noonan syndrome	PMID:8992869	MAXO:0025001	surgical procedure on cardiovascular system	HP:0005164	treats	PCS					0000-0002-0736-9199		2024-07-20

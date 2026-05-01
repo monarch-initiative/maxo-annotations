@@ -1,0 +1,22 @@
+disease_id	disease_name	source_id	maxo_id	maxo_name	hpo_id	relation	evidence	extension_id	extension_name	comment	other	author	last_updated	created
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:13677952	MAXO:0000504	tracheostomy	HP:0002779	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:1523062	MAXO:0000894	extracorporeal shock wave lithotripsy	HP:0000804	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:18520986	MAXO:0009015	botulinum toxin therapy	HP:0000742	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:16138673	MAXO:0009015	botulinum toxin therapy	HP:0000742	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:21940691	MAXO:0000943	deep brain stimulation	HP:0100716	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:16530134	MAXO:0000943	deep brain stimulation	HP:0001332	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:17853483	MAXO:0000943	deep brain stimulation	HP:0001332	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:17595035	MAXO:0000943	deep brain stimulation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:17853483	MAXO:0000943	deep brain stimulation	HP:0100660	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:12593632	MAXO:0000943	deep brain stimulation	HP:0000742	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:21331772	MAXO:0000952	hydration therapy	HP:0000791	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:22350962	MAXO:0010033	umbilical cord blood transplantation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:29227296	MAXO:0000882	behavioral intervention	HP:0000742	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:31985336	MAXO:0000602	hemodialysis	HP:0003774	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:32846834	MAXO:0000667	anesthesiology specialist evaluation	HP:0000118	prevents	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:22985762	MAXO:0000667	anesthesiology specialist evaluation	HP:0000118	prevents	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:36694014	MAXO:0000943	deep brain stimulation	HP:0100716	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:32573906	MAXO:0000943	deep brain stimulation	HP:0100660	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:32573906	MAXO:0000943	deep brain stimulation	HP:0001332	treats	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:3839638	MAXO:0000667	anesthesiology specialist evaluation	HP:0000118	prevents	PCS					0000-0002-0736-9199		2024-08-03
+MONDO:0010298	Lesch-Nyhan syndrome	PMID:9051548	MAXO:0000667	anesthesiology specialist evaluation	HP:0000118	prevents	PCS					0000-0002-0736-9199		2024-08-03

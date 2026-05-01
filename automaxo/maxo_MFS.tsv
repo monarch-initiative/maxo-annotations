@@ -1,0 +1,45 @@
+disease_id	disease_name	source_id	maxo_id	maxo_name	hpo_id	relation	evidence	extension_id	extension_name	comment	other	author	last_updated	created
+MONDO:0007947	Marfan syndrome	PMID:25216402	MAXO:0000004	surgical procedure	HP:0025643	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:25662437	MAXO:0001297	surgical repair of cardiovascular system	HP:0002616	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:25520047	MAXO:0001297	surgical repair of cardiovascular system	HP:0002647	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:25085319	MAXO:0001297	surgical repair of cardiovascular system	HP:0004933	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:25935877	MAXO:0000653	angiotensin receptor blocker therapy	HP:0002616	prevents	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:25974974	MAXO:0009043	cataract extraction with intraocular lens insertion	HP:0001132	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:26151074	MAXO:0000702	obstetrics and gynecology specialist evaluation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:26296785	MAXO:0000024	surgical procedure on the eye	HP:0030961	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:27343792	MAXO:0000667	anesthesiology specialist evaluation	HP:0000118	prevents	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:27483660	MAXO:0000667	anesthesiology specialist evaluation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:27898546	MAXO:0000702	obstetrics and gynecology specialist evaluation	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:28327138	MAXO:0000477	orthopedic procedure	HP:0002650	prevents	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:28606654	MAXO:0000702	obstetrics and gynecology specialist evaluation	HP:0000118	prevents	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:29631308	MAXO:0000482	orthotic device usage	HP:0001763	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:30207113	MAXO:0001297	surgical repair of cardiovascular system	HP:0002616	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:30287287	MAXO:0001297	surgical repair of cardiovascular system	HP:0002616	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:28838101	MAXO:0001297	surgical repair of cardiovascular system	HP:0004933	prevents	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:29934004	MAXO:0001297	surgical repair of cardiovascular system	HP:0004933	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:30369143	MAXO:0001293	hand reconstructive plastic surgery	HP:0001166	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:31003918	MAXO:0000187	beta-adrenergic antagonist therapy	HP:0002616	prevents	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:31003918	MAXO:0000653	angiotensin receptor blocker therapy	HP:0002616	prevents	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:31129614	MAXO:0000702	obstetrics and gynecology specialist evaluation	HP:0000118	prevents	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:27825688	MAXO:0000702	obstetrics and gynecology specialist evaluation	HP:0004933	prevents	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:31194238	MAXO:0000024	surgical procedure on the eye	HP:0001083	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:31194238	MAXO:0001085	vitrectomy	HP:0012230	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:31478365	MAXO:0000004	surgical procedure	HP:0012281	prevents	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:31513900	MAXO:0001059	iridectomy	HP:0012634	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:31546497	MAXO:0000024	surgical procedure on the eye	HP:0001083	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:32423364	MAXO:0001297	surgical repair of cardiovascular system	HP:0002616	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:31530070	MAXO:0001297	surgical repair of cardiovascular system	HP:0001653	prevents	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:31546497	MAXO:0001085	vitrectomy	HP:0001083	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:32650901	MAXO:0000653	angiotensin receptor blocker therapy	HP:0002616	prevents	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:31836196	MAXO:0000653	angiotensin receptor blocker therapy	HP:0002616	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:32650901	MAXO:0001026	beta-adrenergic agonist therapy	HP:0002616	prevents	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:33078267	MAXO:0000479	orthopedic surgery	HP:0002650	prevents	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:36998208	MAXO:0001297	surgical repair of cardiovascular system	HP:0001655	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:33301243	MAXO:0001297	surgical repair of cardiovascular system	HP:0002616	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:33370003	MAXO:0000479	orthopedic surgery	HP:0002650	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:31981144	MAXO:0000479	orthopedic surgery	HP:0002650	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:32079842	MAXO:0000024	surgical procedure on the eye	HP:0030961	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:35152942	MAXO:0000512	continuous positive airway pressure ventilation	HP:0002870	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:35275761	MAXO:0000512	continuous positive airway pressure ventilation	HP:0002870	prevents	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:37890177	MAXO:0000004	surgical procedure	HP:0025643	treats	PCS					0000-0002-0736-9199		2024-08-02
+MONDO:0007947	Marfan syndrome	PMID:38728516	MAXO:0000178	anticoagulant agent therapy	HP:0002140	treats	PCS					0000-0002-0736-9199		2024-08-02

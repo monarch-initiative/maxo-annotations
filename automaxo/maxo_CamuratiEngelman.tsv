@@ -1,0 +1,11 @@
+disease_id 	disease_name 	source_id 	maxo_id 	maxo_name 	hpo_id 	relation 	evidence 	extension_id 	extension_name 	comment 	other	 author last_updated 		created
+MONDO:0007542	Camurati-Engelmann disease	PMID:10685567	MAXO:0009025	cochlear device implantation	HP:0000365	unknown	PCS					0000-0002-0736-9199		7/16/24
+MONDO:0007542	Camurati-Engelmann disease	PMID:10685567	MAXO:0009025	cochlear device implantation	HP:0030038	treats	PCS					0000-0002-0736-9199		7/16/24
+MONDO:0007542	Camurati-Engelmann disease	PMID:11452173	MAXO:0000640	corticosteroid agent therapy	HP:0002653	treats	PCS					0000-0002-0736-9199		7/16/24
+MONDO:0007542	Camurati-Engelmann disease	PMID:15660289	MAXO:0000954	bisphosphonate agent therapy	HP:0002653	lack of observed response	PCS					0000-0002-0736-9199		7/16/24
+MONDO:0007542	Camurati-Engelmann disease	PMID:11452173	MAXO:0000954	bisphosphonate agent therapy	HP:0002653	lack of observed response	PCS					0000-0002-0736-9199		7/16/24
+MONDO:0007542	Camurati-Engelmann disease	PMID:19943817	MAXO:0000449	surgical extirpation	HP:0002653	treats	PCS					0000-0002-0736-9199		7/16/24
+MONDO:0007542	Camurati-Engelmann disease	PMID:19943817	MAXO:0010031	bone grafting	HP:0030038	treats	PCS					0000-0002-0736-9199		7/16/24
+MONDO:0007542	Camurati-Engelmann disease	PMID:23729546	MAXO:0000110	vitamin D supplementation	HP:0000118	treats	PCS					0000-0002-0736-9199		7/16/24
+MONDO:0007542	Camurati-Engelmann disease	PMID:23729546	MAXO:0000640	corticosteroid agent therapy	HP:0002653	treats	PCS					0000-0002-0736-9199		7/16/24
+MONDO:0007542	Camurati-Engelmann disease	PMID:28137547	MAXO:0000948	craniotomy	HP:0002516	treats	PCS					0000-0002-0736-9199		7/16/24

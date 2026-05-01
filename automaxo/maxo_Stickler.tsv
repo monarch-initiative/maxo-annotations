@@ -1,0 +1,12 @@
+disease_id	disease_name	source_id	maxo_id	maxo_name	hpo_id	relation	evidence	extension_id	extension_name	comment	other	author	last_updated	created
+MONDO:0019354	Stickler syndrome	PMID:17138163	MAXO:0000500	airway management	HP:0000118	prevents	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0019354	Stickler syndrome	PMID:20545219	MAXO:0001085	vitrectomy	HP:0012230	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0019354	Stickler syndrome	PMID:21466760	MAXO:0000024	surgical procedure on the eye	HP:0000541	prevents	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0019354	Stickler syndrome	PMID:24793526	MAXO:0000024	surgical procedure on the eye	HP:0000541	prevents	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0019354	Stickler syndrome	PMID:26540157	MAXO:0000486	distraction osteogenesis	HP:0000201	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0019354	Stickler syndrome	PMID:31856005	MAXO:0000625	inhalation anesthetic therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0019354	Stickler syndrome	PMID:9091366	MAXO:0000024	surgical procedure on the eye	HP:0000541	prevents	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0019354	Stickler syndrome	PMID:32316871	MAXO:0000024	surgical procedure on the eye	HP:0000541	prevents	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0019354	Stickler syndrome	PMID:32536504	MAXO:0000004	surgical procedure	HP:0002870	treats	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0019354	Stickler syndrome	PMID:35393073	MAXO:0000024	surgical procedure on the eye	HP:0000541	prevents	PCS					0000-0002-0736-9199		2024-07-22
+MONDO:0019354	Stickler syndrome	PMID:8544588	MAXO:0000500	airway management	HP:0000201	treats	PCS					0000-0002-0736-9199		2024-07-22

@@ -1,0 +1,47 @@
+disease_id	disease_name	source_id	maxo_id	maxo_name	hpo_id	relation	evidence	extension_id	extension_name	comment	other	author	last_updated	created
+MONDO:0007739	Huntington disease	PMID:11176966	MAXO:0000930	speech therapy	HP:0001260	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:153484	MAXO:0001131	pyridoxine supplementation	HP:0000118	lack of observed response	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:156313	MAXO:0000228	antitubercular agent therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:15883340	MAXO:0010008	creatine supplementation	HP:0000118	lack of observed response	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:18394562	MAXO:0001337	GABA agonist agent therapy	HP:0100022	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:21287753	MAXO:0000167	anticonvulsant agent therapy	HP:0000718	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:16340384	MAXO:0000167	anticonvulsant agent therapy	HP:0004305	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:18394562	MAXO:0000160	antidepressant agent therapy	HP:0000716	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:21796039	MAXO:0000021	palliative care	HP:0000118	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:23108692	MAXO:0000313	antihistamine agent therapy	HP:0100543	lack of observed response	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:24699718	MAXO:0000943	deep brain stimulation	HP:0000118	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:18590443	MAXO:0000943	deep brain stimulation	HP:0002072	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:25482256	MAXO:0000090	enteral nutrition intake	HP:0000118	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:25482256	MAXO:0001346	gastrostomy	HP:0004395	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:28947114	MAXO:0000011	physical therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:18467429	MAXO:0000011	physical therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:21960468	MAXO:0000065	aerobic exercise therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:24024832	MAXO:0000943	deep brain stimulation	HP:0000118	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:24375941	MAXO:0000439	selective serotonin reuptake inhibitor therapy	HP:0033051	lack of observed response	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:25482256	MAXO:0000009	nutrition intervention	HP:0004395	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:25482256	MAXO:0001349	jejunostomy	HP:0004395	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:26863152	MAXO:0000011	physical therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:27380342	MAXO:0000058	pharmacotherapy	HP:0002072	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:28531758	MAXO:0000088	dietary intervention	HP:0000118	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:28628549	MAXO:0000011	physical therapy	HP:0002359	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:28947114	MAXO:0000065	aerobic exercise therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:28371942	MAXO:0000065	aerobic exercise therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:28947117	MAXO:0001351	occupational therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:29143208	MAXO:0000021	palliative care	HP:0000118	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:31907286	MAXO:0000011	physical therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:28628549	MAXO:0000011	physical therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:31907286	MAXO:0000011	physical therapy	HP:0001288	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:34291654	MAXO:0000021	palliative care	HP:0000118	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:35698434	MAXO:0000065	aerobic exercise therapy	HP:0031058	prevents	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:35698434	MAXO:0000065	aerobic exercise therapy	HP:0001288	prevents	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:35698434	MAXO:0000065	aerobic exercise therapy	HP:0003546	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:27747393	MAXO:0000065	aerobic exercise therapy	HP:0000118	prevents	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:29089255	MAXO:0000021	palliative care	HP:0000118	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:29383957	MAXO:0000058	pharmacotherapy	HP:0002072	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:33852093	MAXO:0000090	enteral nutrition intake	HP:0000118	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:34291654	MAXO:0000021	palliative care	HP:0000716	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:34291654	MAXO:0000021	palliative care	HP:0011951	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:36429634	MAXO:0000065	aerobic exercise therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:36513779	MAXO:0000883	cognitive behavior therapy	HP:0100543	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:36706436	MAXO:0000021	palliative care	HP:0000118	treats	PCS					0000-0002-0736-9199		7/20/24
+MONDO:0007739	Huntington disease	PMID:8866495	MAXO:0000166	antipsychotic agent therapy	HP:0000709	treats	PCS					0000-0002-0736-9199		7/20/24

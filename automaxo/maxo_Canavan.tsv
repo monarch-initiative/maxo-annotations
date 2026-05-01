@@ -1,0 +1,9 @@
+disease_id	disease_name	source_id	maxo_id	maxo_name	hpo_id	relation	evidence	extension_id	extension_name	comment	other	author	last_updated	created
+MONDO:0010079	Canavan disease	PMID:11589315	MAXO:0000167	anticonvulsant agent therapy	HP:0001250	treats	PCS					0000-0002-0736-9199		2024-07-20
+MONDO:0010079	Canavan disease	PMID:12443821	MAXO:0000504	tracheostomy	HP:0002835	treats	PCS					0000-0002-0736-9199		2024-07-20
+MONDO:0010079	Canavan disease	PMID:12443821	MAXO:0000504	tracheostomy	HP:0002870	treats	PCS					0000-0002-0736-9199		2024-07-20
+MONDO:0010079	Canavan disease	PMID:19685155	MAXO:0000058	pharmacotherapy	HP:0000118	unknown	PCS					0000-0002-0736-9199		2024-07-20
+MONDO:0010079	Canavan disease	PMID:23253610	MAXO:0001001	gene therapy	HP:0000118	unknown	PCS					0000-0002-0736-9199		2024-07-20
+MONDO:0010079	Canavan disease	PMID:16532510	MAXO:0001001	gene therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-20
+MONDO:0010079	Canavan disease	PMID:16568890	MAXO:0001001	gene therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-20
+MONDO:0010079	Canavan disease	PMID:10894210	MAXO:0001001	gene therapy	HP:0000118	treats	PCS					0000-0002-0736-9199		2024-07-20
