@@ -2,3 +2,7 @@
 docs/_static/.github/
 docs/build/
 docs/venv/
+.venv/
+scripts/am_summary.tex
+scripts/am_summary.tsv
+scripts/amvenv/
