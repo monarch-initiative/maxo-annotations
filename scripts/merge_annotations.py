@@ -24,6 +24,11 @@ def read_tsv(path: Path) -> tuple[list[str], list[dict]]:
     return header, rows
 
 
+def normalize(row: dict) -> dict:
+    row["relation"] = row.get("relation", "").strip().lower()
+    return row
+
+
 def row_key(row: dict) -> tuple:
     return tuple(row.get(k, "").strip() for k in DEDUP_KEY)
 
@@ -33,6 +38,9 @@ if __name__ == "__main__":
 
     poet_header, poet_rows = read_tsv(POET_FILE)
     _, automaxo_rows = read_tsv(AUTOMAXO_FILE)
+
+    poet_rows = [normalize(r) for r in poet_rows]
+    automaxo_rows = [normalize(r) for r in automaxo_rows]
 
     seen = {row_key(r) for r in poet_rows}
 

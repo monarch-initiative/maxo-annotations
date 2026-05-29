@@ -203,7 +203,7 @@ def write_automaxo_annotations(
                     e.maxo_id,
                     e.maxo_name,
                     e.hpo_id,
-                    e.relation.upper(),
+                    e.relation.lower(),
                     e.evidence,
                     e.extension_id,
                     e.extension_name,
