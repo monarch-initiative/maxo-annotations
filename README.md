@@ -5,18 +5,17 @@ Repository for Medical Action Ontology (MAxO) therapeutic annotations for rare d
 ## Repository Structure
 
 ```
-annotations/
-  maxo-annotations.tsv       # Primary annotations pulled from POET curation system
-  automaxo-annotations.tsv   # Annotations derived from automaxo pipeline
-  merged-annotations.tsv     # Merged output of all sources (generated)
-  maxo_diagnostic_annotations.tsv
+data/
+  poet/
+    maxo-annotations.tsv              # Primary annotations from POET curation system
+    maxo_diagnostic_annotations.tsv
+  automaxo/
+    maxo_<Disease>.tsv                # Per-disease automaxo curation source files
+    automaxo-annotations.tsv         # Generated from automaxo source files
+  merged-annotations.tsv             # Final merged output (generated)
 
-automaxo/
-  maxo_<Disease>.tsv         # Per-disease automaxo curation files
-
+src/maxoa/                            # CLI package
 scripts/
-  summarize_automaxo.py      # Converts automaxo/ files → automaxo-annotations.tsv
-  merge_annotations.py       # Merges all annotation sources → merged-annotations.tsv
   update_obsolete_maxo_terms.py
 ```
 
@@ -46,28 +45,31 @@ All annotation files share the same TSV schema (15 columns):
 
 ### 1. Pull fresh POET annotations
 
-Replace `annotations/maxo-annotations.tsv` with the latest export from the POET curation system.
+Replace `data/poet/maxo-annotations.tsv` with the latest export from the POET curation system.
 
 ### 2. Generate automaxo annotations
 
 ```bash
-python scripts/summarize_automaxo.py -a automaxo/
+maxoa generate automaxo
 ```
 
-Reads all `automaxo/*.tsv` files, deduplicates, and writes `annotations/automaxo-annotations.tsv`. Also writes a per-disease summary to `am_summary.tsv`.
+Reads all `data/automaxo/*.tsv` files, deduplicates, and writes `data/automaxo/automaxo-annotations.tsv`. Also writes a per-disease summary to `am_summary.tsv`.
 
-Add `--dry-run` to check for overlaps without writing.
+Options:
+- `-a` / `--automaxo-dir` — override source directory (default: `data/automaxo/`)
+- `-o` / `--out` — override summary output path
+- `--dry-run` — check overlaps without writing
 
 ### 3. Merge
 
 ```bash
-python scripts/merge_annotations.py
+maxoa merge
 ```
 
-Merges `maxo-annotations.tsv` and `automaxo-annotations.tsv`, deduplicating on `(disease_id, source_id, maxo_id, hpo_id)`. Reports any overlaps. Writes `annotations/merged-annotations.tsv`.
+Merges POET and automaxo annotations, deduplicating on `(disease_id, source_id, maxo_id, hpo_id)`. Reports overlaps. Writes `data/merged-annotations.tsv`.
 
 Custom output path:
 
 ```bash
-python scripts/merge_annotations.py path/to/output.tsv
+maxoa merge path/to/output.tsv
 ```
