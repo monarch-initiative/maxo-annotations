@@ -7,12 +7,12 @@ Repository for Medical Action Ontology (MAxO) therapeutic annotations for rare d
 ```
 data/
   poet/
-    maxo-annotations.tsv              # Primary annotations from POET curation system
+    annotations.tsv                    # Primary annotations from POET curation system
     maxo_diagnostic_annotations.tsv
   automaxo/
     maxo_<Disease>.tsv                # Per-disease automaxo curation source files
     automaxo-annotations.tsv         # Generated from automaxo source files
-  merged-annotations.tsv             # Final merged output (generated)
+  maxo-annotations.tsv                # Final merged output (generated)
 
 src/maxoa/                            # CLI package
 scripts/
@@ -45,7 +45,7 @@ All annotation files share the same TSV schema (15 columns):
 
 ### 1. Pull fresh POET annotations
 
-Replace `data/poet/maxo-annotations.tsv` with the latest export from the POET curation system.
+Replace `data/poet/annotations.tsv` with the latest export from the POET curation system.
 
 ### 2. Generate automaxo annotations
 
@@ -66,7 +66,7 @@ Options:
 maxoa merge
 ```
 
-Merges POET and automaxo annotations, deduplicating on `(disease_id, source_id, maxo_id, hpo_id)`. Reports overlaps. Writes `data/merged-annotations.tsv`.
+Merges POET and automaxo annotations, deduplicating on `(disease_id, source_id, maxo_id, hpo_id)`. Reports overlaps. Writes `data/maxo-annotations.tsv`.
 
 Custom output path:
 

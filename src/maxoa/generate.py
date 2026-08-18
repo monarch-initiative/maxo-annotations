@@ -13,7 +13,7 @@ from maxoa.terms import apply_term_updates, log_replacement_summary
 logger = logging.getLogger(__name__)
 
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
-EXISTING_ANNOT_FILE = REPO_ROOT / "data" / "poet" / "maxo-annotations.tsv"
+EXISTING_ANNOT_FILE = REPO_ROOT / "data" / "poet" / "annotations.tsv"
 AUTOMAXO_ANNOT_FILE = REPO_ROOT / "data" / "automaxo" / "automaxo-annotations.tsv"
 
 ANNOT_COLUMNS = [

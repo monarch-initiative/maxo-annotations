@@ -6,9 +6,9 @@ import click
 from maxoa.terms import apply_term_updates, log_replacement_summary
 
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
-POET_FILE = REPO_ROOT / "data" / "poet" / "maxo-annotations.tsv"
+POET_FILE = REPO_ROOT / "data" / "poet" / "annotations.tsv"
 AUTOMAXO_FILE = REPO_ROOT / "data" / "automaxo" / "automaxo-annotations.tsv"
-DEFAULT_OUT = REPO_ROOT / "data" / "merged-annotations.tsv"
+DEFAULT_OUT = REPO_ROOT / "data" / "maxo-annotations.tsv"
 
 DEDUP_KEY = ("disease_id", "source_id", "maxo_id", "hpo_id")
 
@@ -35,7 +35,7 @@ def _normalize(row: dict) -> dict:
 def merge(output: Path) -> None:
     """Merge all annotation sources into a single deduplicated file.
 
-    OUTPUT defaults to annotations/merged-annotations.tsv.
+    OUTPUT defaults to data/maxo-annotations.tsv.
     """
     poet_header, poet_rows = _read_tsv(POET_FILE)
     _, automaxo_rows = _read_tsv(AUTOMAXO_FILE)
